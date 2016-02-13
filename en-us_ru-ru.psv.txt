@@ -1,0 +1,3 @@
+Как добавить тему|how2add-ru.html
+Society(Общество)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Society.psv.txt
+Cinema(Кино)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Cinema.psv.txt
