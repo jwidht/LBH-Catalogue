@@ -1,3 +1,33 @@
 Как добавить тему|how2add-ru.html
-Society(Общество)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Society.psv.txt
-Cinema(Кино)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Cinema.psv.txt
+Аэропорт(airport)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/airport.psv.txt
+Животные(animals)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Animals.psv.txt
+Комната ребенка(baby's room)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Babysroom.psv.txt
+Ванная(bathroom)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/bathroom.psv.txt
+Спальня(bedroom)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/bedroom.psv.txt
+Тело(body)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/body.psv.txt
+Машина(car)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/car.psv.txt
+Характер(character)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/character.psv.txt
+Кино(cinema)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Cinema.psv.txt
+Город(city)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/city.psv.txt
+Косметика(cosmetics)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Cosmetics.psv.txt
+Жильё(dwelling)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Dwellingy.psv.txt
+Образование(education)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Education.psv.txt
+Защита окр среды(env protection)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/EnvironmentProtection.psv.txt
+Семья(family)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/family.psv.txt
+Флора(flora)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Flora.psv.txt
+Еда(food)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Food.psv.txt
+Уборка(home cleaning)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/HomeCleaning.psv.txt
+Отель(hotel)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Hotel..psv.txt
+Болезни(illnesses)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/illnesses.psv.txt
+Кух Утварь(kitchenware)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Kitchenware.psv.txt
+Закон(law)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Law.psv.txt
+Медицина(medicalaid)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Medicalaid.psv.txt
+Музыка(music)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Music.psv.txt
+Профессии(professions)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/professions.psv.txt
+Транспорт(transport)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/PublicTransportation.psv.txt
+Школа(school)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/school.psv.txt
+Погода(weather)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/SeasonsWeather.psv.txt
+Общество(society)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/society.psv.txt
+Спорт(sport)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/sport.psv.txt
+Канцтовары(stationary)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Stationery.psv.txt
+Театр(theater)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/theater.psv.txt
