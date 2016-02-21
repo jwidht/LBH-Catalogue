@@ -1,2 +1,2 @@
 How to add a topic|how2add-en.html
-Toefl 1|https://raw.githubusercontent.com/jwidht/En-US_en-US/master/toefl.ank128.txt
+Toefl 1|https://raw.githubusercontent.com/jwidht/En-US_en-US/master/toefl.anki128.txt
