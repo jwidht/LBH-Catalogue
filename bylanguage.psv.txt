@@ -3,3 +3,4 @@ Russian(Russia)-Russian(Russia)|ru-ru_ru-ru.psv.txt
 English(US)-Russian(RU)|en-us_ru-ru.psv.txt
 English(US)-English(US)|en-us_en-us.psv.txt
 Japanese(JAPAN)-English(US)|ja-jp_en-us.psv.txt
+Korean(Korea)-English(US)|ko-kr_en-us.psv.txt
