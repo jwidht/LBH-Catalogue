@@ -1,0 +1,2 @@
+Как добавить тему|how2add-ru.html
+Основные фразы(Phrases de base)|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/basic1.psv.txt
