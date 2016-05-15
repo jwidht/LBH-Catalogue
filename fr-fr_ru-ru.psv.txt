@@ -1,3 +1,4 @@
 Как добавить тему|how2add-ru.html
 Основные фразы(Phrases de base)|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/basic1.psv.txt
 Знакомство (Connaissance)|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/intro.psv.txt
+В городе (dans la ville)|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/city.psv.txt
