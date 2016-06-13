@@ -1,2 +1,3 @@
 How to add a topic|how2add-en.html
 Navigation|https://raw.githubusercontent.com/jwidht/th-TH_en-US/master/navigation.psv.txt
+Emotions|https://raw.githubusercontent.com/jwidht/th-TH_en-US/master/emotions.psv.txt
