@@ -6,3 +6,4 @@ Japanese(Japan)-English(US)|ja-jp_en-us.psv.txt
 Korean(Korea)-English(US)|ko-kr_en-us.psv.txt
 English(US)-Chinese(China)|en-us_zh-cn.psv.txt
 French(France)-Russian(RU)|fr-fr_ru-ru.psv.txt
+Thai(Thailand)-English(US)|th-th_en-us.psv.txt
