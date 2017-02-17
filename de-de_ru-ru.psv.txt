@@ -1,0 +1,5 @@
+Как добавить тему|how2add-ru.html
+Топ 200|https://raw.githubusercontent.com/jwidht/de-DE_ru-RU/master/top200.psv.txt
+Фразы-1|https://raw.githubusercontent.com/jwidht/de-DE_ru-RU/master/phrases.psv.txt
+Красивые слова и фразы|https://raw.githubusercontent.com/jwidht/de-DE_ru-RU/master/beautiful.psv.txt
+
