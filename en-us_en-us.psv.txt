@@ -4,3 +4,4 @@ Toefl, Set 2|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/toefl2.
 Toefl, Set 3|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/toefl3.psv.txt
 Git Commands|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/git.psv.txt
 FIX Order Types|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/fixOrderTypes.psv.txt
+"Very" words|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/verys.psv.txt
