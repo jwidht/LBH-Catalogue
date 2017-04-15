@@ -31,3 +31,6 @@
 Спорт(sport)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/sport.psv.txt
 Канцтовары(stationary)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Stationery.psv.txt
 Театр(theater)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/theater.psv.txt
+Слова №1 (Words-1)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/newwords1.psv.txt
+Время(timeperiods)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/timeperiods.psv.txt
+Глаголы 1(verbs-1)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/verbs1.psv.txt
