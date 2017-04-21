@@ -1,1 +1,2 @@
 Как добавить тему|how2add-ru.html
+Как пользоваться LBH|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/lbh.psv.txt
