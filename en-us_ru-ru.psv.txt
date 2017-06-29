@@ -34,3 +34,5 @@
 Слова №1 (Words-1)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/newwords1.psv.txt
 Время(timeperiods)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/timeperiods.psv.txt
 Глаголы 1(verbs-1)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/verbs1.psv.txt
+Fantasy movie(Фантастический фильм)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/fantasy.psv.txt
+Love words(Слова любви)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/love.psv.txt
