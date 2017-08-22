@@ -2,3 +2,4 @@
 A1-Урок 1(Lesson 1)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson1.psv.txt
 A1-Урок 2(Lesson 2)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson2.psv.txt
 A1-Урок 3(Lesson 3)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson3.psv.txt
+A1-Урок 4(Lesson 4)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson4.psv.txt
