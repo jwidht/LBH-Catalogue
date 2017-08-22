@@ -8,3 +8,4 @@ English(US)-Chinese(China)|en-us_zh-cn.psv.txt
 French(France)-Russian(RU)|fr-fr_ru-ru.psv.txt
 Thai(Thailand)-English(US)|th-th_en-us.psv.txt
 German(Germany)-Russian(RU)|de-de_ru-ru.psv.txt
+Japanese(Japan)-Russian(RU)|ja-jp_ru-ru.psv.txt
