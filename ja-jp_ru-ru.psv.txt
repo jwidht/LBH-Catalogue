@@ -4,3 +4,8 @@ A1-Урок 2(Lesson 2)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/mas
 A1-Урок 3(Lesson 3)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson3.psv.txt
 A1-Урок 4(Lesson 4)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson4.psv.txt
 A1-Урок 5(Lesson 5)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson5.psv.txt
+A1-Урок 6(Lesson 6)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson6.psv.txt
+A1-Урок 7(Lesson 7)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson7.psv.txt
+A1-Урок 8(Lesson 8)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson8.psv.txt
+A1-Урок 9(Lesson 9)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson9.psv.txt
+A1-Урок 10(Lesson 10)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson10.psv.txt

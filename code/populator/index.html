@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Learn By Heart Web Card Populator</title> 
+        <meta charset="utf-8">
+		<style>
+div.solid {border-style: solid;}
+pre.inset {border-style: inset;}
+
+</style>
+    </head>
+    <body>
+	<h3>How to use this form<a href="index-ru.html"> (Русская версия) </a></h3>
+<ul>
+<li>Populate the question and the answer text boxes. Press "Add Card to file". This will add one card to the import file. Repeat this step for each card. 
+<li>Change the quiz properties and press "Add line with properties". You can only do it once, the button will become disabled after the first click
+<li>Press "Copy content to clipboard"
+<li>Create a textfile (use notepad or another text-only editor of your choice). 
+Paste the content into the notepad window and save as "yourfilename.psv.txt". Important: When saving, set the file encoding to "UTF-8". That's it, you have the file to import.
+<li>Copy the file to your phone ( for iPhone, connect the phone, open iTunes, select the phone, Applications, click LBH, drag and drop the file to the LBH files area )
+<li>On your phone, click Import - from Computer - select the file - Confirm.
+</ul>
+<div>
+<a href="https://translate.google.com/" target="_blank">Open Google Translate</a>
+<table>
+<tr>
+<td>
+<form id="populator">
+<table>
+<tr><th>Question</th><th>Answer</th> </tr>
+<tr><td>
+<textarea name="q" cols="40" rows="15" placeholder="Type or paste the question here"></textarea>
+</td>
+<td>
+<textarea  name="a" cols="40" rows="15" placeholder="Type or paste the answer here"></textarea>
+</td>
+</tr>
+</table>
+</form>
+<button  onclick="javascript:addCard()">Add card to file</button>
+
+</td>
+<td>
+<form id="populator_prop">
+<table>
+<tr><th colspan="2">Quiz Properties</th></tr>
+<tr><td>Name</td><td><input type="text" name="quizname" value="My Quiz"/></td></tr>
+<tr><td>Question Fontsize</td><td><input type="text" name="qfont" value="40" onkeypress='return event.charCode >= 48 && event.charCode <= 57'></td></tr>
+<tr><td>Answer Fontsize</td><td><input type="text" name="afont" value="40" onkeypress='return event.charCode >= 48 && event.charCode <= 57'></td></tr>
+<tr><td>Question Language Code</td><td><input type="text" name="qlang" value="en-US"><a href="langcodes.html" target="_blank">Lookup</a>   </td></tr>
+<tr><td>Answer Language Code</td><td><input type="text"qfont name="alang" value="ru-RU"><a href="langcodes.html" target="_blank">Lookup</a></td></tr>
+</table>
+</form>
+<button id="props" onclick="javascript:addProperties()">Add line with properties</button>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+
+<script>
+function addCard()
+{
+   populator.q.value = populator.q.value.trim().replace(/[\n\r]/g, '~~').replace(/[\|]/g, ':');
+   populator.a.value = populator.a.value.trim().replace(/[\n\r]/g, '~~').replace(/[\|]/g, ':');
+
+   //document.getElementById("file").innerHTML = populator.q.value + "|" + populator.a.value + "\r\n" + document.getElementById("file").innerHTML  ;
+   document.getElementById("filecontent").value = populator.q.value + "|" + populator.a.value + "\r\n" + document.getElementById("filecontent").value;
+   populator.q.value = "";
+   populator.a.value = "";
+}
+function addProperties()
+{
+   var quizname = populator_prop.quizname.value.trim().replace(/[\|]/g, ':');
+   var qfont = populator_prop.qfont.value.trim();
+   var afont = populator_prop.afont.value.trim();
+   var qlang = populator_prop.qlang.value.trim().replace(/[\|]/g, ':');
+   var alang = populator_prop.alang.value.trim().replace(/[\|]/g, ':');
+   var line = "quiz.properties|name=" + quizname + "~~q_lang=" + qlang + "~~a_lang="+alang +"~~fontsize_q="+qfont+"~~fontsize_a="+afont;
+   //document.getElementById("file").innerHTML = line + "\r\n" + document.getElementById("file").innerHTML  ;
+   document.getElementById("filecontent").value = line + "\r\n" + document.getElementById("filecontent").value;
+   document.getElementById("props").disabled = true;
+}
+var clip = function(el) {
+  var range = document.createRange();
+  range.selectNodeContents(el);
+  var sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+};
+function copyFileToClipboard()
+{
+//var contentPre = document.getElementById("file");
+//clip(document.getElementById("file"));
+document.getElementById("filecontent").select();
+document.execCommand("copy");
+}
+</script>
+  <p>
+The content of your file to import is below. 
+ <br/> Note: The pipe character "|" will be replaced everywhere with colon ":"</p>
+<button onclick="javascript:copyFileToClipboard()">Copy content to clipboard</button><br/>
+<!--pre class="inset" id="file"></pre-->
+<textarea id="filecontent" cols="100" rows="15" style="white-space: nowrap; overflow: auto;" placeholder="<The content of the file to import will be here>"></textarea>
+
+</body>
+</html>
