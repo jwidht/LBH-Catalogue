@@ -9,3 +9,11 @@ A1-Урок 7(Lesson 7)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/mas
 A1-Урок 8(Lesson 8)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson8.psv.txt
 A1-Урок 9(Lesson 9)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson9.psv.txt
 A1-Урок 10(Lesson 10)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson10.psv.txt
+A1-Урок 11(Lesson 11)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson11.psv.txt
+A1-Урок 12(Lesson 12)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson12.psv.txt
+A1-Урок 13(Lesson 13)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson13.psv.txt
+A1-Урок 14(Lesson 14)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson14.psv.txt
+A1-Урок 15(Lesson 15)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson15.psv.txt
+A1-Урок 16(Lesson 16)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson16.psv.txt
+A1-Урок 17(Lesson 17)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson17.psv.txt
+A1-Урок 18(Lesson 18)|https://raw.githubusercontent.com/jwidht/ja-JP_ru-RU/master/a1-lesson18.psv.txt
