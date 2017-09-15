@@ -1,0 +1,2 @@
+Как добавить тему|how2add-ru.html
+Иероглифические ключи|https://raw.githubusercontent.com/jwidht/zh-CN_ru-RU/master/keytable.psv.txt
