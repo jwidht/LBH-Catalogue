@@ -36,3 +36,6 @@
 Глаголы 1(verbs-1)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/verbs1.psv.txt
 Фантастика(Fantasy)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/fantasy.psv.txt
 Слова любви(Love words)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/love.psv.txt
+Продвинутый 01(Advanced 01)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Advanced01.psv.txt
+TOEFL 01|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/toefl01.psv.txt
+TOEFL 02|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/toefl02.psv.txt
