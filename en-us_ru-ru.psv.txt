@@ -39,3 +39,4 @@
 Продвинутый 01(Advanced 01)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Advanced01.psv.txt
 TOEFL 01|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/toefl01.psv.txt
 TOEFL 02|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/toefl02.psv.txt
+Продвинутый 02(Advanced 02)|https://raw.githubusercontent.com/jwidht/En-US_Ru-RU/master/Advanced02.psv.txt
