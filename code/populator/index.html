@@ -12,7 +12,8 @@ pre.inset {border-style: inset;}
     <body>
 	<h3>How to use this form<a href="index-ru.html"> (Русская версия) </a></h3>
 <ul>
-<li>Populate the question and the answer text boxes. Press "Add Card to file". This will add one card to the import file. Repeat this step for each card. 
+<li>Populate the question and the answer text boxes. Press "Add Card to file". This will add one card to the import file. Repeat this step for each card. <br/>
+<font color="red"> IMPORTANT! Do NOT hit the refresh button of your browser (or F5 or reload the page otherwise) while you are adding cards. It will empty all fields and completely reset the form.</font>
 <li>Change the quiz properties and press "Add line with properties". You can only do it once, the button will become disabled after the first click
 <li>Press "Copy content to clipboard"
 <li>Create a textfile (use notepad or another text-only editor of your choice). 
@@ -105,6 +106,13 @@ The content of your file to import is below.
 <button onclick="javascript:copyFileToClipboard()">Copy content to clipboard</button><br/>
 <!--pre class="inset" id="file"></pre-->
 <textarea id="filecontent" cols="100" rows="15" style="white-space: nowrap; overflow: auto;" placeholder="<The content of the file to import will be here>"></textarea>
+
+<br/><br/>
+<font color="blue" size="1">
+<br/>
+<a href="https://github.com/jwidht/LBH-Catalogue/tree/master/code/populator">The code of this webpage</a> is open source. Feel free to improve it.
+
+</font>
 
 </body>
 </html>
