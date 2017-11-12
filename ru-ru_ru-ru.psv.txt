@@ -2,3 +2,4 @@
 Как пользоваться LBH|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/lbh.psv.txt
 ПДД 2017|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/pdd2017.psv.txt
 Пайка контактов|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/paika.psv.txt
+Полимеры|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/polimery.psv.txt
