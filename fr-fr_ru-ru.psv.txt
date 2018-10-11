@@ -2,3 +2,4 @@
 Основные фразы(Phrases de base)|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/basic1.psv.txt
 Знакомство (Connaissance)|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/intro.psv.txt
 В городе (dans la ville)|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/city.psv.txt
+Popova-Kazakova 01|https://raw.githubusercontent.com/jwidht/fr-FR_ru-RU/master/popova-kazakova.psv.txt
