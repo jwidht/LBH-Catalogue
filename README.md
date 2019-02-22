@@ -1,11 +1,17 @@
 # LBH-Catalogue
 This is the catalogue of the app "Learn By Heart" - Каталог приложения "Наизусть".
 
-Other links:
+# Other links:
 
-More information about the app - дополнительная информация о приложении:
+## More information about the app - дополнительная информация о приложении:
+
 http://jwinfo.altervista.org/john/learnbyheart/index.html
 
-Privacy policy - о данных пользователя:
-http://jwinfo.altervista.org/john/learnbyheart/privacy.htm
+## Privacy policy - о данных пользователя:
+
+http://jwinfo.altervista.org/john/learnbyheart/privacypolicy.html
+
+## The link to use to populate quizzes from the computer - страница для создания тестов на компьютере:
+
+http://jwinfo.altervista.org/lbh/
 
