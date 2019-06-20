@@ -8,3 +8,4 @@ FIX Order Types|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/fixO
 How to use LBH|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/lbh.psv.txt
 Unity 3d|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/unity3d.psv.txt
 Popular Supplements|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/popularsupplements.psv.txt
+Supplements|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/supplements.psv.txt
