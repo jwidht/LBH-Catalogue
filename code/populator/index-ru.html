@@ -1,122 +1,116 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>ВЕБ Мастер создания наборов карточек</title> 
-        <meta charset="utf-8">
-		<style>
-div.solid {border-style: solid;}
-pre.inset {border-style: inset;}
 
-</style>
-    </head>
-    <body>
-	<h3>Как пользоваться<a href="index.html"> (English Version) </a></h3>
-<ul>
-<li>Заполните текст вопроса и ответа. Нажмите "добавить карточку". Карточка будет добавлена к файлу для импортирования. Повторите это для всех карточек.  <br/>
-<font color="red"> ВАЖНО! Не обновляйте эту страницу (или F5 или перезагружайте эту страницу по-другому) во время добавления карточек. Это полностью сбросит все поля.</font>
+<head>
+  <title>ВЕБ Мастер создания наборов карточек</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="styles.css">
+  <script type="text/javascript" src="functions.js"></script>
+</head>
 
-<li>Заполните свойства набора (карточек) и нажмите "добавить свойства набора". Это можно сделать только один раз, кнопка отключится после первого нажатия.
-<li>Нажмите "Скопировать"
-<li>Для добавления в открытый репозиторий: вставьте скопированное в имейл и отошлите на адрес idht@yahoo.com<br/>
-Позже из репозитория можно будет сгрузить, как показано в этом видео (немое кино): 
-<br/><a target="_blank" href="https://www.youtube.com/embed/LZpSHhYOt0w">https://www.youtube.com/embed/LZpSHhYOt0w</a>
-<li>Для импорта в телефон через компьютер: Создайте текстовый файл (в блокноте или другом редакторе простого текста). Вставьте содержание буфера обмена в окно блокнота и сохраните как "ваше-имя-файла.psv.txt". 
-Важно: во время сохранения выберите кодировку UTF-8.
-Готово, этот файл можно импортировать.
-<li>Скопируйте файл на телефон ( для iPhone: присоедините к компу, откройте iTunes,выберите телефон, приложения (Applications), выберите LBH, перетащите файл на в окно файлов LBH )
-<li>На телефоне, нажмите Импорт - с Компьютера - выберите файл - подтвердите.
-</ul>
-<div>
-<a href="https://translate.google.com/" target="_blank">Открыть Переводчик Google</a>
-<table>
-<tr>
-<td>
-<form id="populator">
-<table>
-<tr><th>Вопрос</th><th>Ответ</th> </tr>
-<tr><td>
-<textarea name="q" cols="40" rows="15" placeholder="Напечатайте или вставьте сюда вопрос"></textarea>
-</td>
-<td>
-<textarea  name="a" cols="40" rows="15" placeholder="Напечатайте или вставьте сюда ответ"></textarea>
-</td>
-</tr>
-</table>
-</form>
-<button  onclick="javascript:addCard()">добавить карточку</button>
+<body>
+  <h3>Как пользоваться<a href="index.html"> (English Version) </a></h3>
+  <ul>
+    <li>Заполните текст вопроса и ответа. Нажмите "добавить карточку". Карточка будет добавлена к файлу для
+      импортирования. Повторите это для всех карточек. <br />
+      <font color="red"> ВАЖНО! Не обновляйте эту страницу (или F5 или перезагружайте эту страницу по-другому) во время
+        добавления карточек. Это полностью сбросит все поля.</font>
 
-</td>
-<td>
-<form id="populator_prop">
-<table>
-<tr><th colspan="2">Свойства Набора Карточек</th></tr>
-<tr><td>Имя</td><td><input type="text" name="quizname" value="My Quiz"/></td></tr>
-<tr><td>Размер шрифта вопроса</td><td><input type="text" name="qfont" value="40" onkeypress='return event.charCode >= 48 && event.charCode <= 57'></td></tr>
-<tr><td>Размер шрифта ответа</td><td><input type="text" name="afont" value="40" onkeypress='return event.charCode >= 48 && event.charCode <= 57'></td></tr>
-<tr><td>Код языка вопроса</td><td><input type="text" name="qlang" value="en-US"><a href="langcodes.html" target="_blank">Найти</a>   </td></tr>
-<tr><td>Код языка ответа</td><td><input type="text"qfont name="alang" value="ru-RU"><a href="langcodes.html" target="_blank">Найти</a></td></tr>
-</table>
-</form>
-<button id="props" onclick="javascript:addProperties()">добавить свойства набора</button>
+    <li>Заполните свойства набора (карточек) и нажмите "добавить свойства набора". Это можно сделать только один раз,
+      кнопка отключится после первого нажатия.
+    <li>Нажмите "Скопировать"
+    <li>Для добавления в открытый репозиторий: вставьте скопированное в имейл и отошлите на адрес idht@yahoo.com<br />
+      <!-- Позже из репозитория можно будет сгрузить, как показано в этом видео (немое кино):
+      <br /><a target="_blank"
+        href="https://www.youtube.com/embed/LZpSHhYOt0w">https://www.youtube.com/embed/LZpSHhYOt0w</a> -->
+    <li>Для импорта в телефон через компьютер: Создайте текстовый файл (в блокноте или другом редакторе простого
+      текста). Вставьте содержание буфера обмена в окно блокнота и сохраните как "ваше-имя-файла.psv.txt".
+      Важно: во время сохранения выберите кодировку UTF-8.
+      Готово, этот файл можно импортировать.
+    <li>Скопируйте файл на телефон ( для iPhone: присоедините к компу, откройте iTunes,выберите телефон, приложения
+      (Applications), выберите LBH, перетащите файл на в окно файлов LBH )
+    <li>На телефоне, нажмите Импорт - с Компьютера - выберите файл - подтвердите.
+  </ul>
+  <div>
+    <a href="https://translate.google.com/" target="_blank">Открыть Переводчик Google</a>
+    <table>
+      <tr>
+        <td>
+          <form id="populator">
+            <table>
+              <tr>
+                <th>Вопрос</th>
+                <th>Ответ</th>
+              </tr>
+              <tr>
+                <td>
+                  <textarea name="q" cols="40" rows="15" placeholder="Напечатайте или вставьте сюда вопрос"></textarea>
+                </td>
+                <td>
+                  <textarea name="a" cols="40" rows="15" placeholder="Напечатайте или вставьте сюда ответ"></textarea>
+                </td>
+              </tr>
+            </table>
+          </form>
+          <button onclick="javascript:addCard()">добавить карточку</button>
 
-</td>
-</tr>
-</table>
+        </td>
+        <td>
+          <form id="populator_prop">
+            <table>
+              <tr>
+                <th colspan="2">Свойства Набора Карточек</th>
+              </tr>
+              <tr>
+                <td>Имя</td>
+                <td><input type="text" name="quizname" value="My Quiz" /></td>
+              </tr>
+              <tr>
+                <td>Размер шрифта вопроса</td>
+                <td><input type="text" name="qfont" value="40"
+                    onkeypress='return event.charCode >= 48 && event.charCode <= 57'></td>
+              </tr>
+              <tr>
+                <td>Размер шрифта ответа</td>
+                <td><input type="text" name="afont" value="40"
+                    onkeypress='return event.charCode >= 48 && event.charCode <= 57'></td>
+              </tr>
+              <tr>
+                <td>Код языка вопроса</td>
+                <td><input type="text" name="qlang" value="en-US"><a href="langcodes.html" target="_blank">Найти</a>
+                </td>
+              </tr>
+              <tr>
+                <td>Код языка ответа</td>
+                <td><input type="text" qfont name="alang" value="ru-RU"><a href="langcodes.html"
+                    target="_blank">Найти</a></td>
+              </tr>
+            </table>
+          </form>
+          <button id="props" onclick="javascript:addProperties()">добавить свойства набора</button>
 
-</div>
+        </td>
+      </tr>
+    </table>
 
+  </div>
 
-
-<script>
-function addCard()
-{
-   populator.q.value = populator.q.value.trim().replace(/[\n\r]/g, '~~').replace(/[\|]/g, ':');
-   populator.a.value = populator.a.value.trim().replace(/[\n\r]/g, '~~').replace(/[\|]/g, ':');
-
-   //document.getElementById("file").innerHTML = populator.q.value + "|" + populator.a.value + "\r\n" + document.getElementById("file").innerHTML  ;
-   document.getElementById("filecontent").value = populator.q.value + "|" + populator.a.value + "\r\n" + document.getElementById("filecontent").value;
-   populator.q.value = "";
-   populator.a.value = "";
-}
-function addProperties()
-{
-   var quizname = populator_prop.quizname.value.trim().replace(/[\|]/g, ':');
-   var qfont = populator_prop.qfont.value.trim();
-   var afont = populator_prop.afont.value.trim();
-   var qlang = populator_prop.qlang.value.trim().replace(/[\|]/g, ':');
-   var alang = populator_prop.alang.value.trim().replace(/[\|]/g, ':');
-   var line = "quiz.properties|name=" + quizname + "~~q_lang=" + qlang + "~~a_lang="+alang +"~~fontsize_q="+qfont+"~~fontsize_a="+afont;
-   //document.getElementById("file").innerHTML = line + "\r\n" + document.getElementById("file").innerHTML  ;
-   document.getElementById("filecontent").value = line + "\r\n" + document.getElementById("filecontent").value;
-   document.getElementById("props").disabled = true;
-}
-var clip = function(el) {
-  var range = document.createRange();
-  range.selectNodeContents(el);
-  var sel = window.getSelection();
-  sel.removeAllRanges();
-  sel.addRange(range);
-};
-function copyFileToClipboard()
-{
-//var contentPre = document.getElementById("file");
-//clip(document.getElementById("file"));
-document.getElementById("filecontent").select();
-document.execCommand("copy");
-}
-</script>
   <p>
-Содержание файла для импортирования находится ниже. 
- <br/> Примечание: Если есть, "|" будет заменена на ":"</p>
-<button onclick="javascript:copyFileToClipboard()">Скопировать</button><br/>
-<!--pre class="inset" id="file"></pre-->
-<textarea id="filecontent" cols="100" rows="15" style="white-space: nowrap; overflow: auto;" placeholder="<Содержимое файла будет здесь>"></textarea>
+    Содержание файла для импортирования находится ниже.
+    <br /> Примечание: Если есть, "|" будет заменена на ":"
+  </p>
+  <button onclick="javascript:copyFileToClipboard()">Скопировать</button><br />
+  <!--pre class="inset" id="file"></pre-->
+  <textarea id="filecontent" cols="100" rows="15" style="white-space: nowrap; overflow: auto;"
+    placeholder="<Содержимое файла будет здесь>"></textarea>
 
 
-<br/><br/>
-<font color="blue" size="1">
-<br/>
-<a href="https://github.com/jwidht/LBH-Catalogue/tree/master/code/populator">Код этой вебстраницы</a> является опен-сорс (те открытые исходники). Вы можете поучаствовать в его улучшении.
+  <br /><br />
+  <font color="blue" size="1">
+    <br />
+    <a href="https://github.com/jwidht/LBH-Catalogue/tree/master/code/populator">Код этой вебстраницы</a> является
+    опен-сорс (те открытые исходники). Вы можете поучаствовать в его улучшении.
 
 </body>
+
 </html>
