@@ -63,8 +63,8 @@ class App extends Component {
         <b>{counterpart.translate("title")}</b>
         &nbsp;
         <select value={this.state.lang} onChange={this.onLangChange}>
-          <option value="en">EN</option>
-          <option value="ru">RU</option>
+          <option value="en">English</option>
+          <option value="ru">Russian</option>
         </select>
         <Tabs>
           <div label={how2use}>
