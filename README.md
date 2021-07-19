@@ -1,10 +1,10 @@
-# LBH
+# LBH flashcards
 **This is the catalogue of the app "Learn By Heart"**  
 [:ru:] Каталог приложения "Наизусть".
 
 # Train
 
-**Try the online version of the app (made with React)**  
+**Try the online version of the flashcard app (made with React). It uses the flashcard files stored in this github repository**  
 [:ru:] попробуйте онлайн версию приложения:
 
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-web/build/)
