@@ -1,11 +1,11 @@
 # LBH
 **This is the catalogue of the app "Learn By Heart"**
-Каталог приложения "Наизусть".
+:ru: Каталог приложения "Наизусть".
 
 # Train
 
 **Try the React version of the app**
-попробуйте React версию приложения:
+:ru: попробуйте React версию приложения:
 
 * [Hosted on GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-web/build/)
 * [Hosted by Free Hosting Altervista](http://jwinfo.altervista.org/lbh-react-quiz/)
