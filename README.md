@@ -3,11 +3,10 @@ This is the catalogue of the app "Learn By Heart" - Каталог прилож�
 
 # Train
 
-## Try the React version of the app on a free hosting server - попробуйте React версию приложения на бесплатном хостинге:
+## Try the React version of the app - попробуйте React версию приложения:
 
-[Hosted on GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-web/build/)
-### OR
-[Hosted on Feee Hosting]http://jwinfo.altervista.org/lbh-react-quiz/
+* [Hosted on GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-web/build/)
+* [Hosted by Free Hosting Altervista](http://jwinfo.altervista.org/lbh-react-quiz/)
 
 ## Try the React version of the LBH card set populator on a free hosting server - попробуйте React версию создателя наборов карточек на бесплатном хостинге:
 
