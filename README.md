@@ -1,18 +1,19 @@
 # LBH
-**This is the catalogue of the app "Learn By Heart"**
-:ru: Каталог приложения "Наизусть".
+**This is the catalogue of the app "Learn By Heart"**  
+[:ru:] Каталог приложения "Наизусть".
 
 # Train
 
-**Try the React version of the app**
-:ru: попробуйте React версию приложения:
+**Try the React version of the app**  
+[:ru:] попробуйте React версию приложения:
 
 * [Hosted on GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-web/build/)
 * [Hosted by Free Hosting Altervista](http://jwinfo.altervista.org/lbh-react-quiz/)
 
 # Create flashcard sets
 
-Try the React version of the LBH card set populator on a free hosting server - попробуйте React версию создателя наборов карточек на бесплатном хостинге:
+**Try the React version of the LBH card set populator on a free hosting server**  
+[:ru:] попробуйте React версию создателя наборов карточек на бесплатном хостинге:
 
 * [Hosted on GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-populator-react/build/)
 * [Hosted by Free Hosting Altervista](http://jwinfo.altervista.org/lbh-react/)
