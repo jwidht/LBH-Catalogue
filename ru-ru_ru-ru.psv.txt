@@ -3,3 +3,4 @@
 ПДД 2017|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/pdd2017.psv.txt
 Пайка контактов|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/paika.psv.txt
 Полимеры|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/polimery.psv.txt
+Blender|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/blender01.psv.txt
