@@ -5,3 +5,7 @@
 Полимеры|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/polimery.psv.txt
 Blender|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/blender01.psv.txt
 Blender Textures|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/blender_texture.psv.txt
+Blender Object Mode|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/blender-object-mode.psv.txt
+Blender Edit Mode|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/blender-edit-mode.psv.txt
+Blender Rigging|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/blender-rigging.psv.txt
+Blender Tricks|https://raw.githubusercontent.com/jwidht/ru-RU_ru-RU/master/blender-tricks.psv.txt
