@@ -18,15 +18,11 @@
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-populator-react/build/)
 * [Hosted by Altervista](http://jwinfo.altervista.org/lbh-react/)
 
-### (OLD) More information about the mobile app - дополнительная информация о мобильном приложении:
+### (OLD, the app is not currently in AppStore) More information about the mobile app - дополнительная информация о мобильном приложении:
 
 http://jwinfo.altervista.org/john/learnbyheart/index.html
 
 ### (OLD) Privacy policy - о данных пользователя:
 
 http://jwinfo.altervista.org/john/learnbyheart/privacypolicy.html
-
-### (OLD) The link to use to populate quizzes from the computer - страница для создания тестов на компьютере:
-
-http://jwinfo.altervista.org/lbh/
 
