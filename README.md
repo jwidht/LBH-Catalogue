@@ -18,6 +18,8 @@
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-populator-react/build/)
 * [Hosted by Altervista](http://jwinfo.altervista.org/lbh-react/)
 
+# Mobile App
+
 ### (OLD, the app is not currently in AppStore) More information about the mobile app - дополнительная информация о мобильном приложении:
 
 http://jwinfo.altervista.org/john/learnbyheart/index.html
