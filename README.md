@@ -18,7 +18,8 @@
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-populator-react/build/)
 * [Hosted by Altervista](http://jwinfo.altervista.org/lbh-react/)
 
-# Mobile App (OLD, the app is not currently in AppStore)
+# Mobile App 
+*(Important Note: the app is not maintained and not currently in AppStore)*
 
 ###  More information about the mobile app
 <sub>[:ru:] Дополнительная информация о мобильном приложении:</sub>
