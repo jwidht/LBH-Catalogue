@@ -4,7 +4,7 @@
 
 # Train
 
-**Try the online version of the flashcard app (made with React). It uses the flashcard files stored in this github repository**  
+**The web version of the flashcard app (made with React). It uses the flashcard files stored in this github repository**  
 [:ru:] попробуйте онлайн версию приложения:
 
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-web/build/)
@@ -12,7 +12,7 @@
 
 # Create flashcard sets
 
-**Try the online version of the LBH flashcard file maker (made with React)**  
+**The web version of the LBH flashcard file maker (made with React)**  
 [:ru:] попробуйте онлайн версию создателя наборов карточек:
 
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-populator-react/build/)
