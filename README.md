@@ -1,32 +1,33 @@
 # LBH flashcards
 **This is the catalogue of the app "Learn By Heart"**  
-[:ru:] Каталог приложения "Наизусть".
+<sub>[:ru:] Каталог приложения "Наизусть".</sub>
 
 # Train
 
-**Try the online version of the flashcard app (made with React). It uses the flashcard files stored in this github repository**  
-[:ru:] попробуйте онлайн версию приложения:
+**The web version of the flashcard app (made with React). It uses the flashcard files stored in this github repository**  
+<sub>[:ru:] Приложение для самообучения:</sub>
 
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-web/build/)
 * [Hosted by Altervista](http://jwinfo.altervista.org/lbh-react-quiz/)
 
 # Create flashcard sets
 
-**Try the online version of the LBH flashcard file maker (made with React)**  
-[:ru:] попробуйте онлайн версию создателя наборов карточек:
+**The web version of the LBH flashcard file maker (made with React)**  
+<sub>[:ru:] Создание наборов карточек:</sub>
 
 * [Hosted by GitHub](https://jwidht.github.io/LBH-Catalogue/code/lbh-populator-react/build/)
 * [Hosted by Altervista](http://jwinfo.altervista.org/lbh-react/)
 
-### (OLD) More information about the mobile app - дополнительная информация о мобильном приложении:
+# Mobile App 
+*(Important Note: the app is not maintained and not currently in AppStore)*
+
+###  More information about the mobile app
+<sub>[:ru:] Дополнительная информация о мобильном приложении:</sub>
 
 http://jwinfo.altervista.org/john/learnbyheart/index.html
 
-### (OLD) Privacy policy - о данных пользователя:
+### Privacy policy
+<sub>[:ru:] Политика в отношении данных пользователя:</sub>
 
 http://jwinfo.altervista.org/john/learnbyheart/privacypolicy.html
-
-### (OLD) The link to use to populate quizzes from the computer - страница для создания тестов на компьютере:
-
-http://jwinfo.altervista.org/lbh/
 
