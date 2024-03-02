@@ -1,0 +1,2 @@
+quiz.properties|name=Blender Tricks~~q_lang=ru-RU~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Как сделать фигуру вращения?|Shift+A и выбрать кривую безье, из диалога выбрать Align To View если надо, в свойствах кривой выбрать 2D, отредактировать кривую в Edit Mode, E чтобы добавить еще вершин.  Добавить модификатор Screw, Потом меню Object->Convert->Mesh
