@@ -1,0 +1,38 @@
+quiz.properties|name=Theater~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Actor|актер
+Actress|актриса
+Backstage|за кулисами
+Ballet dancer|балерина/танцор
+Bar|буфет
+Box-office|билетная касса
+Cloakroom|гардероб
+Costume designer|художник по костюмам
+Curtain|занавес
+Curtain calls|вызовы на поклон
+Director|режиссер
+Drama|драма
+Dressing room|театральная уборная
+Foyer|фойе
+House|зал
+Make-up|грим/гримироваться
+Matinee|утренний спектакль или сеанс
+Rehearsal|репетиция
+Row|ряд (кресел)
+Scenery|декорации
+Stage|сцена
+Stalls|партер
+The balcony|балкон
+The box|ложа
+The curtain falls/drops/goes down|занавес опускается
+The curtain goes up/rises|занавес поднимается
+The curtains draw|занавес открывается
+The dress circle|бельэтаж
+The gallery|галёрка
+The lights go up/down|огни зажигаются/гаснут
+The musicians tune up|музыканты настраивают инструменты
+The pit|амфитеатр
+To applaud|аплодировать
+To put on/stage a play|поставить пьесу
+To rehearse|репетировать
+Usher|билетер, капельдинер
+Wing|кулиса

@@ -1,0 +1,99 @@
+quiz.properties|name=City~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Appliance store|магазин приборов
+Arch|арка
+Auto dealer/car dealer|автосалон
+Bakery|булочная
+Bank|банк
+Bar|бар
+Barber shop|парикмахерская
+Bench, seat|скамья
+Bridge|мост
+Buildings|Здания
+Bus station|вокзал
+Cafe|кафе
+Car park; am. parking lot|стоянка машин
+Cathedral|собор
+Church|церковь
+Cinema; am. (movie) theater, cinema|кино
+Circus|цирк
+Cleaners/dry cleaners|химчистка
+Clinic|клиника
+Clothing store|магазин одежды
+Concert hall|концертный зал
+Copy center|ксерокопировальный центр
+Corner|угол
+Crossroads, junction; am. intersection, crossroads|перекрёсток
+Curb|обочина тротуара / бордюрный камень
+Dead end, cul-de-sac, blind alley|тупик
+Delicatessen/ deli|магазин деликатесов
+Department store|универмаг
+Discount store|магазин уцененных товаров (дискаунт)
+Drugstore/pharmacy|аптека
+Entrance, way in|вход
+Escalator|эскалатор
+Exit, way out|выход
+Fire station; am. fire station/department, firehouse|пожарное депо
+Floor, storey; am. story|этаж
+Flower shop/florist|цветочный магазин
+Flower-bed|клумба
+Fountain|фонтан
+Furniture store|мебельный магазин
+Gallery|галерея
+Gas station/service station|заправка
+Gate(s)|ворота
+Grocery store|бакалея
+Hairdresser's, hair salon|парикмахерская
+Hardware store|хозяйственный магазин
+Health club/spa|фитнес клуб/спа
+Hospital|больница
+Impressive|впечатляющий
+Kiosk, stall|киоск
+Library|библиотека
+Lift; am. elevator|лифт
+Lost-property office; am. lost and found office/department|бюро находок
+Manhole|люк
+Market|рынок
+Memorial, monument|памятник
+Mosque|мечеть
+Museum|музей
+Narrow|узкий
+Newsstand|газетный киоск
+Nightclub|ночной клуб
+On the first floor; am. on the second floor|на втором этаже
+On the ground floor; am. on the first/ground floor|на первом этаже
+On/to the left|налево
+On/to the right|направо
+Park|парк
+Parking meter|парковочный счетчик
+Pavement; sidewalk|тротуар
+Pedestrian|пешеход
+Pedestrian crossing; am. crosswalk|переход
+Post office|почта
+Postbox, pillar box; am. mailbox, postbox|почтовый ящик
+Restaurant|ресторан
+Road|дорога
+Road sign|дорожный знак
+Sewer|канализационная труба / коллектор
+Square|площадь
+Stadium|стадион
+Statue|статуя
+Street|улица
+Street vendor|уличный торговец
+Subway station|станция метро
+Swimming pool/baths|бассейн
+Synagogue|синагога
+Taxi-rank|стоянка такси
+Theatre; am. theatre/theater|театр
+To (go for a) walk/stroll|гулять/погулять
+To cross the street/road|переходить/перейти (через) улицу
+To find|находить/найти
+To get lost, to lose one's way|заблудиться
+To look/search for, to seek|искать
+Town plan, street map|план города
+Traffic|движение
+Traffic jam, congestion|затор
+Traffic lights|светофор
+Trash container|мусорный бак
+Underpass, subway|подземный переход
+Wide, broad|широкий
+Zoo|зоопарк

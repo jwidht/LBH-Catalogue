@@ -1,0 +1,91 @@
+quiz.properties|name=Kitchenware~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Barbecue|барбекю, мангал
+Bowl|миска
+Bread basket|хлебница
+Bread-and-butter plate|тарелка для хлеба
+Buffet|буфет
+Burner|зажигалка
+Butter dish|тарелка для масла
+Cabinet|тумбочка
+Cake slice|лопатка для торта
+Can opener|открывалка
+Canister|банка для круп
+Chair|стул
+Champagne cooler|ведёрко для шампанского
+Chest freezer|морозилка
+China|фарфор
+China cabinet|сервант
+Coffee machine|кофеварка
+Coffee pot|кофейник
+Cooker, stove|плита
+Corksrew|штопор
+Counter|столешница
+Creamer|сосуд для сливок
+Cup|чашка
+Cutting board|разделочная доска
+Deep fryer/ deep-fat fryer (BE)|фритюрница
+Dinner plate|большая плоская тарелка
+Dish rack|сушилка
+Dishwasher|посудомоечная машина
+Dishwasher detergent|порошок для посудомойки
+Dishwasher liquid|жидкость для посудомойки
+Egg-cup|подставка для яиц
+Extractor hood|вытяжка
+Faucet|кран
+Fork|вилка
+Frying pan|сковородка
+Funnel|лейка
+Garbage pail|мусорное ведро
+Glass|стакан, бокал
+Grater|тёртка
+Jug|кувшин
+Juicer|соковыжималка
+Kettle|чайник
+Kitchen scales|кухонные весы
+Knife|нож
+Ladle|половник
+Meat fork|вилка для мяса
+Microwave|микроволновка
+Mincer (BE)/ grinder (AE)|мясорубка
+Mixer|миксер
+Napkin|салфетка
+Oven|печка
+Oven glove|прихватка
+Paper towel|бумажное полотенце
+Pepper mill|мельница для перца
+Pepper shaker|перечница
+Pitcher|кувшин для воды
+Place mat|подставка
+Pot scrabber|шкрабачка
+Pressure cooker|скороварка
+Refrigerator magnet|магнит на холодильник
+Refrigerator/ fridge|холодильник
+Rolling pin|скалка
+Salad plate|подставная тарелка
+Salt shaker|солянка
+Saucer|блюдце
+Scissors|ножницы
+Scouring pad|железная мочалка
+Serving bowl|супница
+Serving cart|тележка
+Serving platter|поднос
+Sieve|сито
+Silverware|серебро
+Sink|раковина
+Soup plate|глубокая тарелка для первого
+Spice rack|баночка для специй
+Sponge|губка, мочалка
+Spoon|ложка
+Spring-clip tin (BE)/ springform pan (AE)|съёмная форма для торта
+Steak hammer|молоток для отбивания мяса
+Sugar bowl|сахарница
+Table|стол
+Tablecloth|скатерть
+Teapot|чайник
+Teaspoon|чайная ложка
+Toaster|тостер
+Trash compactor|уплотнитель мусора
+Waffle-iron|вафельница
+Water glass|бокал для воды
+Wine glass|бокал для вина
+Wine shelf|винная полка

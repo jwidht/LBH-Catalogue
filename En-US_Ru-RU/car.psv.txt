@@ -1,0 +1,71 @@
+quiz.properties|name=Car~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Absorber, bumper|бампер
+Accelerator|акселератор
+Accumulator, battery|аккумулятор
+Armrest|подлокотник
+Back door|задняя дверь
+Bonnet, hood|капот
+Brake|тормоз
+Brake fluid|тормозная жидкость
+Brake light|стоп-сигнал
+Bulbs|лампы
+Cab|кабина
+Carburet(t)or|карбюратор
+Chassis|шасси
+Clutch|сцепление
+Cooling system|система охлаждения
+Crankshaft|коленчатый вал
+Cylinder|цилиндр
+Diesel|дизельное топливо
+Driver's license|водительское удостоверение
+Electrical system|электрооборудование
+Engine|двигатель
+Exhaust pipe|выхлопная труба
+Fender|крыло
+Filling station|АЗС
+Front door|передняя дверь
+Garage|гараж
+Gear|передача
+Gear-change shift lever|рычаг переключения передач
+Handbrake|ручной тормоз
+Hatchback|хэчбэк
+Headlights|фары
+Highway|автострада
+Horn|сигнал
+Hubcap|диск колеса,колпак
+Ignition|зажигание
+Jack|домкрат
+License plate|номерной знак
+Lorry, truck|грузовик
+Oil|масло
+Oil pump|масляный насос
+Parking light|габаритные огни
+Pedal|педаль
+Petrol; am. gas|бензин
+Pump|насос
+Radiator|радиатор
+Road|дорога
+Screwdriver|отвертка
+Seat belt|ремень безопастности
+Sedan|седан
+Service station|станция тех обслуживания
+Signal|указатель поворота
+Spanner|гаечный ключ
+Spare parts|запчасти
+Spark plug|свеча
+Speedometer|спидометр
+Spring|рессора
+Starter|стартер
+Steering-wheel|рулевое колесо
+Suspension|подвеска
+Tail-light|задний фонарь
+Tank|бензобак
+Tire|шина
+Tool|инструмент
+Trailer|прицеп
+Transmission; gear box|коробка передач
+Trunk|багажник
+Van|автофургон
+Wheel|колесо
+Window roller|стеклоподъёмник
+Windscreen; windshield|ветровое стекло

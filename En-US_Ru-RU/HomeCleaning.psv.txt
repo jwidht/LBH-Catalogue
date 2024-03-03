@@ -1,0 +1,30 @@
+quiz.properties|name=Home Cleaning~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Ammonia|нашатырный спирт
+Bleach|отбеливатель
+Broom|метла
+Carpet sweeper|щетка для чистки ковров
+Cleanser|моющее средство
+Clothesline|бельевая верёвка
+Clothespin|прищепка
+Dryer|сушилка
+Dust cloth|тканевая тряпка
+Dust mop|швабра
+Dustpan|совок
+Fabric softener|кондиционер для белья
+Feather duster|щетка для уборки пыли (из перьев)
+Floor wax|воск для пола
+Furniture polish|полироль для мебели
+Hand vacuum|ручной пылесос
+Iron|утюг
+Ironing board|гладильная доска
+Laundry detergent|стиральный порошок
+Sponge mop|швабра с губкой
+Starch|крахмал
+Static cling remover|антистатик
+Vacuum cleaner|пылесос
+Vacuum cleaner attachments|насадки для пылесоса
+Vacuum cleaner bag|мешок для пыли в пылесосе
+Washing machine/washer|стиральная машина
+Wet mop|верёвочная швабра
+Whisk broom|щетка в форме венчика
+Window cleaner|средство для мытья окон

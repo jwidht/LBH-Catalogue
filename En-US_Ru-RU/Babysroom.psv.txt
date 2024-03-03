@@ -1,0 +1,36 @@
+quiz.properties|name=Babysroom~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Baby carriage|коляска
+Baby food|детское питание
+Baby formula|детское питание
+Baby lotion|детский лосьон
+Baby wipes|cалфетки
+Bib|слюнявчик,нагрудник
+Bottle|бутылочка
+Car seat|автомобильное кресло
+Changing pad|пелёнка
+Changing table/dressing table|пеленальный столик
+Chest of drawers|комод
+Cloth diapers|тканевые подгузники
+Cotton swabs|ватные палочки
+Cradle|колыбель
+Crib|детская кроватка
+Crib bumper|перило кроватки
+Diaper pail|ведро для подгузников
+Diapers|памперсы
+Doll|кукла
+High chair|столик для кормления
+Night light|ночник
+Nipple|соска
+Ointment|мазь
+Pacifier/soother|пустышка,соска
+Playpen|манеж
+Potty|ночной горшок
+Powder|присыпка
+Rattle|погремушка
+Stretch suit|"человечки", детский костюм
+Stroller|лёгкая летняя коляска
+Swing|качелька
+Teddy bear|плюшевый мишка
+Teething ring|зубное кольцо
+Toy chest|ящик для игрушек
+Walker|ходунки

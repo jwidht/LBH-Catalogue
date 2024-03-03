@@ -1,0 +1,52 @@
+quiz.properties|name=School~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Bell|звонок
+Biology|биология
+Board|доска
+Book/textbook|учебник
+Bookshelf|книжная полка
+Break|перемена
+Chalk|мел
+Chemistry|химия
+Classroom|классная комната
+Computer|компьютер
+Curriculum|учебный план
+Drawing|рисование
+Duster|тряпка
+Education|образование
+Eraser|резинка
+Exam/examination|экзамен
+Foreign (modern) languages|иностранные языки
+Foreign literature|зарубежная литература
+Form/class/grade|класс
+Geography|география
+Globe|глобус
+Head-teacher|завуч
+Headmaster/headmistress|директор
+History|история
+Home economics|домоводство
+Homework|домашнее задание
+Instructor|инструктор, тренер
+Lesson|урок
+Map|карта
+Mark|оценка
+Math /mathematics|математика
+Music|музыка
+Notebook|блокнот
+Overhead projector|проекционный аппарат
+Pen|ручка
+Pencil|карандаш
+Physical education|физическая подготовка, физкультура
+Physics|физика
+Pupil/student|ученик
+Quiz/test|контрольная работа
+School uniform|школьная форма
+Schoolboy|ученик, школьник
+Seat/chair|стул, место за партой
+Teacher|учитель
+Teacher's desk|учительский стол
+Term/semester|семестр
+Timetable|расписание
+To be late for class|опоздать на урок
+To skip classes|прогуливать уроки
+To take attendance|отмечать присутствующих
+Vacation/holidays|каникулы

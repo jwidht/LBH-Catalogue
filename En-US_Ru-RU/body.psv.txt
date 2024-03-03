@@ -1,0 +1,131 @@
+quiz.properties|name=Body~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Abdomen|брюшная полость
+Ankle|лодыжка
+Armpit|подмышка
+Arteries|артерии
+Back|спина
+Backbone|позвоночник
+Balls/rocks/nuts|яички
+Belly, tummy; stomach|живот
+Big toe|большой палец (на ноге)
+Bile/gall|желчь
+Bladder|мочевой пузырь
+Blink eyes|моргать
+Blood|кровь
+Bone|кость
+Bone marrow|костный мозг
+Bottom|зад
+Brain|мозг
+Breathe|дышать
+Buttocks|ягодицы
+Calf|икра (ноги)
+Cartilage|хрящ
+Cheek|щека
+Cheek bone|скула
+Chest, breast; bosom, bust|грудь
+Chin|подбородок
+Clap hands|хлопать
+Collarbone|ключица
+Ear|ухо
+Earlobe|мочка уха
+Eat|есть
+Elbow|локоть
+Embryo/germ/nucleus|зародыш
+Esophagus|пищевод
+Eye|глаз
+Eyebrow|бровь
+Eyelash|ресничка
+Eyelid|веко
+Face|лицо
+Finger|палец (на руке)
+Finger nail|ноготь (на пальце руки)
+Fist|кулак
+Foot (feet)|ступня (ступни)
+Forearm|предплечье
+Forehead, brow|лоб
+Gallbladder|желчный пузырь
+Genitals, sex(ual) organs|половые органы
+Glance|мельком взглянуть
+Gland|гланда
+Groin|пах
+Hair|волосы
+Hand / left and right|рука (левая, правая)
+Head|голова
+Heart|сердце
+Heel|пятка
+Hip-bone/pelvis|таз
+Hips, thigh|бедро
+Hymen|девственная плева
+Index finger|указательный палец
+Iris|радужная оболочка глаза
+Jaw|челюсть
+Joint|сустав
+Kick|пнуть, ударить
+Kidneys|почки
+Kiss|целовать
+Knee|колено
+Kneecap|коленная чашечка
+Knuckle|сустав пальца
+Large intestine|толстая кишка
+Larynx|гортань
+Leg|нога (от бедра до ступни)
+Bile duct|желчный проток
+Lip|губа
+Little finger|мизинец (на руке)
+Little toe|мизинец (на ноге)
+Liver|печень
+Lungs|легкие
+Lymph-gland|лимфоузел
+Lymphatic vessels|лимфатические сосуды
+Menstruation/period|менструация
+Middle finger|средний палец
+Moustache|усы
+Mouth|рот
+Mucouse membrane|слизистая оболочка
+Muscle|мускул
+Muscle|мускул, мышца
+Navel|Пупок
+Neck|шея
+Nod|кивать
+Nose|нос
+Nostril|ноздря
+Palm|ладонь
+Pancreas|поджелудочная железа
+Point|указывать (пальцем)
+Punch|удар кулаком
+Pupil|зрачок
+Ring finger|безымянный палец
+Scar|шрам
+Scratch|царапать, скрести
+Shake hands|пожимать (руку)
+Shake head|качать (головой)
+Shin|голень
+Shoulder|плечо
+Shrug shoulders|пожимать (плечами)
+Sinew/tendon|жила, сухожилие
+Skin|кожа
+Skull|череп
+Slap|шлепать
+Small intestine|тонкая кишка
+Sniff|фыркать, шмыгать
+Sperm/jims/scum/spunk|сперма
+Spinal cord|спинной мозг
+Stare|уставиться
+Stomach|желудок
+Stub toe|удариться (ногой)
+Temple|висок
+Throat|горло
+Thumb|большой палец (на руке)
+Toe|палец (на ноге)
+Toenail|ноготь (на пальце ноги)
+Tongue|язык
+Tooth (teeth)|зуб (зубы)
+Veins|вены
+Vessel|сосуд
+Waist|талия
+Whistle|свистеть
+Windpipe|трахея
+Wink|подмигивать
+Womb|матка
+Wrist|запястье
+Yawn|зевать

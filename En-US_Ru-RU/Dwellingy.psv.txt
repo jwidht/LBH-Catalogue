@@ -1,0 +1,67 @@
+quiz.properties|name=Dwelling~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Air conditioner|кондиционер
+Apartment|квартира
+Apartment house|многоквартирный дом
+Back door|черный вход, задняя дверь
+Balcony/terrace|балкон
+Bolt lock|засов
+Buzzer|звонок
+Cabin|хижина
+Chimney|дымоход
+Cottage|котедж
+Deck|палуба
+Door chain|цепочка
+Doorbell|дверной звонок
+Doorknob|дверная ручка
+Doorman|швейцар, консьерж
+Dormitory|студенческое общежитие (амер)
+Drainpipe/downspout|ливнёвка, канализационная труба, водосток
+Driveway|подъезд к дому
+Duplex/two-family house|дом на два хозяина
+Elevator/lift|лифт
+Farmhouse|фермерский дом
+Fire alarm|противопожарная сигнализация
+Flat|квартира
+Front door|парадная дверь
+Front walk|дорожка перед парадным входом
+Garage|гараж
+Garbage chute|мусоропровод
+Garden|сад
+Gutter|сточная канава, труба
+Hostel|общежитие
+House|дом
+Houseboat|дом на воде
+Intercom|домофон
+Kitchen garden|огород
+Lamppost|фонарь
+Laundry room|прачечная
+Lobby|парадное
+Lawnmower|газонокосилка
+Mailbox|почтовый ящик
+Mobile home/trailer|передвижной дом, трейлер
+Nursing home|дом престарелых
+Parking garage|подземный гараж в многоквартирном доме
+Parking lot|парковка
+Peephole|глазок
+Porch|крыльцо
+Roof|крыша
+Satellite dish|спутниковая тарелка
+Screen door|защитная дверь
+Shelter|приют
+Shutter|ставни
+Single-family house|дом для одной семьи
+Smoke detector|датчик задымления
+Steps|ступени
+Storage room|кладовка
+Storm door|дверь, защищающая парадную
+Summer cottage|дача
+Superintendent|управляющий
+Swimming-pool|бассейн
+Tool shed|сарай для инструментов
+Townhouse|городской дом (обычно состоит из нескольких квартир с отдельным входом)
+TV antenna|телевизионная антенна
+Walk-up apartment|квартира в доме без лифта
+Whirlpool|джакузи
+Window|окно
+Window screen|жалюзи
+Yard|двор

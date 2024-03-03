@@ -1,0 +1,70 @@
+quiz.properties|name=Flora~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Acacia|акация
+Anemone, wood anemone|анемона
+Ash|ясень
+Asp|осина
+Aster|астра
+Beech|бук
+Birch|береза
+Bluebell|колокольчик
+Calendula|календула
+Camomile|ромашка
+Carnation|гвоздика
+Ceder pine|кедровая сосна
+Chestnut tree|каштан
+Chrysanthemum / golden-daisy|хризантема
+Chrysanthemum / golden-daisy|хризантема
+Clover|клевер
+Coltsfoot, foalfoot|мать-и-мачеха
+Cone|шишка
+Corn-flower|василек
+Cowslip|первоцвет
+Crocus|крокус
+Daffodil|желтый нарцисс
+Dahlia|георгин
+Daisy|маргаритка, ромашка
+Dandelion|одуванчик
+Easter lily|белая лилия
+Elm|вяз
+Fir|ель
+Forget-me-not|незабудка
+Freesia|фрезия
+Gladiolus / sword lily|гладиолус
+Hyacinth|гиацинт
+Iris|ирис
+Ivy|плющ
+Jasmin|жасмин
+Larch|лиственница
+Lilac|сирень
+Lily|лилия
+Lily of the valley|ландыш
+Lime-tree|липа
+Magnolia|магнолия
+Maple|клен
+Marguerite|маргаритка
+Marigold|ноготки / бархатцы
+Mimosa|мимоза
+Mountain ash|рябина
+Narcissus|нарцисс
+Oak|дуб
+Orchid|орхидея
+Pansy|анютины глазки
+Peony|пион
+Periwinkle|барвинок
+Pine-tree|сосна
+Pink|гвоздика
+Plane-tree|платан
+Poplar|тополь
+Poppy|мак
+Primrose|примула
+Rose|роза
+Snowdrop|подснежник
+Snowflake|садовый подснежник
+Stock|левкой
+Thistle|чертополох
+Tiger lily|красная лилия
+Tulip|тюльпан
+Tutsan / Saint-John's-wort|зверобой
+Violet|фиалка
+Water lily|кувшинка
+Willow-tree|ива

@@ -1,0 +1,29 @@
+quiz.properties|name=Bedroom~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Alarm clock|будильник
+Bed|кровать
+Bedspread|покрывало
+Blanket|одеяло
+Blinds|жалюзи
+Bunk bed|двухъярусная кровать
+Canopy bed|кровать с балдахином
+Chest of drawers|комод
+Comforter/quilt|стеганое одеяло
+Cot|кушетка
+Day bed|лежак
+Double bed|двуспальная кровать
+Dresser/bureau|шкаф / бюро
+Dust ruffle|гофрированая оборка внизу кровати
+Footboard|подножка, изножье
+Headboard|изголовье кровати
+Jewelry box|шкатулка
+King-size bed|большая двуспальная кровать
+Mattress|матрац
+Mirror|зеркало
+Night table/ nightstand|ночной столик / тумба
+Pillow|подушка
+Pillowcase|наволочка
+Sheet|простыня
+Sofa bed/convertible sofa|диван-кровать
+Trundle bed|кровать-раскладушка, низенькая кровать на колесиках, на день убиралась под кровать хозяина
+Twin bed|двуспальная кровать
+Water bed|гидростатический матрац

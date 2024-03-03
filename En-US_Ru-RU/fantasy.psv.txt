@@ -1,0 +1,96 @@
+quiz.properties|name=Fantasy movie~~counttotal=95~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=33~~fontsize_a=31~~skipaudiomode=1~~
+yataghan [jætəgən]|ятаган
+Renaissance [rəneısəns]|эпоха Возрождения, Ренессанс
+elf [elf]|эльф
+shield [ʃi:ld]|щит
+jester [ʤestə]|шут
+honor [ɔnə,]|честь
+kingdom [kıŋdəm]|царство, королевство
+reign [reın]|царить, господствовать
+hobbit ['hɔbɪt]|хоббит
+lady-in-waiting [leıdı] [ın] [weıtıŋ]|фрейлина
+fort [fɔ:t]|форт
+feudal [fju:dl]|феодальный
+wall [wɔ:l]|укрепление, вал
+titles [taıtls]|титул, звание
+dungeon [dʌnʤən]|темница
+battering ram [bætəıŋ] [ræm]|таран
+archery [ɑ:ʧərı]|стрельба из лука
+arrow [ærəu]|стрела
+gatehouse [geıthaus]|сторожка у ворот
+watchtower ['wɔʧˌtauə]|сторожевая башня
+Middle Ages [mıdl] Ages|средневековье
+maid [meıd]|служанка, горничная
+scepter ['septə]|скипетр
+knight [naıt]|рыцарь
+chivalry [ʃıvəlrı]|рыцарство
+jousting [ʤaustıŋ]|рыцарский поединок, турнир
+moat [məut]|ров
+princess [prınses]|принцесса
+prince [prıns]|принц
+court jester [kɔ:t] [ʤestə]|Придворный шут
+birthright [bə:θraıt]|право первородства
+manor house [mænə] [haus]|помещичий дом
+manor [mænə]|поместье
+drawbridge [drɔ:brıʤ]|подъемный мост
+peel tower [pi:l] [tauə]|Пиль-башня
+siege [si:ʤ]|осада
+turret [tʌrıt]|орудийная башня
+orc [ɔːk]|орк
+curtain wall [kə:tn] [wɔ:l]|навесные стены
+sovereign [sɔvrın]|монарх, повелитель
+monarch [mɔnək]|монарх
+sword [sɔ:d]|меч, рапира
+marquis [mɑ:kwıs]|маркиз
+archer [ɑ:ʧə]|лучник, стрелок из лука
+bow [bau]|лук (оружие)
+lord [lɔ:d]|лорд, господин
+lady [leıdı]|леди
+fortress [fɔ:trıs]|крепость
+serf [sə:f]|крепостной, раб
+crown [kraun]|корона
+king [kıŋ]|король
+realm [relm]|королевство, государство
+royal [rɔıəl]|королевский, царский
+royalty [rɔıəltı]|королевская власть
+queen [kwi:n]|королева
+lance [lɑ:ns]|копье, пика
+mail [meıl]|кольчуга
+chain mail [ʧeın] [meıl]|кольчуга
+catapult [kætəpʌlt]|катапульта
+imperial [ımpıərıəl]|имперский, императорский
+empire [empaıə]|империя, царство
+castle [kɑ:sl]|замок, дворец, твердыня
+unicorn [ju:nıkɔ:n]|единорог
+dragon [drægən]|дракон
+crown jewels [kraun] [ʤu:əls]|драгоценности из королевской казны
+armor [ɑ:mə]|доспехи, латы
+dynasty [dınəstı]|династия
+maiden [meıdn]|дева
+nobility [nəubılıtı]|дворянство, родовая знать
+chateau ['ʃætəu]|дворец, замок
+palace [pælıs]|дворец
+countess [kauntıs]|графиня
+earl [ə:l]|граф
+count [kaunt]|граф
+dwarf [dwɔ:f]|гоблин, гном
+goblin [gɔblın]|гоблин
+gnome [nəumi:]|гном
+donjon [dɔnʤən]|главная башня
+duchess [dʌʧıs]|герцогиня
+duke [dju:k]|герцог
+heraldry [herəldrı]|геральдика
+highness [haınıs]|высочество (титул)
+chieftain [ʧi:ftən]|вождь
+viscount [vaıkaunt]|виконт
+grand duke [grænd] [dju:k]|великий князь
+battle axe [bætl] [æks]|боевой топор
+noble [nəubl]|благородный
+tower [tauə]|башня, цитадель, крепость
+bastion [bæstıən]|бастион
+baronet [bærənıt]|баронет
+baroness [bærənıs]|баронесса
+baron [bærən]|барон
+mangonel [mæŋgənəl]|баллиста
+aristocracy [,ærıstɔkrəsı]|аристократия
+crossbow ['krɔsbəu]|арбалет

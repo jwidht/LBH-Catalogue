@@ -1,0 +1,56 @@
+quiz.properties|name=Education~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Archaeology|археология
+Art|искусство
+B.Sc|бакалавр естественных наук
+BA|бакалавр гуманитарных наук
+Biology|биология
+Botany|ботаника
+Certificate|документ, свидетельство, сертификат
+Cheat|жульничать, списывать
+Chemistry|химия
+Degree|ученая степень
+Diploma|диплом; свидетельство
+Economics|экономика
+Educate|воспитывать, обучать; давать образование
+Education|образование
+Educator|преподаватель
+Examination|экзамен
+Examine|экзаменовать
+Examiner|экзаменатор
+Fail|проваливаться (на экзамене)
+Foreign (modern) languages|иностранные языки
+Geography|география
+Geology|геология
+Get through|пройти; выдержать экзамен
+Graduate|выпускник университета
+Head-teacher|завуч
+History|история
+Home economics|домоводство
+Instructor|инструктор, тренер
+Lecturer|лектор
+M.Sc.|магистр естественных наук
+MA|магистр гуманитарных наук
+Math/mathematics|математика
+Music|музыка
+Pass|сдать экзамен
+Ph.D.|доктор философии
+Physical training|физкультура
+Physics|физика
+Psychology|психология
+Pupil|ученик; воспитанник
+Qualification|квалификация
+Religious education|религия
+Retake|пересдавать экзамен
+Revise for|готовиться к экзамену
+Schoolboy|ученик, школьник
+Schoolgirl|ученица, школьница
+Science|наука
+Sociology|социология
+Student|студент; студент, студентка; учащийся
+Study for|готовиться к экзамену
+Study for|готовиться к экзамену
+Take / sit an exam|сдавать экзамен
+Teacher|учитель
+Technology|технические и прикладные науки
+Test|проверка, тест
+Undergraduate|студент

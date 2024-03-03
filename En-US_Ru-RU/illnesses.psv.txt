@@ -1,0 +1,87 @@
+quiz.properties|name=Illnesses~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Abortion/miscarriage|выкидыш
+Abrasion|ссадина
+Abscess, boil|нарыв
+Advanced disease|запущенная болезнь
+Agent|возбудитель болезни
+AIDS|СПИД
+Allergy|аллергия
+Anginepectoris|стенокардия
+Appendicitis|аппендицит
+Asthma|астма
+Backache|боль в спине
+Blain|нарыв
+Bleeding|кровотечение
+Bronchitis|бронхит
+Bruise|синяк
+Cancer|рак
+Canker/ulcer|язва
+Chicken pox|ветрянка
+Cholecystitis|холецистит
+Clot|тромб
+Cold|простуда
+Congenital heart defect|врожденный порок сердца
+Congestion|запор
+Consumption/tuberculosis|туберкулёз
+Cramp|судороги
+Cyst|киста
+Delirium tremens|белая горячка
+Diabetes|диабет
+Diagnosis|диагноз
+Diarrhea/runny-shit|понос
+Dislocation|вывих
+Dizziness|головокружение
+Dysentery|дизентерия
+Earache|боль в ухе
+Fever/temperature|жар/температура
+Flue/grippe/influenza|грипп
+Food poisoning|пищевое отравление
+Food poisoning|пищевое отравление
+Foot&mouth disease|ящур
+Fracture|перелом
+Gastritis|гастрит
+Gout|подагра
+Hay fever|сенная лихорадка
+Headache|головная боль
+Hoarseness|хрипота
+Hospital bed|больничная койка
+Hypertension|гипертония
+Indigestion/dyspepsia|несварение желудка
+Infarction/heart attack|инфаркт
+Inflammation|воспаление
+Intoxication|отравление
+Jaundice|болезнь Боткина/гипатит
+Leprosy|проказа
+Malaise|недомогание
+Malaria/ague|малярия
+Measles|корь
+Mumps|свинка
+Nausea|тошнота
+Obesity|ожирение
+Paralysis/apoplexy/palsy|паралич
+Plague/pestilence|чума
+Pleurisy|плеврит
+Prolapsed disk|выпадение диска
+Pustulate|покрываться прыщами
+Quinsy|ангина
+Rale|хрип в лёгких
+Rash/eruption|сыпь
+Rheumatism|ревматиз
+Scabies|чесотка 
+Sclerosis|склероз
+Shortness in breath|отдышка
+Sick headache|мигрень
+Sinus|гайморит
+Small pox|оспа
+Sore throat|боль в горле
+Sprain/strain|растяжение
+Stomachache|боль в животе
+Stroke|инсульт
+Sty|ячмень на глазе
+Sunstroke|солнечный удар
+Syphilis|сифилис
+Toothache|зубная боль
+Trauma|травма
+Tumour/swelling|опухоль
+Typhus|тиф
+Whooping-cough|коклюш

@@ -1,0 +1,90 @@
+quiz.properties|name=Seasons & Weather~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Autumn|осень
+Barometer|барометр
+Breeze|лёгкий ветерок, бриз
+Bright|яркий; светлый
+Chilly|холодный; прохладный
+Clear|светлый, ясный; безоблачный
+Cloud|облако; туча;
+Cloudless|безоблачный
+Cloudy|облачный
+Cold|холод
+Damp|влажный, сырой
+Defoliation|листопад
+Degree|градус
+Dew|роса
+Drizzle|мелкий дождь
+Drizzly|моросящий
+Dry|сухой
+Dull|пасмурный, хмурый
+Early frosts|заморозки
+Eavesdrop|капель
+Fog|туман
+Foggy|туманный
+Freezing|замораживающий
+Frost|мороз
+Gossamer|осенняя паутина в воздухе
+Hail|град
+Hailstone|градина
+Heat|жара
+Hoarfrost, rime|иней
+Hot|жаркий
+Humidity, moisture|влажность
+Hurricane|ураган
+Icicle|сосулька
+Indian Summer|бабье лето
+Lightning|молния
+Mild|мягкий, тихий
+Mist|туман
+Misty|туманный
+Nasty|ужасная погода
+Pressure|давление
+Puddle|лужа
+Rain|дождь
+Rainbow|радуга
+Raindrop|дождевая капля
+Rainfall|осадки
+Rainstorm|ливень с ураганом
+Rainy|дождливый
+Ray|луч (солнца)
+Scorching|палящий, жаркий, знойный
+Season|время года
+Shower|ливень
+Showery|дождливый, проливной
+Sky|небо
+Sleet|слякоть
+Slide|скользить по льду
+Snow|снег
+Snowfall|снегопад
+Snowflake|снежинка
+Snowy|снежный
+Spring|весна
+Storm|буря, гроза, ураган, шторм
+Stormy|штормовой
+Stuffy|удушливый, душный
+Sultry|душный
+Sun|солнце
+Sunny|солнечный
+Sunshine|солнечный свет
+Synoptic|синоптик
+Thaw|оттепель
+Thunder|гром
+Thunderstorm|гроза
+To blossom|цвести
+To freeze|замерзать, обледеневать
+To glow|светиться, сверкать
+To hail|идти (о граде)
+To melt|таять
+To pour|лить (о дожде)
+To rain|идти, литься (о дожде)
+To shine|светить, сиять, озарять
+To snow|идти (о снеге)
+To splash|забрызгивать
+Warm|тёплый
+Weather|погода
+Weather forecast|прогноз погоды
+Weatherman|метеоролог
+Wet|мокрый, влажный
+Wind|ветер
+Windy|ветренный
+Winter|зима

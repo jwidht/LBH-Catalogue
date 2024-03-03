@@ -1,0 +1,71 @@
+quiz.properties|name=Cinema~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Actor/actress|актер/актриса
+Adventure film|приключенческий фильм
+Animator|аниматор
+Black-and-white film|черно-белый фильм
+Box office|касса
+Cameraman|оператор
+Caption|титр
+Cartoon|мультфильм
+Cast|распределение ролей
+Character|персонаж/герой
+Cinema; am. (movie) theater, cinema|кино/кинотеатр
+Close-up|крупный план
+Colour film|цветной фильм
+Comedy|комедия
+Costume designer|дизайнер по костюмам
+Crime film|детектив
+Crowd scene|массовка
+Director|режиссер
+Documentary film|документальный фильм
+Drama|драма
+Drive-in-theatre|кинотеатр, куда можно въехать на автомобиле
+Dubbed film|дублированый
+Educational film|общеобразовательный фильм
+Episode|эпизод
+Feature film|художественный фильм
+Film|фильм/плёнка
+Flash-back|воспоминания героя, возврат в прошлое
+Full-length film|полнометражный фильм
+Historical film|исторический фильм
+Horror film|фильм ужасов
+Long shot|общий план
+Movie|кинофильм
+Musical|мюзикл
+Mute film|немой фильм
+Newsreel|кинотрейлер, киножурнал, хроникальный фильм
+Open-air theatre|кинотеатр под открытым небом
+Poster|афиша
+Producer|продюсер
+Scene|сцена
+Science fiction film|научно-фантастический фильм
+Screen|экран
+Screen version of the novel|экранизация романа
+Script|сценарий
+Scriptwriter|сценарист
+Serial|сериал
+Short-length film|короткометражный фильм
+Shot|кадр
+Showing|показ
+Sound effects|звуковые эффекты
+Sound film|звуковй фильм
+Star-studded film|фильм со звездами
+Still|кадр
+Subtitle|субтитр, подзаголовок
+The final scene|финальная сцена
+The main (leading) role|главная роль
+The opening scene|начальная сцена
+The supporting (minor) role|роль второго плана
+Theatrical film|экранизация театральной постановки
+Thriller|триллер
+To act/to play|играть
+To be dubbed in Russian|быть дублируемым на русский
+To book tickets|заказывать билеты
+To come out|выходить (о фильме)
+To go into production|запускать в производство
+To release a film|выпускать фильм на экраны
+To shoot a film|снимать кино
+Tragedy|трагедия
+Visual effects|видео эффекты
+Western|вэстерн
+X-film|фильм для взрослых

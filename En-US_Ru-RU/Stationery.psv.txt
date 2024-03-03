@@ -1,0 +1,41 @@
+quiz.properties|name=Stationary~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Alidad|транспортир
+Badge|бейдж, значок
+Ball-point pen|шариковая ручка
+Blot|клякса
+Calling card|визитка
+Cap|колпачок
+Chalk|мелок
+Clip|зажим
+Commonplace-book|общая тетрадь
+Compass|циркуль
+Copy-book|школьная тетрадь
+Core|стержень
+Crayon|цветной мелок
+Dailydiary|ежедневник
+Desk|парта, стол
+Diary|дневник
+Drawing-pad|альбом для рисования
+Drawing-pin|кнопка
+Eraser|ластик
+Folder|папка
+Glue|клей
+Ink|чернила
+Marker|маркер
+Notebook|блокнот
+Organizer|органайзер
+Pad|блокнот
+Paper clip|скрепка
+Pen(holder)|ручка
+Pen-sharpener|точилка
+Pencil|карандаш
+Pencil-box|пенал
+Plasticine|пластилин
+Puncher|дырокол
+Ruler|линейка
+Scotch tape|скотч
+Soft-tip pen|фломастер
+Stapler|степлер
+Subject|предмет
+Triagle|треугольник
+Writingbook/copybook|тетрадь

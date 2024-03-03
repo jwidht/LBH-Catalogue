@@ -1,0 +1,41 @@
+quiz.properties|name=Hotel~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+A minimum length of stay|минимальный срок пребывания
+Accommodation|размещение, поселение
+All inclusive|всё включено
+B&B|bed and breakfast|питание: завтрак
+Bathroom|ванна
+Booking confirmation|подтверждение бронирования
+Bunk bed|двухъярусная кровать
+Cater|обслуживать
+Check-in time|час, с наступлением которого возможно заселение в номер
+Check-out time|час, до которого необходимо освободить номер в день отъезда
+Discount|скидка
+Dormitory|спальня, общая спальня
+Double room|двухместный номер с одной двуспальной кроватью
+En-suite|в номере
+Extra bed|дополнительное спальное место
+Family room|семейный номер
+FB|full board|трёхразовое питание
+Fill in a form|заполнить анкету
+Gym|спортивный зал
+HB|half board|полупансион (как правило, завтрак и ужин)
+Hotel facilities|комплекс услуг, которые предлагает гостиница
+In advance|заранее
+Junior suite room|номер "полулюкс"
+Key|ключ
+Parking|парковка автомобиля на территории отеля
+Pay cash|расплатиться наличными
+Pay for services|оплатить услуги
+Payment in local currency|оплата в местной валюте
+Rate|стоимость
+Reception|стойка администратора
+Receptionist|портье
+Reservation|бронь
+Safe deposit box|сейф для хранения ценностей.
+Sauna|сауна
+Single room|одноместный номер
+Standard room|стандартный номер
+Suite room|номер "люкс"
+Superior room|номер повышенной комфортности
+There are no rooms available|свободных номеров нет
+Twin room|двухместный номер с двумя кроватями

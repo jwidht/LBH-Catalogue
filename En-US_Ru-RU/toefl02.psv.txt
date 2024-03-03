@@ -1,0 +1,11 @@
+quiz.properties|name=TOEFL 2~~counttotal=15~~q_lang=en-US~~a_lang=ru-RU~~exported_time=23.09.2017 15:10:34~~fontsize_q=36~~fontsize_a=36~~skipaudiomode=0~~
+excerpt|выдержка
+antiquated|устарелый
+expansion|расширение
+interfering|вмешиваясь
+inconsistency|вмешательство
+intervention|вмешательство
+reduce|уменьшить
+narrator|рассказчик
+consider|рассматривать
+indication|Индикация

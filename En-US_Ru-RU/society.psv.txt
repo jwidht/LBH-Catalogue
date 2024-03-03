@@ -1,0 +1,64 @@
+quiz.properties|name=Society~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+By-election|дополнительные выборы
+Capitalism|капитализм
+Ceremony|церемония
+Christian|христианин
+Christianity|христианство
+Citizenship, nationality|гражданство
+Contemporary, modern|современный
+Culture|культура
+Custom|обычай
+Dangerous|опасный
+Democracy|демократия
+Dictatorship|диктатура
+Duty, obligation, responsibility|обязанность
+Election(s)|выборы
+Embassy|посольство
+Executive power|исполнительная власть
+Extortion|вымогательство
+Faith, belief|вера
+Foreign policy|внешняя политика
+Freedom, liberty|свобода
+General election|всеобщие выборы
+Government|Правительство
+Hinduism|индуизм
+Home policy/internal policy|внутренняя политика
+Independence|независимость
+International|международный
+Islam|ислам
+Judaism|иудаизм
+Judicial power|судебная власть
+Just, fair|справедливый
+King|король
+Legislative power|законодательная власть
+Majority|большинство
+Minority|меньшинство
+Monarchy|монархия
+Moslem/Muslim|мусульманин
+Negotiation|переговоры
+Opinion|мнение
+Police|полиция
+Political party|политическая партия
+Politician|политик
+Politics|политика
+Population|население
+Powerful, mighty|мощный
+Prayer|молитва
+Prejudice|предрассудок
+President|президент
+Queen|королева
+Religion|Религия
+Representative|представитель
+Slavery|рабство
+Social, public|общественный
+Struggle/fight (with)|бороться (с кем/чем)
+To agree|соглашаться/согласиться
+To believe (in)|верить/поверить (во что-то)
+To declare war (on)|объявлять/объявить войну (кому)
+To discuss; to consider|обсуждать/обсудить
+To pray (to)|молиться/помолиться (кому)
+To prohibit, to forbid, to ban|запрещать/запретить
+To seize power|захватывать/захватить власть
+To vote (for)|голосовать/проголосовать (за кого/что)
+Tradition|традиция
+Unjust, unfair|несправедливый

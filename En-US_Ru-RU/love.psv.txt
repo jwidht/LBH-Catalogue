@@ -1,0 +1,43 @@
+quiz.properties|name=Love words~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=33~~fontsize_a=31
+affection for somebody|любовь к кому-то
+appetence for somebody|половое влечение к кому-то
+admiration of/for somebody|восхищение кем-то
+adoration of/for somebody|обожание кого-то
+be in love with somebody|быть влюбленным в кого-то
+be infatuated with somebody|влюбиться/увлечься кем-то
+beagog with somebody|сходить с ума по кому-то
+be mad with somebody|быть безумно влюбленным в кого-то
+fall for somebody|влюбиться в кого-то
+fall in love with somebody|влюбиться в кого-то
+love for/of/to somebody|любовь к кому-то/чему-то
+be amorous of somebody|быть влюбленным в кого-то
+beam on/at somebody|смотреть, излучая любовь
+dangle after/for somebody|волочиться за кем-то
+crazy about somebody|сходить с ума по ком-то
+infatuated about/with somebody|безумно влюбленный в кого-то
+mad about somebody|безумно любящий кого-то
+crave after/for somebody|страстно желать кого/чего
+lust after/for somebody|страстно желать кого-то
+pant after/for somebody|страстно желать кого-то
+squirm after somebody|увиваться за кем-то
+yearn after/for somebody|томиться по ком-то
+passion for somebody|страсть к кому-то
+infatuation for somebody|влюбленность в кого-то
+lust of/for somebody|страсть к кому-то
+be fond of somebody|любить кого-то
+radiate on/at somebody|смотреть радостно на кого-то
+beagog on (about/with) somebody|быть без ума от кого-то
+dote on somebody|любить кого-то до безумия
+mad on/about somebody|помешанный на ком-то
+mashed on somebody|влюбленный в кого-то
+take a fancy to/for somebody|полюбить кого-то
+make court to somebody|ухаживать за женщиной
+pay one's addresses to somebody|ухаживать за кем-то
+affection to somebody|любовь/привязанность к кому-то
+affection towards somebody|любовь к кому-то
+warm feeling towards somebody|теплые чувства к кому-то
+intimacy with somebody|интимность с кем-то
+intrigue with somebody|тайная любовная связь с кем-то
+flirt with somebody|флиртовать с кем-то
+dally with somebody|флиртовать/играть с кем-то
+walk out with somebody|ухаживать за кем-то

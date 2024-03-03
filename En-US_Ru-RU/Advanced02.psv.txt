@@ -1,0 +1,46 @@
+quiz.properties|name=Advanced 2~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40~~skipaudiomode=1	
+vituperative|бранный~~[abusive, expletive, pejorative, vituperative~~ругательный~~vituperative, invective	]
+saturnine|угрюмый~~[sullen, gloomy, morose, surly, moody, saturnine~~мрачный~~gloomy, dark, grim, bleak, dismal, saturnine~~свинцовый~~lead, leaden, plumbeous, plumbic, saturnine, leady	]
+disseminate|распространять~~[distribute, spread, disseminate, extend, propagate, circulate~~рассеивать~~scatter, dissipate, dispel, disperse, diffuse, disseminate~~сеять~~sow, seed, disseminate, inseminate, garble, seminate~~разбрасывать~~scatter, disperse, throw about, overspread, broadcast, disseminate~~разносить~~spread, carry, distribute, deliver, blast, disseminate	]
+dissipated|рассеянный~~[dispelled, dispersed, dissipated, diffuse, distracted, disseminated~~распущенный~~libertine, dissolute, licentious, dissipated, rakish, lax~~распутный~~dissolute, lewd, wanton, lecherous, immoral, dissipated~~беспутный~~dissolute, dissipated, raffish, gay, scampish, rakish~~растраченный~~squandered, dissipated	]
+restive|беспокойный~~[restless, troubled, troublesome, hectic, anxious, restive~~норовистый~~restive, rogue, skittish, balky, vicious, rusty~~своенравный~~wayward, capricious, willful, restive, crotchety, nasty~~упрямый~~stubborn, obstinate, opinionated, headstrong, dogged	]
+fecundity|плодовитость~~[fertility, fecundity, prolificacy, prolificness~~плодородие~~fertility, fruitfulness, fecundity, richness, heart, rankness~~результативность~~potency, fecundity	]
+encumber|загромождать~~[obstruct, encumber, lumber, jam, lumber up, choke up~~обременять~~burden, encumber, charge, load, saddle, embarrass~~мешать~~interfere, disturb, prevent, stir, interrupt, encumber~~затруднять~~obstruct, impede, hamper, trouble, embarrass, encumber~~препятствовать~~let, prevent, hinder, impede, inhibit, encumber~~быть обузой~~encumber, be a drag on a person	]
+blanch|белить, обесцвечивать~~[make white or pale by extracting color; bleach.~~the cold light blanched her face~~синонимы: turn pale, whiten, lighten, wash out, fade; pale, turn pale, turn white, whiten, lose its color, lighten, fade~~(of a person) grow pale from shock, fear, or a similar emotion.~~many people blanch at the suggestion~~prepare (vegetables) for freezing or further cooking by immersing briefly in boiling water.~~In a separate pot of salted, boiling water, blanch the fava beans, then immediately drain and shock them in an ice bath.	]
+obsequious|подобострастный~~[servile, slimy, obsequious, obsequies~~угодливый~~obsequious, adulatory, pleasing, supple, compliant, creeping~~раболепный~~servile, fawning, subservient, obsequious, cree	]
+herbivore|травоядное ~~ [an animal that feeds on plants.~~This includes both carnivores such as wolves, which eat other animals, and herbivores such as cows, which eat plants.	]
+digestive|пищеварительный~~[digestive, alimentary, peptic, pepsin~~способствующий пищеварению~~digestive, eupeptic, stomachic	]
+wildebeest|антилопа гну	
+fastidious|привередливый~~[fastidious, choosy, fussy, particular, choosey, queasy~~брезгливый~~squeamish, fastidious~~разборчивый~~legible, picky, choosy, discriminating, fastidious, nice	]
+dodgy|хитроумный~~[dodgy, catchy, Daedalian, Daedalean, Machiavellian, versute~~изворотливый~~dodgy, shifty~~нечестный~~dishonest, unfair, foul, crooked, dirty, dodgy~~хитрый~~cunning, tricky, sly, artful, crafty, dodgy~~плутоватый~~dodgy, scampish~~ловкий	]
+claimant|истец~~[a person making a claim, especially in a lawsuit or for a government-sponsored benefit.~~The claimants and the defendants produced differing translations of the clause.~~синонимы: applicant, candidate, supplicant, petitioner, plaintiff, litigant, app	]
+revenue|доход ~~ [income, especially when of a company or organization and of a substantial nature.~~It would allow De Cairos to keep control of the company and at the same time would allow it to raise substantial revenues .~~синонимы: income, takings, receipts, proceeds, earnings, sales, profit(s	]
+stumped|корчевать~~[stump, root up~~ставить в тупик~~confound, nonplus, perplex, bewilder, puzzle, baffle~~выбивать из игры~~stump~~ковылять~~hobble, totter, toddle, stumble along, dodder along, stump~~агитировать~~agitate, campaign, stump, carry on propaganda, make propaganda~~тяжело ступать~~clump, stump, lump, tramp,	]
+mole|моль ~~ [a small burrowing insectivorous mammal with dark velvety fur, a long muzzle, and very small eyes.~~The fur of moles is velvety and can lie equally well in any direction, which allows easy movement in the burrows backward as well as forwards.~~a spy who achieves over a long period an important position within the security defenses of a country.~~There may have been a mole planted by the security services inside the terror cells in the country.~~синонимы: spy, agent, secret agent, undercover agent, operative, plant, infil	]
+offhand|экспромтом~~~~[бесцеремонно~~без подготовки~~~~тотчас~~~~импровизированно	]
+foundation|фундамент	
+endeavor|прилагать усилия	
+favor|благоприятствовать	
+expand|расширять	
+establish|установить	
+boundary|граница	
+endeavors|стремится	
+confidently|уверенно	
+advances|достижения	
+term|срок	
+prior|предшествующий	
+float|поплавок	
+crude|сырой	
+barter|товарообмен	
+strain|напряжение	
+yield|Уступать	
+revoke|отзывать	
+barred|запрещенный	
+statutory|закон	
+preexisting|предсуществующий	
+voidable|оспоримый	
+unenforceable|невыполнимым	
+rampant|безудержный	
+likewise|также	
+offeree|офертант	
+forbearance|снисходительность	

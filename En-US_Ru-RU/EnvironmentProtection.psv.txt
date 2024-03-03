@@ -1,0 +1,82 @@
+quiz.properties|name=Environment Protection~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Acid rain|кислотные дожди
+Alkalinity|щелочность
+Be threatened with extinction|быть под угрозой вымирания
+Biosphere|биосфера
+By-product|побочный продукт
+Carbon dioxide/ CO2|углекислый газ/двуокись углерода
+Carbon monoxide|окись углерода
+Catchment level|уровень водосбора
+Chop down|срубать, вырубать
+Conservation of natural resources|охрана природных ресурсов
+Deforestation|обезлесение
+Depletion|истощение
+Desertification|опустынивание
+Diversion of flow of rivers|изменение русел рек
+Drought|засуха
+Dump|свалка
+Dumping|захоронение, дампинг
+Earthquake|землетрясение
+Ecosystem|экосистема
+Effluent|сточные воды
+Emissions|выходы/выбросы
+Endangered species|исчезающий вид
+Environmental emergency|чрезвычайная экологическая ситуация
+Environmental protection|охрана окружающей среды
+Flooding|наводнение
+Fossil fuel|ископаемое топливо
+Fume|дым, выхлоп
+Green belt|полоса зеленых насаждений
+Greenhouse effect|парниковый эффект
+Habitat|место, среда обитания
+Hazardous wastes|опасные отходы
+Herbicide|гербицид
+Hurricane|ураган
+Hydrocarbons|углеводороды
+Incineration|сжигание отходов
+Landfill|свалка мусора
+Maximum allowable emissions|предельно допустимые выбросы
+Mean daily sample|среднесуточная проба
+Multiple use|комплексное использование (ресурсов)
+Negligence|халатность
+Noise pollution/standards|шумовое загрязнение/нормы шумового загрязнения
+Non-point source of pollution|неточечный источник загрязнения
+Occupational disease|профессиональное заболевание
+Oil slick|нефтяная пленка (на воде)
+Ozone depleting substances (ODS)|озоноразрушающие вещества
+Ozone hole|озоновая дыра
+Ozone layer|озоновый слой
+Permafrost|вечная мерзлота
+Pesticide|пестицид
+Poacher|браконьер
+Pollutant|загрязняющее вещество
+Preserve, sanctuary|заповедник
+Prey upon|охотиться
+Quality Assurance/ Quality Control (QA/QC)|обеспечение качества/контроль качества
+Radioactive wastes|радиоактивные отходы
+Recycling|вторичное использование, переработка, рециркуляция
+Reduce the threat|снижать угрозу
+Renewable energy|возобновляемая энергия
+Reservoir|водоем
+Runoff|сток, отвод
+Salinity|соленость, засоление
+Sampling|отбор проб
+Sediment, precipitation|осадки
+Seismic sea wave/tsunami|цунами
+Sewage|стоки, нечистоты
+Sewage system|система очистки сточных вод
+Sludge, slurry|осадок, ил, шлак
+Solid waste management|утилизация твердых отходов
+Sustainable development|устойчивое развитие
+Taxidermy|изготовление чучел
+Thermal pollution|тепловое загрязнение
+Timber|лесоматериалы
+Toxic substance|токсическое вещество
+Unleaded petrol|бензин без свинца, неэтилированный бензин
+Unrenewable resources|невозобновляемые ресурсы
+Visual pollution|визуальное загрязнение окружающей среды
+Volcano eruption|извержение вулкана
+Wastes|отходы
+Water abstraction|водозабор
+Water quality criteria|критерии качества воды
+сhlorine|хлор

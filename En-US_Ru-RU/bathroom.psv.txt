@@ -1,0 +1,57 @@
+quiz.properties|name=Bathroom~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+After shave lotion|лосьон после бритья
+Air freshener|освежитель воздуха
+Barrettes|заколки
+Bath mat/bath rug|коврик для ванной
+Bath towel|банное полотенце
+Bathtub/tub|ванна
+Bobby pins|невидимки
+Cold water faucet|кран холодной воды
+Comb|расческа
+Conditioner/rinse|кондиционер для волос
+Dental floss|зубная нить
+Deodorant|дезодорант
+Drain|сток
+Emery board|пилочка для полировки ногтей
+Fan|вентилятор
+Hair brush|щетка для волос
+Hair clips|заколки
+Hair dryer|фен
+Hairspray|лак для волос
+Hamper|корзина для белья
+Hand towel|полотенце для рук
+Hot water faucet|кран горячей воды
+Medicine cabinet/medicine chest|аптечка
+Mirror|зеркало
+Mouthwash|ополаскиватель для рта
+Nail clipper|кусачки
+Nail file|пилочка для ногтей
+Plunger|вантус
+Razor|бритва
+Razor blades|лезвия
+Rubber mat|резиновый коврик
+Scissors|ножницы
+Shampoo|шампунь
+Shaving creme|крем для бритья
+Shower|душ
+Shower cap|шапочка для купания
+Shower curtain|шторка
+Shower curtain rod|карниз для душевой занавеси
+Sink|раковина
+Soap|мыло
+Soap dish|мыльница
+Soap dispenser|дозатор для мыла
+Sponge|губка, мочалка
+Styptic pencil|кровоостанавливающий карандаш
+Toilet|унитаз
+Toilet brush|йоршик
+Toilet paper|туалетная бумага
+Toilet paper holder|держатель для туалетной бумаги
+Toilet seat|сиденье на унитаз
+Toilet tank|сливной бачок
+Toothbrush|зубная щетка
+Toothbrush holder|держатель зубной щетки
+Towel rack|вешалка для полотенец
+Tweezers|пинцет
+Vanity|туалетный столик
+Washcloth|мочалка из махровой ткани

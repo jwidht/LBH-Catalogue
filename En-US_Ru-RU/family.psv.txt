@@ -1,0 +1,98 @@
+quiz.properties|name=Family~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+A baby|младенец
+A little boy/girl|маленький ребёнок
+A middle-aged person|человек среднего возраста
+A new-born baby|новорожденный
+A person advanced in years|человек преклонного возраста
+A person getting on in years|человек пожилого возраста
+A teenager|подросток
+A toddler|малыш от года до двух
+Acquaintance|знакомый; знакомая
+An adult|взрослый
+Ancestor|предок
+Aunt|тетя; тетка
+Bachelor|холостяк
+Boarding-school|интернат
+Bride|невеста
+Bridegroom|жених
+Bridesmaid|подружка невесты
+Bridesman, best man|шафер
+Brother|брат
+Cousin|двоюродный брат, двоюродная сестра; кузен, кузина
+Daughter|дочь
+Descendant|потомок
+Divorced|разведенный
+Engaged|помолвленный
+Ex-husband|бывший муж
+Ex-wife|бывшая жена
+Families|члены семьи
+Father|отец
+Father-in-law|свекор, тесть
+Fiance|жених
+Fiancee|невеста
+Foster-child|приёмный ребёнок
+Friend|друг
+Grandchild|внук; внучка
+Granddaughter|внучка
+Grandfather, grandpapa|дедушка
+Grandma|бабушка (ласкательное)
+Grandmother, grandmamma|бабушка
+Grandpa|дедушка (ласкательное)
+Grandparent (s)|дед и бабка
+Grandson|внук
+Great-grandchild|правнук; правнучка
+Half-brother|сводный брат
+Husband|муж
+In-laws|родители жены/мужа
+Marital relationships|брак
+Marriage|брак
+Married|женатый
+Mother|мать
+Mother-in-law|свекровь, теща
+Nephew|племянник
+Newly-weds|молодожены
+Niece|племянница
+Nurse|няня
+Old folks|родители
+Orphan|сирота
+Parents|родители
+Part/role|роль
+Relative|родственник
+Remote kinsman|дальний родсвенник
+Second cousin|троюродный брат/сестра
+Single|одинокий, неженатый
+Sister|сестра
+Son|сын
+Son-in-law|зять (муж дочери)
+Spinster|старая дева
+Spouse|супруг, супруга
+Step-daughter|падчерица
+Step-father|отчим
+Step-mother|мачуха
+Summer|лето
+The only child|единственный ребёнок
+To adopt|усыновить
+To be born|родиться
+To be of age|стать совершеннолетним
+To bring up|воспитывать
+To call the actors|вызывать на поклон
+To court|ухаживать
+To die|умереть
+To divorce|расторгнуть брак
+To get married|жениться
+To relate|состоять в родстве
+To take after|пойти в кого-либо
+Tonsillitis|тонзилит
+Twin|близнецы
+Twin-brother|брат-близнец
+Twin-sister|сестра-близнец
+Uncle|дядя
+Wedding|свадьба, венчание
+Wedding-cake|свадебный торт
+Wedding-dress|свадебное платье
+Wedding-ring|обручальное кольцо
+Widow|вдова
+Widowed|вдовый
+Widower|вдовец
+Wife|жена
+Youngster|юноша

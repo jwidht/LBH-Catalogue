@@ -1,0 +1,90 @@
+quiz.properties|name=Medical Aid~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Aggravatoin|ухудшение
+Ambulance|машина скорой помощи
+Anaesthetic|обезболивающее
+Animal's bites|укусы животных
+Anoculation against|вакцина против
+Artificial respiration|искусственное дыхание
+Bad burn (a 3-degree burn)|сильный ожог
+Band-aid|лейкопластырь
+Bandage|бинт
+Become delirious|начать бредить
+Bleeding cut|порез
+Boric acid|борная кислота
+Bout|припадок
+Bur|заусеница
+Burnt area|участок ожога
+Cast|гипс
+Cavity|полость/ дупло в зубе
+Cleanse|дезинфицировать
+Common injury|обычное повреждение
+Complain of|жаловаться на
+Contagious/catching|заразный
+Contract|подцепить болезнь
+Cotton-wool/wadding|вата
+Cruthes|костыли
+Dab|мазок
+Delirium|бред
+Donor|донор
+Dose|доза
+Dressing/bandage|повязка
+Exhale|выдыхать
+Expectoration|отхаркивание
+Flap/valve/vent|клапан
+Fluid/liquid|жидкость
+Gam|женский гигиенический пакет
+General malais|общее недомогание
+Hearing aid|слуховой аппарат
+Hiccup|икота/икать
+Hydrocarboit|углеводы
+Hygiene|гигиена
+Imbecility|слобоумие
+Inhale|вдыхать
+Insect's stings|укусы насекомых
+Iodine|йод
+Irrigation|промывание ран
+Lavement|промывание желудка
+Laxative/aperient/purgative|слабительное
+Medicine dropper|пипетка
+Medicine, drug|лекарство
+Medicine, medical science|медицина
+Metabolism|обмен веществ
+Minor burn|незначительный ожог
+Molar|коренной зуб
+Mucus|слизь
+Numb (numbness)|онемевший
+Operation|операция
+Oxygen|кислород
+Painkiller|болеутоляющее средство
+Patient|пациент
+Perspiration|потовыделение
+Prescription|рецепт
+Prophylactic measures|профилактические меры
+Protein|белок
+Pulse|пульс
+Pus|гной
+Red-blood cell|эритроциты
+Remedy, cure|средство
+Saliva/spittle|слюна
+Sedative|успокоительное, болеутоляющее средство
+Serum|сыворотка
+Sharp pain|острая боль
+Side-effect|побочное действие
+Soporific/sleeping draught|снотворное
+Splint|шина
+Stools/bea|кал
+Subside|оседать
+Surgery|хирургия
+Syringe|шприц
+Tablet, pill|таблетка
+Thermometer|термометр
+To put in a cast/to put a cast on|наложить гипс
+Tourniquet|жгут
+Treat smb for smth|лечить кого-то от чего-то
+Urine|моча
+Vaccination|прививка
+Vaseline|вазелин
+Vomitting/retch|рвота
+White-blood cell|лейкоциты
+Wholesome|полезный
+X-ray|рентген

@@ -1,0 +1,23 @@
+quiz.properties|name=Cosmetics~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Cleanser|очищающее средство
+Comb|гребень;расчёска
+Cream|крем
+Deodorant|дезодорант, деодорант
+Eye shadow|тени для век
+Eyebrow pencil|карандаш для бровей
+Eyeliner|подводка для глаз; карандаш или жидкость для подведения глаз
+Hair conditioner|кондиционер
+Hairbrush|щетка для волос
+Kleenex|бумажный носовой платок; «клинекс», бумажный носовой платок (по названию фирмы-производителя)
+Lip liner|карандаш для губ
+Lip-gloss|блеск для губ
+Lipstick|губная помада
+Looking glass|маленькое зеркальце; зеркало
+Lotion|лосьон, жидкое косметическое средство
+Mascara|тушь для ресниц – брасматик
+Nail file|пилочка для ногтей
+Nail polish|лак для ногтей
+Perfume|духи
+Powder|пудра
+Rouge|румяна
+Shampoo|шампунь

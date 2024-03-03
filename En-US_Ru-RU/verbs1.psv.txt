@@ -1,0 +1,87 @@
+quiz.properties|name=глаголы 1~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=36~~fontsize_a=36
+begin, began, begun|начинать
+let, let, let|позволять
+keep, kept, kept|хранить, держать
+mean, meant, meant|означать, иметь ввиду
+put, put, put|положить, ставить
+leave, left, left|оставлять, покидать
+become, became, become|становиться
+feel, felt, felt|чувствовать
+need, needed, needed|нуждаться
+ask, asked, asked|просить, спрашивать
+try, tried, tried|пытаться, стараться, пробовать
+call, called, called|звать, звонить
+work, worked, worked|работать
+tell, told, told|рассказывать
+give, gave, given|давать
+find, found, found|находить
+use, used, used|использовать
+want, wanted, wanted|хотеть
+come, came, come|приходить
+see, saw, seen|видеть
+take, took, taken|брать
+think, thought, thought|думать
+know, knew, known|знать
+make, made, made|делать, производить
+get, got, got/gotten|получать
+go, went, gone|идти
+say, said, said|говорить
+appear, appeared, appeared|появляться
+consider, considered, considered|считать
+remember, remembered, remembered|помнить
+offer, offered, offered|предлагать
+teach, taught, taught|учить
+win, won, won|побеждать
+walk, walked, walked|идти, прогуливаться
+open, opened, opened|открывать
+grow, grew, grown|расти, выращивать
+spend, spent, spent|тратить
+read|читать
+speak, spoke, spoken|говорить
+create, created, created|создавать
+stop, stopped, stopped|останавливать
+follow, followed, followed|следовать
+watch, watched, watched|смотреть
+understand, understood, understood|понимать
+lead, led, led|вести (за собой)
+change, changed, changed|менять, обменивать, переодеваться
+learn, learned, learned|учить
+set, set, set|устанавливать
+continue, continued, continued|продолжать
+include, included, included|включать (в себя)
+meet, met, met|встречаться
+pay, paid, paid|платить
+lose, lost, lost|терять
+stand, stood, stood|стоять
+sit, sat, sat|сидеть
+write, wrote, written|писать
+happen, happened, happened|случаться
+bring, brought, brought|приносить
+believe, believed, believed|верить
+move, moved, moved|двигаться
+run, ran, run|бежать
+play, played, played|играть
+hear, heard, heard|слышать
+show, showed, shown|показывать
+help, helped, helped|помогать
+seem, seemed, seemed|казаться
+miss|промахиваться, скучать
+meet|встретиться, познакомиться
+reach|добраться, достать (до звезды)
+get used to|привыкать
+save|экономить, спасать, беречь, сохранять
+think|думать
+wash|мыть
+watch|смотреть
+need|нужно
+should|должен (был)  бы
+will|образователь будущего
+ought to|должен бы
+must|должен
+might|возможно, может
+may|можно
+could|мог, смог, умел, сумел (бы)
+can|могу, умею
+wait|ждать
+want|хотеть
+

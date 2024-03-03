@@ -1,0 +1,72 @@
+quiz.properties|name=Law~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Abuse of power|злоупотребление властью, полномочиями
+Arson|поджог
+Assault|нападение
+Attorney for defence|адвокат по защите
+Attorney for the plaintiff|адвокат истца
+Bailiff|судебный исполнитель/ судебный пристав
+Blackmail|шантаж
+Breaking and entering|взлом с проникновением
+Bribe|взятка
+Briber|тот, кто даёт взятку
+Bribetaker|взяточник
+Burglary|кража со взломом
+Claimant/plaintiff|заявитель / истец (в цивильных делах)
+Contempt of court|неуважение к суду
+Court; trial|суд
+Crime, criminality|преступность
+Crime, offence|преступление
+Criminal, offender|преступник
+Death penalty, capital punishment|смертная казнь
+Defendant|ответчик / обвиняемый /подсудимый
+Disorderly conduct|хулиганство / нарушение общественного порядка
+Embezzlement|присвоение или растрата имущества
+Felony|уголовное преступление
+Forgery|подлог или подделка документа
+Fraud|мошенничество
+Guilty (of)|виновный (в чём)
+House-breaking|проникновение в дом
+Innocent (of), not guilty (of)|невиновный (в чём)
+Jury|присяжные
+Kidnapping|похищение человека с целью выкупа
+Manslaughter/homicide|убийство
+Misdemeanor|преступление / судебно наказуемый проступок
+Mugging|грабёж
+Murder|убийство
+Perjury|ложное показание под присягой
+Petty offence|мелкое преступление
+Prison, jail|тюрьма
+Prisoner, convict|заключённый
+Probation officer|инспектор, наблюдающий за поведением условно осужденных преступников
+Prosecutor|прокурор
+Punishment|наказание
+Rape|изнасилование
+Responsibility|ответственность
+Robbery, mugging|уличный грабёж
+Sentence; verdict|приговор
+Shoplifting|магазинная кража
+Slander|клевета
+Speeding|превышение дозволенной скорости
+Subpoena|повестка в суд
+Suicide|самоубийство
+Swindling|мошенничество/ жульничество
+Theft|кража
+Thief|вор
+To accuse (of); to charge (with)|обвинять/обвинить (в чём)
+To arrest|арестовывать/арестовать
+To beat (up)|избивать/избить
+To bring lawsuit|привести иск
+To commit a crime|совершать/совершить преступление
+To condemn/sentence to death|приговаривать/приговорить к смерти
+To file a complaint|подавать жалобу
+To interrogate, to question|допрашивать/допросить
+To issue somebody a summons|выдать кому-то вызов
+To kill oneself, to commit suicide|покончить с собой
+To kill; to murder; to assassinate|убивать/убить
+To plead guilty|признать себя виновным
+To punish|наказывать/наказать
+To put in prison, to imprison, to jail|заключать/заключить в тюрьму
+To steal|красть/украсть
+Vandalism|вандализм
+Warrant of arrest|ордер на арест
+Witness|свидетель

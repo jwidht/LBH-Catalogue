@@ -1,0 +1,53 @@
+quiz.properties|name=Время~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=36~~fontsize_a=36
+at 5 o'clock|в пять часов
+on Monday|в понедельник
+in May|в мае
+in winter|зимой
+after|после
+before|до того, перед этим
+last time|в прошлый раз
+next time|в следующий раз
+last summer|прошлым летом
+this week, this months|на этой неделе, в этом месяце
+next year|в следующем году
+we will go home in an hour|через час мы пойдем домой
+I saw him 2 weeks ago|я видел его две недели назад
+5 years ago|пять лет назад
+in 5 years|через пять лет
+in 4 months|через четыре месяца
+in 2 weeks|через две недели
+in 3 days|через три дня
+in|через
+now|сейчас
+today|сегодня
+tomorrow|завтра
+yesterday|вчера
+winter|зима
+spring|весна
+summer|лето
+autumn|осень
+January|январь
+February|февраль
+March|март
+April|апрель
+May|май
+June|июнь
+July|июль
+August|август
+September|сентябрь
+October|октябрь
+November|ноябрь
+December|декабрь
+Sunday|воскресенье
+Saturday|суббота
+Friday|пятница
+Thursday|четверг
+Wednesday|среда
+Tuesday|вторник
+Monday|понедельник
+daily|каждый день
+usually|обычно
+often|часто
+seldom|редко
+lately|недавно, в последнее время
+

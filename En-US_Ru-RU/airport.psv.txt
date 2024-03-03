@@ -1,0 +1,65 @@
+quiz.properties|name=Airport~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Air sickness bag|мешок при воздушной болезни
+Airport|аэропорт
+Airplane|самолет
+Aisle|проход
+Aisle seat|место возле прохода
+Armrest|подлокотник
+Arrival and departure monitor|монитор вылетов и прилетов
+Baggage carousel|багажный транспортер
+Baggage claim area|зонa получения багажа
+Baggage claim check|багажный талон
+Boarding pass|посадочный талон
+Cabin|кабина, салон в самолете
+Call button|кнопкa вызова
+Cargo door|грузовой люк
+Carry-on bag|ручная кладь
+Check-in counter|стойка
+Co-pilot|второй пилот
+Cockpit|кабина летчика
+Concession stand/snack bar|закусочная
+Control tower|диспетчерская вышка
+Customs|таможня
+Customs declaration form|таможенная декларация
+Duty-free shop|магазин беспошлинной торговли
+Emergency exit|аварийный выход
+Emergency instruction card|инструкция по поведению в чрезвычайных ситуациях
+Fasten Seat Belt sign|сигнал "Пристегните ремни"
+First-class section|первый класс
+Flight attendant|бортпроводник
+Flight engineer|бортинженер
+Fuselage|фюзеляж
+Galley|камбуз
+Garment bag|мешок для одежды
+Gate|вход /выход
+Gift shop|сувенирный магазин
+Immigration officer|cотрудник иммиграционной службы
+Instrument panel|панель контрольно-измерительных приборов
+Landing gear|шасси
+Lavatory|туалет
+Life vest|спасательный жилет
+Luggage carrier|тележка
+Metal detector|металлоискатель
+Middle seat|среднее сидение
+No Smoking sign|сигнал "Не курить"
+Overhead compartment|багажная полка
+Oxygen mask|кислородная маска
+Passport|паспорт
+Pilot/captain|пилот
+Runway|взлетно-посадочная полоса
+Seat belt|ремень безопасности
+Seat pocket|карман кресла
+Security checkpoint|контрольно-пропускной пункт
+Security guard|охранник
+Suitcase|чемодан
+Tail|хвост
+Terminal|терминал
+Ticket|билет
+Ticket agent|кассир билетной кассы
+Ticket counter|касса
+Tray|поднос
+Visa|виза
+Waiting area|зонa ожидания
+Window seat|место возле окна
+Wing|крыло
+X-ray machine|Рентгеновский аппарат для осмотра багажа 

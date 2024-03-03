@@ -1,0 +1,39 @@
+quiz.properties|name=Public Transportation~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Arrival and departure board|информационное табло
+Bus|автобус
+Bus driver|водитель автобуса
+Bus fare|плата за проезд на автобусе
+Bus station|автовокзал
+Commuter|коммутатор , пассажир, пользующийся сезонным билетом
+Conductor|проводник
+Controller|контроллер
+Dining car|вагон-ресторан
+Engine|локомотив
+Fare box|окно для оплаты в автобусе
+Fare card|проездной
+Handrail /handhold|поручень
+Information booth|справочное бюро
+Luggage compartment|багажное отделение
+Luggage/baggage|багаж
+Meter|счетчик в такси
+Passenger|пассажир
+Passenger car|легковой автомобиль/общий вагон
+Platform|платформа
+Porter/redcap|носильщик
+Route taxi|маршрутное такси
+Scedule/timetable|расписание
+Seat|место
+Sleeper|спальный вагон
+Stop|остановка
+Subway station|станция метро
+Taxi/cab/taxi cab|такси
+Ticket counter|касса
+Ticket window|касса
+Token|жетон
+Token booth|будка по продаже жетонов в метро
+Track|рельсовый путь
+Train|поезд
+Train station|Железнодорожный вокзал
+Tram|трамвай
+Trolleybus|троллейбус
+Turnstile|турникет

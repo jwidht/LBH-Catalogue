@@ -1,0 +1,80 @@
+quiz.properties|name=Слова №1~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=36~~fontsize_a=36
+merge|слияние, соединение
+rich|богатый
+lower|нижний, низший, снижать, уменьшать, опускать
+low|низкий, невысокий, дешёвый
+food leftovers|остатки еды
+snack|закуска, перекус
+taste|вкус
+it does not matter|это неважно
+what's wrong?|что не так?
+charts|графика
+thing|вещь
+dairy|молочная продукция
+intersection|перекресток
+I do not have to pay|я не должен платить
+not|отрицание (не могу, не умею - ставится после элемента)
+I'd better stay than go|я лучше останусь, чем уйду
+I'd rather|скорее (в смысле я скорее заплачу, чем уйду)
+I'd better|лучше (в смысле я лучше останусь, чем уйду)
+such|такие
+plenty of|много
+a lot of|много
+several|несколько
+few|мало
+many|много
+some|некоторый, некий, какой-то, некоторые
+those|те
+these|эти
+that|тот
+this|этот, эта, это
+any|любой, какой угодно
+no|не, нет
+other|другой
+exactly|точно
+there|там
+here|здесь
+wanna (want to)|хочу сделать
+gonna (going to)|собираюсь сделать
+whose|чей, чья, чьё, чьи
+which|который
+certainly|конечно
+possibly|возможно
+perhaps|может быть
+plenty|множество
+probably|возможно
+ware|изделие
+bed|кровать
+water|вода
+weather|погода
+wake|проснуться, разбудить
+later|позже
+last|последний, прошлый
+wear, wore|носить, одеть, надевать
+bad|плохой
+back|назад, спина, задняя часть
+bag|сумка, мешок
+heart|сердце
+head|голова
+hand|рука
+hair|волосы
+hard|упорный, крепкий, тяжкий, жесткий, усердный
+worms|черви
+wall|стена
+way|путь, дорога
+walk|прогулка, ходьба
+worst|самый плохой
+worse|хуже
+bad|плохой
+best|самый лучший
+better|лучше
+good|хороший
+most|самый
+more|более
+than|чем
+they, them, their|они, им, их
+we, us, our|мы, нам, наше
+she, her, her|она, ей, её
+he, him, his|он, ему, его
+you, you, your|ты, тебе, твой
+I, me, my|я, мне, мой

@@ -1,0 +1,115 @@
+quiz.properties|name=Animals~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Ant|муравей
+Antelope|антилопа
+Badger|барсук
+Bat|летучая мышь
+Bear|медведь
+Beaver|бобер
+Bee|пчела
+Beetle|жук
+Blackbird|дрозд
+Budgie|волнистый попугайчик
+Bug|жук,клоп
+Bull|бык
+Butterfly|бабочка
+Buzzard|канюк
+Calf|теленок
+Canary|канарейка
+Cat|кот
+Caterpillar|гусеница
+Chicken|цыпленок
+Cock|петух
+Cockroach|таракан
+Cow|корова
+Crane|журавль
+Crocodile|крокодил
+Crow|ворона
+Cuckoo|кукушка
+Deer|олень
+Dog|собака
+Donkey|осел
+Duck|утка
+Duckling|утенок
+Eagle|орел
+Elephant|слон
+Elk|лось
+Falcon|сокол
+Ferret|хорёк
+Flamingo|фламинго
+Fly|муха
+Fox|лисица
+Frog|лягушка
+Giraffe|жираф
+Gnat|комар, москит
+Goat|козел
+Goose|гусь
+Gorilla|горилла
+Grasshopper|кузнечик
+Guinea pig|морская свинка
+Hare|заяц
+Hawk|ястреб
+Heath-cock|тетерев-косач
+Hedgehog|ёж
+Hen|курица
+Heron|цапля
+Horse|лошадь
+Kangaroo|кенгуру
+Kid|козленок
+Kitten|котенок
+Ladybird|божья коровка
+Lamb|ягненок
+Lark|жаворонок
+Leech|пиявка
+Lion|лев
+Lizard|ящерица
+Lynx|рысь
+Magpie|сорока
+Monkey|обезьяна
+Moth|моль
+Mouse|мышь
+Nightingale|соловей
+Ostrich|страус
+Owl|сова
+Ox|вол, бык
+Parrot|попугай
+Partridge|куропатка
+Peakcock|павлин
+Penguin|пингвин
+Pheasant|фазан
+Pig|поросенок
+Pigeon/dove|голубь
+Polar bear|белый медведь
+Pony|пони
+Puppy|щенок
+Rabbit|кролик
+Ram|баран
+Rat|крыса
+Raven|ворон
+Rhino; rhinoceros|носорог
+Scorpion|скорпион
+Seagull|чайка
+Seal|тюлень
+Shark|акула
+Sheep|овца
+Snail|улитка
+Snake|змея
+Sparrow|воробей
+Spider|паук
+Squirrel|белка
+Starfish|морская звезда
+Stork|аист
+Swallow|ласточка
+Swan|лебедь
+Tiger|тигр
+Titmouse|синица
+Tortoise|черепаха
+Turkey|индюк
+Turtledove|горлица
+Viper|гадюка
+Vulture|гриф
+Wasp|оса
+Wild boar|дикий кабан
+Wolf|волк
+Woodpecker|дятел
+Worm|червь
+Zebra|зебра

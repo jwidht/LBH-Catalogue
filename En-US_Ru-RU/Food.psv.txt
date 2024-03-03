@@ -1,0 +1,255 @@
+quiz.properties|name=Food~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Apricot|абрикос
+Artichoke|артишоки
+Asparagus|спаржа
+Aubergine, egg-plant|баклажаны
+Avocado|авокадо
+Back rasher|корейка
+Bacon|бекон, копченая свиная грудинка
+Bacon and eggs|яичница с беконом
+Bake|печь
+Banana|банан
+Bar|мера, плитка
+Barbecue|барбекю
+Barley|ячмень
+Beans|фасоль
+Beef Stroganoff|бефстроганов
+Beef tea|крепкий бульон
+Beefsteak|бифштекс
+Bilberry huckleberry|черника
+Biscuit|бисквит
+Bite|кусать
+Bitter|горький
+Black currant|смородина
+Blackberry|ежевика
+Bland|нежный
+Boil|кипятить
+Boiled sausage|колбаса вареная
+Borscht, borsch|борщ
+Breadcrumbs|панировочные сухари
+Breakfast|завтрак
+Broccoli|брокколи
+Broth|бульон
+Brussels sprouts|брюссельская капуста
+Buckwheat|гречка
+Buffet|шведский стол
+Bun|булочка
+Butter|масло сливочное
+Cabbage|капуста
+Cabbage soup|щи
+Cake|кекс, пирожное
+Candy|конфеты
+Cauliflower|цветная капуста
+Caviare sandwich|бутерброд с икрой
+Celery|селера
+Cereal|хлопья
+Cheese|сыр
+Cheese cake|творожный пирог
+Cheese sandwich|бутерброд с сыром
+Cherry|вишня
+Chew|жевать
+Chicken|курица
+Chicken broth|куриный бульон
+Chilli|острый перец
+Chocolate|шоколад
+Chop, cutlet|отбивная
+Coconut|кокос
+Cook|готовить
+Cookies|печенье
+Corn flakes|кукурузные хлопья
+Corned-beef sandwich|бутерброд с солониной
+Cottage cheese|творог
+Crabmeat|краб
+Cranberry|клюква
+Creamy|сливочный, жирный
+Crisp|хрустящий
+Crumbs|крошки
+Crunchy|хрустящий
+Cucumber|огурцы
+Carrot|морковь
+Dessert|Десерт
+Dinner|ужин
+Dough|тесто
+Doughnut|пончик
+Duck|утка
+Dumpling|клёцка, пельмень
+Egg sandwich|бутерброд с яйцом
+Empanada|пирожки слоеные
+Fast food|еда на скорую руку
+Fill|наполнить
+Fish soup|уха
+Flake pie|слоёный пирог
+Flour|мука
+Four-course meal|четырехразовое питание
+Fresh|свежий
+Fried eggs, sunny-side up eggs|яичница-глазунья
+Fruit and berries paste|пастила
+Fry|жарить
+Game|дичь
+Garlic|чеснок
+Ginger|имбирь
+Gingerbread|имбирный пряник
+Gooseberry|крыжовник
+Grain|зерно
+Grape|виноград
+Grapefruit|грейпфрут
+Green pea|зеленый горошек
+Grill|готовить на гриле
+Grouper|морской окунь
+Gruel|каша
+Ham|ветчина
+Ham and eggs|яичница с ветчиной
+Hard-boiled eggs|яйца вкрутую
+Heads of cabbage|кочанная капуста
+Heat|греть, подогревать
+Herring|сельдь
+Hominy|мамалыга
+Honey|мед
+Hot|горячий
+Hunch of bread|ломоть хлеба
+Ice cream|мороженое
+Jam|варенье
+Jelly|желе
+Kidney|почка
+Kiwi|киви
+Kohlrabi|кольраби
+Laminaria|морская капуста
+Lean bacon|постный бекон
+Leavened dough|дрождевое тесто
+Leek|лук порей
+Lemon|лимон
+Liter|литр
+Liver|печень
+Loaf|батон
+Lobster|омар
+Lump|кусок (сахар)
+Lunch|ланч
+Macaroni|макароны
+Maize|кукуруза
+Mango|манго
+Meat|мясо
+Meat dumplings|пельмени
+Meatballs|фрикадельки
+Melted butter|масло топленое
+Mild|неострый, некрепкий, мягкий
+Milk porridge|молочная каша
+Millet|пшено
+Mince pie|пирог с фаршем
+Mix|смешать
+Mushroom|гриб
+Mutton|баранина
+Noodle|лапша
+Nut|орех
+Oatmeal|овсяная крупа
+Oats|овёс
+Olive oil, olive|масло оливковое
+Omelet(te)|омлет
+Onion|лук
+Orange|апельсин
+Overcooked|переваренный
+Oyster|устрицы
+Pancake|блин
+Parsley|петрушка
+Paste;|паштет
+Pastry|выпечка
+Pea soup|гороховый суп
+Peach|персик
+Peanut|арахис
+Pear|груша
+Pearl barley|перловка
+Peeled barley|ячневая крупа
+Pepper|перец
+Picnic|пикник
+Pie|пирог
+Pike|щука
+Pikeperch|судак
+Pineapple|ананас
+Plaice|камбала
+Plum|слива
+Plum cake|кекс с изюмом
+Poach|варить на медленном огне
+Pomegranate|гранат
+Pork|свинина
+Pork|свинина
+Porridge|каша
+Potato|картофель
+Poultry|птица
+Pour|лить
+Pudding|пудинг
+Puff|слойка
+Rabbit|кролик
+Radish|редис
+Raspberry|малина
+Raw|сырой
+Rich dough|сдобное тесто
+Ring roll|бублик
+Ripe|созревший
+Roast|запекать
+Roast beef|ростбиф
+Roll|булка
+Rotten|сгнивший
+Rusk|сухарь
+Rye|рожь
+Rye-bread, brown bread|хлеб черный
+Salmon|лосось
+Salty|соленый
+Sandwich|бутерброд
+Sardines|сардины
+Sauerkraut|кислая капуста
+Sausage|сосиски
+Savo(u)ry|пикантный
+Scone|коржик, лепёшка
+Scrambled eggs|яичница-болтунья
+Seafoods|морепродукты
+Sell-by date|срок годности
+Semolina|манка
+Shake|встряхнуть
+Shrimp|креветки
+Sickly|тошнотворный
+Sip|пригубить, сделать маленький глоток, потягивать
+Smoked sausage|колбаса копченая
+Snack|закуски
+Soft caviar(e)|икра (зернистая)
+Soft-boiled eggs|яйца всмятку
+Sour|кислый
+Sour cream|сметана
+Spicy|острый
+Sponge|бисквит
+Spring onion|зелёный лук
+Stale bread|черствый хлеб
+Steam|готовить на пару
+Stew|тушить
+Stir|взболтать, размешать
+Stodgy|густой
+Strawberry|клубника
+Sturgeon|осетрина
+Sugar|сахар
+Summer sausage|колбаса сырокопченая
+Swallow|глотать
+Sweet|сладкий
+Sweet corn|кукуруза
+Tart|открытый фруктовый пирог
+Tasteless|безвкусный
+To knead the dough|месить тесто
+To sieve flour|просеивать муку
+Toast|тост
+Tomato|помидор
+Tongue|язык
+Tough|жёсткий
+Trout|форель
+Turkey|индейка
+TV dinner|обед из полуфабрикатов
+Undercooked|недоваренный
+Unripe|незрелый
+Veal|телятина
+Vegetable oil, vegetable fat, fat, seed-oil|масло растительное
+Vegetable salad|салат из овощей
+Vegetable soup|овощной суп
+Vermicelli|вермишель
+Walnut|грецкий орех
+Water melon|арбуз
+Wedding-cake|свадебный торт
+Wheat|пшеница
+White bread, wheat bread|хлеб белый
+Wurst, sausage|колбаса
+Zucchini, courgette|кабачок

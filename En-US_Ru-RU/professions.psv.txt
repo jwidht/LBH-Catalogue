@@ -1,0 +1,117 @@
+quiz.properties|name=Professions~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Accountant|бухгалтер
+Actor (actress)|актер (актриса)
+Agronomist|агроном
+Air steward|стюард на самолете
+Architect|архитектор
+Artist; painter|художник
+Assistant|помощник
+Author|автор; писатель
+Baker|пекарь
+Ballet-master|балетмейстер
+Barber|парикмахер мужской
+Barman / barmaid|бармен / бармен женщина
+Biologist|биолог
+Bricklayer|каменщик
+Bricklayer|каменьщик
+Builder|строитель
+Bus driver|водитель автобуса
+Businessman / businesswoman|бизнесмен
+Butcher|мясник
+Caretaker|смотритель, сторож
+Carpenter|плотник
+Chef|шеф-повар
+Chemist|химик, аптекарь
+Civil servant|государственный служащий, чиновник
+Clerk|клерк
+Combine-operator|комбайнер
+Company director|директор компании
+Computer operator|оператор ПК
+Confectioner|кондитер
+Cook|повар
+Decorator|дизайнер, оформитель
+Dentist|дантист (зубной врач)
+Designer|дизайнер
+Director|директор, член совета директоров
+Docker|докер
+Doctor|врач
+Driver|водитель
+Economist|экономист
+Editor|редактор
+Electrician|электрик
+Employee|служащий
+Engineer|инженер
+Farmer|фермер
+Film director|кинорежиссер
+Fireman|пожарник
+Fisherman|рыбак
+Fishmonger|торговец рыбой
+Flight attendant|стюардесса / стюард
+Garbageman (refuse collector)|мусорщик
+Geologist|геолог
+Hairdresser|парикмахер
+Head teacher|завуч (преподаватель-методист)
+Historian|историк
+Interpreter|переводчик
+Jeweler|ювелир
+Journalist|журналист
+Judge|судья
+Lawyer|юрист
+Lecturer|лектор, докладчик
+Locksmith|слесарь
+Locomotive engineer|машинист
+Manager|директор
+Manufacturer|промышленник
+Mathematician|математик
+Mechanician|механик
+Messenger|курьер
+Milling-machine operator|фрезеровщик
+Miner|шахтер
+Musician|музыкант
+Nurse|медсестра
+Oil worker|нефтянщик
+Optician|глазной врач
+Painter|маляр
+Personal assistant|личный секретарь
+Philologist|филолог
+Photographer|фотограф
+Physicist|физик
+Pilot|летчик
+Plumber|водопроводчик
+Poet|поэт
+Politician|полицейский
+Politician|политик
+Porter|швейцар, носильщик
+Priest; clergyman|священник
+Printer|типографщик
+Professor|профессор
+Programmer|программист
+Public prosecutor|прокурор
+Receptionist|служащий в приемной (ресепшионист)
+Sailor|моряк
+Salesman / saleswoman|продавец / продавщица
+School headmaster|школьный директор
+Scientist|ученый
+Sculptor|скульптор
+Secretary|секретарь
+Shoemaker|сапожник
+Shop assistant|продавец, продавщица
+Soldier|военнослужащий, солдат
+Solicitor|адвокат
+Surgeon|хирург
+Tailor|портной
+Teacher|преподаватель
+Telephone operator|телефонист(ка)
+Telephonist|телефонист(ка)
+Tractor driver|тракторист
+Train driver|машинист поезда
+Translator|переводчик
+Travel agent|агент бюро путешествий
+Turner|токарь
+Vet (сокр. от veterinary surgeon)|ветеринар
+Waiter|официант
+Warder|сторож, тюремщик
+Weaver|ткач
+Welder|сварщик
+Worker|рабочий
+Writer|писатель

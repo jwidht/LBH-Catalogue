@@ -1,0 +1,123 @@
+quiz.properties|name=Sport~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Aerobics|аэробика
+An athlete|спортсмен
+Archery|стрельба из лука
+Arrow|стрела
+Badminton|бадминтон
+Barbell|штанга
+Baseball|бейзбол
+Basketball|баскетбол
+Bat|ракетка
+Beach volleyball|пляжный волейбол
+Biathlon|биатлон
+Billiards|бильярд
+Bow|лук
+Bowling/ skittles|боулинг/кегли
+Boxing|бокс
+Breaststroke|брасс
+Bridge|мостик
+Butterfly stroke|баттерфляй
+Canoeing|гребля на каноэ
+Car racing|гонки
+Chess|шахматы
+Climbing|скалолазанье
+Climbing rope|канат
+Club|клюшка
+Coach|тренер
+Court|корт
+Crawl stroke|кроль
+Crew|команда
+Cricket|крикет
+Cross-country skiing / langlauf|бег на лыжах
+Crouch start|низкий старт
+Cue|кий
+Curling|кёрлинг
+Cycling|велоспорт
+Darts|метание дротиков, дартс
+Dice|кости
+Diving|прыжки в воду
+Downhill skiing|горнолыжный спорт
+Draughts|шашки
+Fencing|фехтование
+Figure skating|фигурное катание
+Fin/flipper|ласт
+Fishing|спортивная рыбалка
+Fist ball|ручной мяч
+Fitness centre|центр укрепления здоровья
+Football/soccer|футбол
+Gliding|планеризм
+Goal|ворота
+Goal|стойка ворот, гол
+Golf|гольф
+Googles|очки для подводного плаванья
+Gym|гимнастический зал
+Gymnastics|гимнастика
+Handball|гандбол
+Hang gliding|дельтапланеризм
+High jump|прыжки в высоту
+Hockey|хоккей
+Hurdle race|бег с барьерами
+Ice rink|каток
+In-line skating|конькобежный спорт
+Instructor|инструктор
+Javelin|копье
+Jogging|бег трусцой
+Judo|дзюдо
+Karate|карате
+Long jump|прыжки в длину
+Martial arts|боевые искусства
+Motorbike sports|мотоциклетный спорт
+Mountaineering|альпинизм
+National team|сборная страны
+Net|сетка
+Oar|весло
+Orienteering|спортивное ориентирование
+Pad|щитки
+Parachuting|парашютный спорт
+Pole-vaulting|прыжки с шестом
+Polo|поло
+Puck|шайба
+Racetrack|беговая дорожка
+Racket|ракетка
+Referee|судья
+Riding|верховая езда
+Rifle|спортивная винтовка
+Ring|ринг
+Rowing|гребля
+Rugby|рэгби
+Running race|состязание в беге
+Sailing|парусный спорт
+Shooting|стрельба
+Shuttlecock|волан
+Side split|шпагат
+Ski poles|лыжные палки
+Skipping/jumping rope|скакалка
+Skis|лыжи
+Snooker|снукер (игра на бильярде)
+Sports ground|спортивная площадка
+Stadium|стадион
+Stick|хоккейная клюшка
+Swords|мечи, шпаги
+Team|команда
+To break a record|побить рекорд
+To compete in a championship|участвовать в чемпионате
+To draw a game|свести игру вничью
+To lose the competition|проиграть соревнование
+To score points, goals|набирать очки, забивать голы
+To set records|устанавливать рекорды
+To train|тренироваться
+To win the competition|победить в соревнованиях
+To win the cup|выиграть кубок
+Tobogganing|санный спорт
+Tournament|турнир
+Track-and-field|легкая атлетика
+Triathlon|триатлон
+Triple jump|тройной прыжок
+Tug of war|перетягивание каната
+Volleyball|волейбол
+Water polo|водное поло
+Water skiing|водные лыжи
+Waterski|водные лыжи
+Weight lifting|тяжелая атлетика
+Working out|занятия на снарядах
+Wrestling|борьба

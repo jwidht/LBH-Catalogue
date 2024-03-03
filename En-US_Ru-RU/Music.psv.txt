@@ -1,0 +1,59 @@
+quiz.properties|name=Music~~q_lang=en-US~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Accordion|аккордеон
+Album|альбом
+Bagpipe|волынка
+Balalaika|балалайка
+Ballet|балет
+Band|группа
+Bass|контрабас
+Bassoon|фагот
+Baton|дирижерская палочка
+Bow|смычок
+Brass group|медные духовые инструменты
+Cello|виолончель
+Chamber music|камерная музыка
+Clarinet|кларнет
+Classical music|классическая музыка
+Composer|композитор
+Concert|концерт
+Conductor|дирижер
+Cymbals|тарелки
+Drum|барабан
+Drum sticks|барабанные палочки
+Flute|флейта
+Grand piano|рояль
+Guitar|гитара
+Harp|арфа
+Horn|рожок
+Instrumental music|инструментальная музыка
+Loud speaker|громкоговоритель
+Microphone, mike, transmitter|микрофон
+Minstreller group|группа бродячих музыкантов
+Musician|музыкант
+Oboe|гобой
+Opera|опера
+Operetta|оперетта
+Orchestra|оркестр
+Organ|орган
+Percussion|перкуссия, ударные инструменты
+Piano|пианино
+Recital|сольный концерт
+Saxophone|саксофон
+Single|песня
+Soloist|солист
+Song|песня
+Sound|звук
+String group|струнные инструменты
+Symphony|симфония
+Synthesizer|синтезатор
+To accompany|аккомпанировать
+To compose|писать музыку
+To transcribe|записывать нотами
+Trombone|тромбон
+Trumpet|труба
+Tuba|туба
+Video-clip|видео-клип
+Viola|альт
+Violin|скрипка
+Virtuoso|виртуоз
+Wind group|духовые инструменты
