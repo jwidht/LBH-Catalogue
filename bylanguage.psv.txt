@@ -12,3 +12,4 @@ German(Germany)-Russian(RU)|de-DE_ru-RU/
 Japanese(Japan)-Russian(RU)|ja-JP_ru-RU/
 Chinese(China)-Russian(RU)|zh-CN_ru-RU/
 English(US)-Japanese(Japan)|en-US_ja-JP/
+Encrypted|encrypted/
