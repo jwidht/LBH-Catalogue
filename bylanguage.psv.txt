@@ -4,7 +4,7 @@ English(US)-Russian(RU)|En-US_Ru-RU/
 English(US)-English(US)|en-US_en-US/
 English(UK)-English(UK)|en-UK_en-UK/
 Japanese(Japan)-English(US)|ja-JP_en-US/
-Korean(Korea)-English(US)|ko-kr_en-us.psv.txt
+Korean(Korea)-English(US)|ko-KR_en-US/
 English(US)-Chinese(China)|en-US_zh-CN/
 French(France)-Russian(RU)|fr-FR_ru-RU/
 Thai(Thailand)-English(US)|th-TH_en-US/

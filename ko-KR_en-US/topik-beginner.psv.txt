@@ -1,0 +1,274 @@
+quiz.properties|name=TOPIK Beginner Level, Set 2~~q_lang=ko-KR~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+가격|price
+가구|furniture
+가방|bag
+가을|fall, autumn
+가족|family
+값|price
+강|river
+거리|distance
+걱정|anxiety; worry
+결혼식|wedding
+경주|race
+경험|experience
+계절|season
+계획|plan
+고민|worry; agony
+고양이|cat
+고향|hometown
+곳|place
+공연|performance
+공원|park
+공책|note book
+공항|airport
+과일|fruit
+과자|snack
+관심|interest
+교통사고|car accident
+구두|dress shoe
+구입|purchase
+그 림|picture
+극장|theater
+근처|near
+글자|letter
+금년|this year
+기간|period
+기분|standard
+김치|Kimchi
+까만색|black
+꽃|flower
+꽃집|flower shop
+나라|country
+나무|tree
+날|day
+날씨|weather
+남 산|Namsan Mountain
+내년|next year
+내용|content
+내일|tomorrow
+냉면|cold noodles
+냉장고|refrigerator
+년|year
+노래|song
+누나|male’s older sister
+눈물|tears
+ 느낌|feeling
+다음|next
+다음달|next month
+단어|word
+달|month
+댁|home (honorific form of 집)
+도서관|library
+돈|money
+동대문|Dongdaemun
+동생|younger sibling
+ 뒤|back
+드라마|drama
+등산|hike
+등산화|hiking shoes
+라디오|radio
+러시아|Russia
+ 맞은편|across from
+머 리|head
+모습|appearance
+모자|hat, cap
+무게|weight
+문|door
+문구점|stationary store
+문제|problem; question; issue
+문화|culture
+물건|thing
+미국|USA
+밑|under
+바지|pants
+박물관|museum
+밖|outside
+반(수업)|class
+방|room
+방법|method
+방송국|broadcasting station
+배|ship
+배2|pear
+배우|actor
+백화점|department store
+ 버스|bus
+ 번호|number
+ 병원|hospital
+볼펜|ball point pen
+봄|spring
+부모|parent
+부모님|parents
+부분|part
+부탁|request
+분위기|atmosphere
+불고기|Bulgogi
+비|rain
+비행기|airplane
+빵|bread
+사과|apple
+사람|person
+사무실|office
+사은품|freebie; bonus gift
+사전|dictionary
+사진|photo
+산|mountain
+색|color
+색깔|colors
+생각|thinking, thought
+생일|birthday
+생활|life
+서울|Seoul
+서울역|Seoul Station
+서점|Bookstore
+선물|present, gift
+선생님|teacher
+설명|explanation
+ 설악산|Seoraksan
+성격|character
+소개|introduction
+소식|news
+손|hand
+손님|customer
+수업|class
+수첩|pocket book
+시간|time
+시계|watch
+시장|market
+시청|city hall
+시험|test
+식당|resturant
+식사|meal
+신문|newspaper
+신발|shoe
+아기|baby
+아래|below
+아버지|father
+아이스크림|ice cream
+아저씨|sir, uncle
+아주머니|ma’am, aunt
+아침|morning
+아침|breakfast
+아파트|apartment
+안|in
+안경|eye glasses, specs
+안내|information
+앞|in front of
+야구|baseball
+약|medicine
+약국|pharmacy
+약속|appointment
+어머니|mother
+어제|yesterday
+얼굴|face
+옛날|old
+여자|girl
+여행|trip
+역사|history
+연락|contact
+연필|pencil
+영수증|receipt
+영어|English
+영화|movie
+옆|beside
+오래간만|after a long time
+오랜만|after a long time
+오른쪽|right (direction)
+오후|afternoon
+올해|this year
+옷|clothes
+외국인|foreigner
+요리사|chef
+요즘|these days
+우산|umbrella
+우유|milk
+운동|exersise
+웬일|what matter
+위|upper part
+유학|study abroad
+은행|bank
+음료수|drink
+음식|food
+음악회|concert
+의미|meaning
+의자|chair
+이름|name
+이번|this (ex. this year)
+이상|strange
+인터넷|internet
+일|work
+일본|Japan
+일본어|Japanese
+일요일|Sunday
+자동차|car
+자리|seat
+자전거|bicycle
+작년|last year
+잡지|magazine
+장소|place
+저녁|evening
+전자사전|electronic dictonary
+전화번호|phone number
+점심|lunch
+정리|arrangement
+제주도|Jeju Island
+졸업|graduate
+주|week
+주말|weekend
+주소|address
+주인|owner
+준비|prepare
+중국|china
+지갑|wallet
+지난주|last week
+지난해|last year
+지하철|subway
+집|house
+찻값|a tea charge
+창문|Window
+책|book
+책상|desk
+청소|clean
+축구|football (soccer)
+취미|hobby
+취직|getting a job
+치마|skirt
+친구|friend
+침대|bed
+카메라|camera
+캐나다|Canada
+커피|coffee
+컴퓨터|computer
+큰형|male’s oldest brother
+테니스장|tennis court
+토요일|saturday
+통장|bankbook
+파란 색|blue
+파티|party
+편지|letter
+평일|weekday
+포도|grape
+표|ticket
+품목|goods, items
+피아노|piano
+필요|need
+하숙집|boarding house
+학원|academy, coaching center
+한국|Korea
+한국말|Korean language
+한국 어|Korean language
+한복|Hanbok (traditional Korean Cloth)
+한식집|Korean restaurant
+할머니|grandmother
+할아버지|grandfather
+할인|discount
+행사|event
+형|male’s older brother
+호|room number
+호선|subway line
+회사|company
+회사원|a company employee
+회의|meeting
+후|after
+휴일|holiday
+희망|hope
+힘|effort
