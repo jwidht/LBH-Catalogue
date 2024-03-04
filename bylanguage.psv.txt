@@ -3,9 +3,9 @@ Russian(Russia)-Russian(Russia)|ru-RU_ru-RU/
 English(US)-Russian(RU)|En-US_Ru-RU/
 English(US)-English(US)|en-US_en-US/
 English(UK)-English(UK)|en-UK_en-UK/
-Japanese(Japan)-English(US)|ja-jp_en-us.psv.txt
+Japanese(Japan)-English(US)|ja-JP_en-US/
 Korean(Korea)-English(US)|ko-kr_en-us.psv.txt
-English(US)-Chinese(China)|en-us_zh-cn.psv.txt
+English(US)-Chinese(China)|en-US_zh-CN/
 French(France)-Russian(RU)|fr-FR_ru-RU/
 Thai(Thailand)-English(US)|th-TH_en-US/
 German(Germany)-Russian(RU)|de-DE_ru-RU/

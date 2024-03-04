@@ -1,0 +1,127 @@
+quiz.properties|name=Set 1~~q_lang=ja-JP~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+ひる|afternoon
+ひこうき|airplane
+りんご|apple
+うで|arm
+ふうせん|balloon
+ひげ|beard
+かばん|bag
+おおきい|big
+とり|bird
+たんじょうび|birthday
+くろい|black
+あおい|blue
+からだ|body
+そこ|bottom
+うさぎ|bunny rabbit
+バス|bus
+ろうそく|candle
+おかし|candy
+ねこ|cat
+いす|chair
+きく|chrysathemum
+はれ|clear (weather)
+とけい|clock
+くも|cloud
+むすめ|daughter
+いぬ|dog
+みみ|ear
+たまご|egg
+おにいさん|elder brother
+おねえさん|elder sister
+ぞう|elephant
+め|eye
+かお|face
+かぞく|family
+おとうさん|father
+ゆび|finger
+はな|flower, nose
+ふえ|flute
+たべもの|food
+くだもの|fruit
+めがね|glasses
+おじいさん|grandfater
+おばあさん|grandmother
+ぶどう|grapes
+て|hand
+ぼうし|hat
+あたま|head
+こうこう|high school
+たかい|high, expensive
+やすみ|holiday; day off
+しゅくだい|homework
+うま|horse
+うち|house
+ぼく|I (used by men)
+こおり|ice
+にほんご|Japanese language
+かばん|kaban
+かぎ|key
+おうさま|king
+ひざ|knee
+あし|leg
+ながい|long
+ひくい|low
+ちず|map
+にく|meat
+くすり|medicine
+つき|moon
+あさ|morning
+おかあさん|mother
+やま|mountain
+ねずみ|mouse
+くち|mouth
+からし|mustard
+しんぶん|newspaper
+よる|night
+えんぴつ|pencil
+ひと|person
+え|picture
+ぶた|pig
+いけ|pond
+はがき|post card
+きって|postal stamps
+はがき|postcard
+なべ|pots
+さいふ|purse
+あめ|rain
+あかい|red
+れいぞうこ|refridgerator
+ごはん|rice, meal
+かわ|river
+ばら|rose bud ?
+しお|salt
+うみ|sea
+みじかい|short
+えび|shrimp
+ちいさい|small
+へび|snake
+ゆき|snow
+ぐんじn|soldier
+かいだん|staircase
+ほし|star
+えき|station
+おなか|stomach
+とおり|street
+がくせい|student
+さとう|sugar
+サーフィン|surfing
+せんせい|teacher
+でんわ|telephone
+てんぷら|tempura
+テスト|test
+のど|throat
+きっぷ|ticket
+たばこ|tobacco
+りょこう|travel
+き|tree
+かさ|umbrella
+みず|water
+たき|waterfall
+てんき|weather
+しろい|white
+かぜ|wind
+まど|window
+せかい|world
+おとうと|younger brother
+いもうと|younger sister
