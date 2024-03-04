@@ -1,0 +1,50 @@
+quiz.properties|name=A1-Урок 17(Lesson 17)~~q_lang=ja-JP~~a_lang=ru-RU~~fontsize_q=28~~fontsize_a=28~~skipaudiomode=1~~
+よかったです~~[yokatta desu]|было хоршо
+ゆっくり~~[yukkuri]|медленно, не спеша, вдоволь, хорошенько
+やきゅう~~[yakyuu]|бейсбол
+まんが~~[manga]|манга
+また~~[mata]|снова
+まご~~[mago]|внук
+まいにち~~[mainichi]|каждый день
+まあまあでした~~[maamaa deshita]|было так себе
+ひとがおおかったです~~[hito ga ookatta desu]|было много людей
+ビートルズ~~[bi:toruzu]|Битлз
+はなびたいかい~~[hanabi taikai]|фестиваль фейерверков
+はなし~~[hanashi]|разговор
+バーベキュー~~[ba:bekyu:]|барбекю
+にわ~~[niwa]|сад
+にぎやかでした~~[nigiyaka deshita]|было шумно
+なにもしませんでした~~[nani mo shimasen deshita]|ничего не делал
+なにも~~[nani mo]|ничего
+とても~~[totemo]|очень
+どこにもいきませんでした~~[doko ni mo ikimasen deshita]|никуда не ходил
+どこにも~~[doko ni mo]|никуда
+どうでしたか~~[dou deshita ka]|вам понравилось?
+つま~~[tsuma]|жена
+つかれました~~[tsukaremashita]|устал
+たのしかったです~~[tanoshikatta desu]|было приятно, было весело
+たのしい~~[tanoshii]|веселый
+たいへん~~[taihen]|тяжелый, утомительный (об уборке и т.д.)
+そうじ~~[souji]|уборка
+せんたく~~[sentaku]|стирка
+すばらしかったです~~[subarashikatta desu]|было великолепно
+ショッピングセンター~~[shopingusenta:]|торговый центр
+しごと~~[shigoto]|работа
+コーヒーショップ~~[ko:hi:shoppu]|кафе, кофейня
+きれいでした~~[kirei deshita]|было красиво
+おもしろい~~[omoshiroi]|интересный
+おおい~~[ooi]|многочисленный
+おいしい~~[oishii]|вкусный
+うれしい~~[ureshii]|счастливый, довольный
+うたいました~~[utaimashita]|пели
+いっしょに~~[issho ni]|вместе
+いそがしい~~[isogashii]|занятой
+アルバイト~~[arubaito]|подработка
+～にあいました~~[ni aimashita]|встретился
+～とあそびます~~[to asobimasu]|играть, развлекаться с кем-то
+「たのしかったです」~~[tanoshikatta desu]|Было весело
+
+
+
+
+

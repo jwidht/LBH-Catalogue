@@ -1,0 +1,74 @@
+quiz.properties|name=A1-Урок 11(Lesson 11)~~q_lang=ja-JP~~a_lang=ru-RU~~fontsize_q=28~~fontsize_a=28~~skipaudiomode=1~~
+ロック~~[rokku]|рок
+れんあい~~[ren'ai]|любовь
+よみます~~[yomimasu]~~[読みます]|читать
+よく~~[yoku]|часто
+ゆっくりします~~[yukkuri shimasu]|отдыхать, расслабляться
+やすみのひ~~[yasumi no hi]|выходной день
+やきゅう~~[yakyuu]|бейсбол
+みます~~[mimasu]~~[見ます]|смотреть
+ミステリー~~[misuteri:]|детектив
+まんが~~[manga]|манга
+ホラー~~[hora:]|ужасы
+ポップス~~[poppusu]|поп-музыка
+ぶんがく~~[bungaku]|литература
+フラメンコ~~[furamenko]|фламенко
+ファンタジー~~[fantaji:]|фэнтэзи
+ピアノ~~[piano]|пианино
+はなします~~[hanashimasu]~~[話します]|разговаривать
+はいく~~[haiku]|хайку
+ねん~~[nen]|год
+なにができますか~~[nani ga dekimasu ka]|что Вы умеете?
+ともだちになりましょう~~[tomodachi ni narimashou]|давайте станем друзьями
+どくしょ~~[dokusho]|чтение
+ときどき~~[tokidoki]|иногда
+テニス~~[tenisu]|теннис
+ダンス~~[dansu]|танец
+そとで~~[soto de]|вне дома
+ぜんぜん~~[zenzen]|совсем
+すもう~~[sumou]|сумо
+スポーツをします~~[supo:tsu o shimasu]|заниматься спортом
+スポーツ~~[supo:tsu]|спорт
+すこし~~[sukoshi]|немного
+しょうせつ~~[shousetsu]|роман
+しゅみ~~[shumi]|хобби
+じゅうどう~~[juudou]|дзюдо
+ジャズ~~[jazu]|джаз
+しゃしんをとります~~[shashin o torimasu]|фотографировать
+しゃしん~~[shashin]|фотография
+さんぽをします~~[sanpo o shimasu]|гулять
+さどう~~[sadou]|чайная церемония
+ざっし~~[zasshi]|журнал
+サッカー~~[sakka:]|футбол
+コメディ~~[komedi]|комедия
+クラシック~~[kurashikku]|классика
+ギター~~[gita:]|гитара
+ききます~~[kikimasu]~~[聞きます]|слушать
+かきます~~[kakimasu]~~[書きます]|писать 
+がいこくご~~[gaikokugo]|иностранный язык
+おんがく~~[ongaku]|музыка
+おりがみ~~[origami]|оригами
+おなじ~~[onaji]|одинаковый
+えをかきます~~[e o kakimasu]|рисовать
+えいが~~[eiga]|фильм
+うちで~~[uchi de]|дома
+うた~~[uta]|песня
+いけばな~~[ikebana]|икэбана
+いいます~~[iimasu]~~[言います]|говорить
+あまり~~[amari]|не часто
+アニメ~~[anime]|аниме
+アクション~~[akushon]|боевик
+SF~~[esuefu]~~[エスエフ]|научная фантастика
+～をさがしましょう~~[o sanka shimashou]|давайте поищем ～
+～はできません~~[wa dekimasen]|не могу ～
+～はすきじゃないです~~[wa suki ja nai desu]|не люблю ～
+～ができます~~[ga dekimasu]|могу ～
+～がだいすきです~~[ga daisuki desu]|очень люблю ～
+～がすきです~~[ga suki desu]|люблю ～
+「しゅみはなんですか」~~[shumi wa nan desu ka]|какое у Вас хобби?
+やすみのひ~~[yasumi no hi]|Выходной день
+
+
+
+
+

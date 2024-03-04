@@ -1,0 +1,51 @@
+quiz.properties|name=A1-Урок 5(Lesson 5)~~q_lang=ja-JP~~a_lang=ru-RU~~fontsize_q=28~~fontsize_a=28~~skipaudiomode=1~~
+ワイン~~[wain]|вино
+れい~~[rei]|пример
+よく~~[yoku]|часто
+やさい~~[yasai]|овощи
+みそしる~~[misoshiru]|суп мисо
+みず~~[水]~~[mizu]|вода
+ペアでこたえをチェックしましょう~~[pea de kotae o chekku shimashou]|давайте в парах проверим ответы
+ビール~~[bi:ru]|пиво
+パン~~[pan]|хлеб
+はい、どうぞ~~[hai, douzo]|да, пожалуйста (возьмите ещё и т.д.)
+のみものをすすめましょう~~[nomimono o susume mashyou]|давайте предложим напитки
+のみもの~~[nomimono]|напитки
+のみます~~[nomimasu]|пить
+にく~~[肉]~~[niku]|мясо
+なにをよくのみますか~~[nani o yoku nomimasu ka]|что Вы часто пьете?
+なにをよくたべますか~~[nani o yoku tabemasu ka]|что Вы часто едите?
+なにをのみますか~~[nani o nomimasu ka]|что Вы будете пить?
+なにがすきですか~~[nani ga suki desu ka]|что Вы любите?
+なに~~[nani]|что
+たまご~~[卵]~~[tamago]|яйца
+たべものはなにがすきですか~~[tabemono wa nani ga suki desu ka]|что Вы любите из еды?
+たべもの~~[tabemono]|еда
+たべません~~[tabemasen]|не есть, не кушать
+たべます~~[tabemasu]|есть, кушать
+ジュース~~[jyu:su]|сок
+さかな~~[魚]~~[sakana]|рыба
+ごはん~~[gohan]|вареный рис
+ごちそうさま~~[gochisousama]|спасибо за угощение
+こたえ~~[kotae]|ответ
+コーヒー~~[ko:hi:]|кофе
+こうちゃ~~[koucha]|черный чай
+くだもの~~[kudamono]|фрукты
+ぎゅうにゅう~~[gyuunyuu]|молоко
+おちゃ~~[o-cha]|чай
+インタビュー~~[intabyu:]|интервью
+いつもあさごはんをたべますか~~[itsumo asagohan o tabemasu ka]|Вы всегда завтракаете?
+いつも~~[itsumo]|всегда
+いただきます~~[itadakimasu]|выражение, употребляемое перед началом еды (аналог "приятного аппетита")
+いいえ、けっこうです~~[iie, kekkou desu]|нет, достаточно; хватит
+あまり~~[amari]|не очень, не особо
+あなたのあさごはんについてえとぶんをかきましょう~~[anata no asagohan nitsuite e to bun o kakimashou]|давайте нарисуем и напишем сочинение о Вашем завтраке
+あさごはん~~[asagohan]|завтрак
+～をわけましょう~~[o wakemashou]|давайте разделим по группам ～
+～もすきです~~[mo suki desu]|～тоже люблю
+～はすきじゃないです~~[wa suki ja nai desu]|а ～не люблю
+～がすきです~~[ga suki desu]|люблю ～
+なにがすきですか~~[nani ga suki desu ka]|Что Вы любите?
+
+
+
