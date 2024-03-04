@@ -10,4 +10,4 @@ French(France)-Russian(RU)|fr-FR_ru-RU/
 Thai(Thailand)-English(US)|th-th_en-us.psv.txt
 German(Germany)-Russian(RU)|de-de_ru-ru.psv.txt
 Japanese(Japan)-Russian(RU)|ja-jp_ru-ru.psv.txt
-Chinese(China)-Russian(RU)|zh-cn_ru-ru.psv.txt
+Chinese(China)-Russian(RU)|zh-CN_ru-RU/

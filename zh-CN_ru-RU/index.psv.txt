@@ -1,0 +1,2 @@
+Как добавить тему|how2add-ru.html
+Иероглифические ключи|keytable.psv.txt
