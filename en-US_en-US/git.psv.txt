@@ -1,0 +1,46 @@
+quiz.properties|name=Git commands~~q_lang=en-US~~a_lang=en-US~~fontsize_q=30~~fontsize_a=30~~skipaudiomode=0~~
+Stop tracking file and ignore changes to a file|git rm --cached
+rebasing|you can take the change from master and apply it to the current branch~~~~for example, if the master branch changed, you can do:~~~~git checkout experiment~~~~git rebase master~~~~it will update the branch experiment to contain the changes in the master branch.
+inspect remote|git remote show orgmaster
+add a remote|git remote add remote_name remote_url
+list remotes and where they point|git remote -v
+branch vs fork|branch relies on original to exist~~fork exists independently as a clone
+see the last commit message on each branch|git branch -v~~~~b1   ... did this~~* master ... did that~~b2 ... did something else
+create and merge branches ~~full cycle for the case of two branches with fixes|git checkout -b fix1~~... make changes...~~git commit -a -m 'first fix'~~~~// now there is a need to fix something soon in master~~~~git checkout master   // switch back to master~~~~git checkout -b fix2 // start fixing~~... make changes ...~~git commit -a -m 'second fix'~~~~// ... test fix 2 ....~~~~//fast forward merge into master:~~~~git checkout master~~git merge fix2 //will move the mater pointer to fix2~~git branch -d fix2. //delete the branch fix2~~~~~~//switch bac to fix1 and complete work there~~git checkout fix1~~...~~git commit -a -m 'first fix completed'~~~~//merging~~git checkout master~~git merge fix1~~git status //to see files to merge manually~~git mergetool~~git commit~~git branch -d fix1~~
+How to create a new branch and make it current?|git checkout -b issue123~~~~~~which is the same as~~~~~~git branch issue123~~git checkout issue123
+how to switch to another branch?|git checkout branchname~~~~you have to be committed on the current branch, or it won't switch
+what is a bare repo and how to create it|it is what is stored under .git normally~~~~mkdir origin~~cd origin~~git init --bare~~cd ..~~~~will create a repo under ./origin~~~~now we can create a local version:~~~~git clone origin local~~cd local~~touch readme.txt~~git add readme.txt~~git commit -m 'initial commit'~~~~push the commit in local as master to origin:~~~~git push origin master~~~~~~Note that git repos can behave strangely wo commit history, so follow the steps above~~
+only stage the modified (tracked) files|git add -u~~~~only acts upon the files in the current directory
+view commit history for a branch during the last 2 weeks|git log --since=2.weeks origin/dev/phab/reserve --oneline
+view local branches~~~~remote branches|git branch~~~~git branch -r
+reset two latest unpublished commits|git add foo.py~~git commit -m "to undo"~~.. edit foo.py~~git commit -a -m "to undo 2"~~~~#scrap two last local commits~~git reset --hard HEAD~2
+How to revert the latest commit?|git commit -m "changes that will be reverted"~~~~git revert HEAD~~
+revert vs reset|revert is safe, reverts into a new copy, keeping the prev version in history. Can revert any commit in history~~~~~~reset goes backwards from the current commit~~if you want to reset a commit in history, need to reset all commits after that first, and reapply them after the reset
+remove untracked files from your local folder~~unless they are in .gitignore~~~~can you undo it?~~~~how to preview?|git clean~~~~no, cant undo~~~~git clean -n~~preview which files will be removed~~~~may need to use -f to force if clean.requireForse=true
+remote push cycle|git push origin master~~~~git fetch origin~~~~git merge origin/master~~~~git push origin master~~~~
+identify possible whitespace errors before submit|git diff --check
+update your local repo from the remote origin|git fetch origin~~~~this will also display the branches that were downloaded~~~~origin is the name of the remote repo~~that you use in clone originally to create a local one
+discard changes to files in working directory|git checkout -- filename1 filename2 ...~~~~~~be careful, it will overwrte the local copy of files.~~~~~~note, that everything committed could be recovered, but uncommitted changes are lost permanently, likely not recoverable
+unstage an accidentally staged file|git reset HEAD myfile myfile2 ...~~~~will remove the accidentally staged files~~~~
+adjust the last commit,~~files or message|git commit --amend~~~~if no new files were staged, only the message changes~~~~git commit -m 'initial commit'~~~~git add forgotten_file~~~~git commit --amend~~~~you will end up with a single commit, the second commit replaces the results of the first
+view the commit history with options~~for a period of time~~by a particular author|git log --pretty="%h - %s" --author=jsmith --since="2008-10-01" --before="2008-11-01"
+view the commit log for the last two weeks|git log --since=2.weeks~~~~the command works with lots of formats
+view the log of branch and merge history|git log --pretty=format:"%h %s". --graph~~~~~~use --graph~~~~
+the difference between author and committer|author sends in the work~~committer commits it
+view the commit history~~~~- with number of affected files~~~~- in one line~~~~- custom table~~|git log~~~~git log --stat~~with numbers of files~~~~git log --pretty=oneline~~~~git log --pretty=format:"%h - %an, %ar : %s"~~~~xxxx - John W, 1 week ago : changed a for b~~~~
+git log -p -2|show the difference introduced in last two commits~~~~~~-p ~~show the patch introduced in each commit
+rename a file|git mv filefrom fileto~~~~~~treated as remove and add new
+how to setup graphical difftool?|git difftool --tool-help~~~~git difftool --tool=<tool>~~~~
+remove a file|rm filename~~~~git rm filename~~~~git commit~~~~if the file has been changed and staged, you need to force:~~~~git rm filename -f~~~~to just remove from staging, but keep on the harddrive:~~useful if you accidentally added a file that should not be tracked to staging~~~~git rm --cached filename~~or using a mask:~~git rm log/\*.log~~~~
+how to skip staging and auto commit all modified files?|git commit -a -m "commit message here"~~~~
+avoid opening editor on commit|git commit -m "this is my changes"
+view unstaged changes~~~~view staged changes~~|git diff~~~~important to note that is only shows unstaged changes~~~~gir diff --staged~~or~~git diff --cached~~~~these are synonyms~~
+how to ignore files with some extensions|cat .gitignore~~*.[oa]~~#tmp files:~~*~~~#but still track myfile.a~~!myfile.a~~~~~~ignores *.o *.a and ~ files, tmp filed used by many text editors
+how to view files by status~~~~short status|git status~~~~git status -s~~git status --short
+How to stage a file~~(new or modified)|git add filename~~~~will stage a new file or a modified file
+get an existing repo~~~~for ssh, what is the  syntax and the name of the file|git clone https://github.com/libgit2/libgit2~~~~this creates the folder libgit2 with  .git~~pulls down all the data~~and checks out a working copy of the latest verrsion~~~~if you want a custom folder name, specify it at the end~~~~git clone https://github.com/libgit2/libgit2 mylibgit~~~~~~https:~~git:~~user@server:path/to/repo.git which uses ssh
+create a repository|git init~~creates the repo, .git directory~~~~git add *.c~~~~git commit -m 'initial project version'
+get help for git verb|git help verb
+how to config your user name~~email~~editor~~~~view your config|git config --global user.name "John Doe"~~git config --global user.email john@email.com~~git config --global core.editor emacs~~~~~~git config --list~~~~git config user.name
+gitconfig levels|/etc/gitconfig~~~~base level for all users~~~~git config -- system~~~~~/.gitconfig or ~/.config/git/config~~~~user specific~~~~git config --global~~~~.git/config~~config under .git, single repository config~~~~each level overrides previous
+Three stages|modified, staged, and committed~~~~this is relatively to your local db stored under .git

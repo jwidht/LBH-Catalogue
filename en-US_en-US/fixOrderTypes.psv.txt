@@ -1,0 +1,15 @@
+quiz.properties|name=FIX Order Types~~q_lang=en-US~~a_lang=en-US~~fontsize_q=30~~fontsize_a=30~~skipaudiomode=0~~
+Open|Immediate.The order must be executed at the price specified by the trader or not executed at all. If the price is unavailable, the order must be rejected. Partial fills may occur.
+Open Market|Immediate.The order must be executed at any available price. The order is always executed in full amount and can never be rejected.
+Open Range|Immediate.The order must be executed within the price range specified by the trader or not executed at all. If the price is unavailable, the order must be rejected. Partial fills may occur.
+Open Limit|Immediate.The order must be executed at the price specified by the trader or at a more favorable price. If the price is unavailable, the order must be rejected. Partial fills may occur.
+Close|Immediate.The order must be executed at the price specified by the trader or not executed at all. If the price is unavailable, the order must be rejected. Partial fills may occur.
+Close Market|Immediate.The order must be executed at any available price. The order is always executed in full amount and can never be rejected.
+Close Range|Immediate.The order must be executed within the price range specified by the trader or not executed at all. If the price is unavailable, the order must be rejected. Partial fills may occur.
+Close Limit|Immediate.The order must be executed at the price specified by the trader or at a more favorable price. If the price is unavailable, the order must be rejected. Partial fills may occur.
+Entry Stop|Conditional.Used for opening a position when the market price reaches the price specified by the trader. The Entry Stop order is the one which is placed at a less-favorable price than the current market price (higher price if buying, lower if selling). 
+Entry Limit|Conditional.Used for opening a position when the market price reaches the price specified by the trader. The Entry Limit order is the one which is placed at a better price than the market price (lower price if buying, higher if selling).
+Stop|Conditional.Used for closing a previously opened position when the market price reaches the price specified by the trader. The stop order is used for preventing further losses incurred on the position.
+Limit|Conditional.Used for closing a previously opened position when the market price reaches the price specified by the trader. The limit order is used for locking in profit.
+Margin Call|Conditional.The order is created once the usable margin of the account falls to "0". Created automatically by the trading system and are used for liquidation of all open positions in the account. Always executed in full amount. The number of orders equals the number of open positions on the account.
+Equity Stop|Conditional.The Equity Stop order is created once the maximum amount of the account's losses for the current trading day is reached. Always executed in full amount. The number of orders equals the number of open positions on the account.

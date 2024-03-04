@@ -1,0 +1,25 @@
+quiz.properties|name="Very" words~~q_lang=en-US~~a_lang=en-US~~fontsize_q=35~~fontsize_a=35
+very hard to find|rare
+very heavy|leaden
+very high|soaring
+very hot|sweltering
+very huge|colossal
+very hungry|starving
+very hurt|battered
+very important|crucial
+very intelligent|brilliant
+very interesting|captivating
+very large|huge
+very lazy|indolent
+very little|tiny
+very long|extensive
+very long-term|enduring
+very loose|slack
+very loud|thunderous
+very mean|cruel
+very messy|slovenly
+very necessary|essential
+very nervous|apprehensive
+very nice|kind
+very cute|adorable
+very fast|swift

@@ -1,0 +1,26 @@
+ABANDON|To give up completely; relinquish, forgo, forsake~~~~The passengers ABANDONED the sinking ship.
+ABASH|To lose self–confidence; to confuse, put to shame; fluster, disconcert, discomfit, discompose~~~~The senator was ABASHED before the assembled congress when his bill failed to pass.
+BANAL|Lacking in freshness, originality, or vigor; commonplace, hackneyed, prosaic, trite, stereotyped, vapid~~~~The artist was bored by the BANAL remarks of the critics.
+CABAL|A small group of persons engaged in plotting; junto, faction~~~~A CABAL or prominent persons united to overthrow the government.
+DEARTH|Scarcity, few~~~~A DEARTH of news, brought about by censorship.
+ECCLESIASTIC|Pertaining to the clergy or the church.~~~~The Pope is recognized as the ultimate authority in ECCLESIASTIC matters.
+FACADE|Front or face, especially of a building~~~~The older buildings have a FACADE of marble.
+GARNISH|To trim or decorate.~~~~The chef GARNISHED the dish attractively with greens.
+quiz.properties|name=Toefl, Set 2~~q_lang=en-US~~a_lang=en-US~~fontsize_q=40~~fontsize_a=30
+HAIL|To greet; accost, salute~~~~The crowed HAILED the returning hero.
+IDIOSYNCRASY|A personal peculiarity; eccentricity, foible, mannerisms, crotchet, aberrations, quirk, singularity~~~~Wearing white was one o f Whistler's IDIOSYNCRASIES.
+JARGON|Confused, unintelligible talk; special vocabulary used only by members of a group or trade.~~~~Variety is a newspaper written in theatrical JARGON.
+KALEIDOSCOPIC|Constantly changing or varying in pattern or scenes.~~~~The top of the Empire State building offers a KALEIDOSCOPIC view of New York.
+LABYRINTH|A structure or intricate passage out of which it is difficult to find one's way; maze~~~~The couple spent days trying to find their way out of the LABYRINTH.
+MACHIAVELLIAN|Sacrificing moral principles in order to obtain power; politically cunning; crafty, unscrupulous.~~~~The CEO was accused of using MACHIAVELLIAN practices in order to obtain the merger.
+NAUTICAL|Pertaining to ships or navigation; marine, naval, maritime.~~~~The sailor was eager to embark on his NAUTICAL career.
+OBDURATE|Hard–hearted; stubborn; unyielding, inflexible~~~~The OBDURATE criminal refused to confess.
+PANACEA|A remedy for all ills; nostrum.~~~~Scientists and doctors continue to search for a PANACEA.
+QUASH|To crush; to render void; suppress, extinguish, quell, annul~~~~The dictator was quick to QUASH the rebellion.
+RACONTEUR|A skilled storyteller.~~~~The children were held spellbound by a superb RACONTEUR.
+SACROSANCT|Very holy; a shrine; consecrated, inviolable, hallowed.~~~~The relics of saints are SACROSANCT.
+TANGIBLE|Real, actual; material, veritable, perceptible, substantial~~~~The skeptic needed TANGIBLE evidence before she could believe.
+UBIQUITOUS|Existing everywhere; omnipresent, universal.~~~~The common cold is a UBIQUITOUS complaint.
+VANQUISH|To subdue or conquer.~~~~The army VANQUISHED its enemies with heavy losses to both sides.
+WAIVE|To give up; to do without; relinquish, forgo, forsake~~~~The daughter WAIVED her rights to her parents estate.
+ZEALOUS|Full of enthusiasm or eagerness; perfunctory.~~~~He was a ZEALOUS student, always first to arrive to class.
