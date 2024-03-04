@@ -1,0 +1,28 @@
+quiz.properties|name=Знакомство (Connaissance)~~q_lang=fr-FR~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40~~skipaudiomode=3
+Comment vous appelez-vous?|Как вас зовут (форм.)
+Comment tu t'appelles?|Как тебя зовут?
+Je m'appelle Thierry.|Меня зовут Тьерри.
+Enchanté! / (Enchantée!)|Рад(а) с Вами познакомиться!
+Quel âge avez-vous?|Сколько Вам лет?
+Quel âge as-tu?|Сколько тебе лет?
+J'ai 23 ans.|Мне 23 года.
+D'où venez vous?|Откуда Вы (родом)?
+D'où tu viens?|Откуда ты?
+De Russie.|Из России.
+Je suis amèricain|Я американец.
+Je suis amèricaine|Я американка.
+Non, je viens du Canada.|Нет, я приехал из Канады.
+Aimez-vous la France?|Вам нравится Франция?
+Je l'aime beaucoup.|Мне она очень нравится.
+Qu' est-ce que vous faîtes dans la vie?|Чем Вы занимаетесь?
+Je suis ètudiant|Я студент.
+Je suis ètudiante|Я студентка.
+Je suis militaire.|Я военный.
+Je suis mèdicin.|Я врач.
+Je suis retraitè.|Я пенсионер.
+Je suis en vacances.|Я в отпуске.
+Je suis là pour raison professionnelle.|Я здесь по делам (в командировке).
+Etes-vous mariè(e)?|Вы женаты (замужем)?
+Je suis mariè(e).|Я женат (замужем).
+Je suis cèlibataire.|Я холост (не замужем).
+Je suis divorcè(e).|Я разведён (разведена).

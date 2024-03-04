@@ -1,0 +1,143 @@
+quiz.properties|name=Popova-Kazakova 01~~q_lang=fr-FR~~a_lang=ru-RU~~fontsize_q=36~~fontsize_a=36~~skipaudiomode=3
+la plage|пляж
+la parade|парад
+l'Arabe|араб
+Agathe parle à...|Агата разговаривает с ...
+sa|притяжательное прилагательное его, ее, своя
+la camarade|товарищ, подруга
+la femme|1) женщина; 2) жена
+Marthe va|Марта идет, едет
+à|предлог, указывающий направление,местонахождение на, в
+la place|1) место; 2) площадь
+la gare|вокзал
+cette|указательное прилагательное эта
+la salle|зал, аудитория
+est|3-е лицо ед. числа глагола être быть
+très|наречие очень
+clair, claire|светлый, -ая
+malade|больной, -ая
+elle|она
+а| 3-е лицо ед. числа глагола avoir иметь
+la tête|голова
+elle marche|она идет
+elle traverse|она пересекает, переходит
+belle|красивая, прекрасная
+c'est|это есть
+la mère|мать
+elle aime|она любит
+Marcel met (mettre, 3 e gr.)|Марсель надевает
+la veste|куртка; пиджак
+beige|светло-коричневый, -ая; бежевый, -ая
+ma|моя, своя
+ta|твоя, своя
+la table|стол
+la chaise|стул
+les|определенный артикль мн. числа для обоих родов
+les élèves|ученики, ученицы
+mes|притяжательное прилагательное мои, свои
+tes|притяжательное прилагательное тови, свои
+ses|притяжательное прилагательное ее, его, свои
+répéter|повторять
+répétez|повторите
+répète|повтори
+assez|наречие довольно, достаточно
+après|редлог после, за, вслед за
+chercher|искать
+fermer|закрывать
+préparer|готовить
+rester|оставаться, побыть
+ces|указательное прилагательное мн. числа для обоих родов эти
+les verbes|глаголы
+elles|они
+chez|предлог к, у 
+elle part|1. она уходит 2. она уезжает
+avec|предлог с
+habiter|жить
+Paris|Париж
+la ville|город
+natal, natale|родной, -ая
+quitter|покидать, уходить, уезжать
+Lille|г. Лилль
+l'architecte|архитектор
+il|он
+ils|они
+travallier|работать
+la mairie|мэрия
+réviser|повторять
+les textes|тексты
+et|союз и
+la grammaire|грамматика
+elle fait (faire, 3 e gr.)|она делает
+les exercices [le-zeg-zer-'sis]|упражнения
+des|неопределенный артикль мн. числа для обоих родов
+il lit 1 (lire, 3 е gr.)|она читает
+vite|наречие быстро
+elle dit (dire, 3 е gr.)|она говорит
+ils disent|они говорят
+merci|спасибо
+les livres [le-'li:vr]| книги
+ils prennent (prendre, 3 e gr.)|они берут
+les cahiers [le-ka-'je]|тетради
+il écrit (écrire, 3 e gr.)|он пишет
+ils écrivent|они пишут
+la dictée|диктант
+difficile|трудный, -ая
+qui|вопросительное местоимение кто
+Qui habite Paris?|Кто живет в Париже?
+la fille|1) дочь; 2) девочка
+cadet, cadette|младший, -ая
+qui|относительное местоимение который, -ая, -ые
+aîné, aînée|старший, -ая
+Marseille|Марсель
+la famille|семья
+elle est mariée| она замужем
+il est marié|он женат
+elle se lève (se lever)|она встает
+six [sis]|шесть
+l'heure|час
+le|определенный артикль муж. рода ед. числа
+petit, petite|маленький, -ая
+le petit déjeuner|первый (ранний) завтрак
+déjeuner|завтракать; обедать
+je|я
+je lis (lire, 3 е gr.)|я читаю
+се| указательное прилагательное этот
+regarder|смотреть что-л, на что-л, на кого-л.
+l'image|картинка
+j'achète (acheter)|я покупаю
+la fleur|цветок
+je vais (aller, 3 е gr.)|я иду
+l'ami|друг
+l'amie|подруга
+la fabrique|фабрика
+y|наречие туда, там, тут
+le pied [ls-'pje]|нога
+à pied|пешком
+jeune|молодой, -ая
+la jeune fille|девушка
+prenez (prendre, 3 e gr.)|возьмите
+lisez (lire, 3 e gr.)|читайте, прочитайте
+la page|страница
+neuf|девять
+apprenez (apprendre, 3 e gr.)|выучите
+par cœur|наизусть
+le cœur| сердце
+que| вопросительное местоимение что
+Que fait Denise?| Что делает Дениза?
+n'est-ce pas?|не правда ли?
+le texte de la page neuf| текст (который находится) на девятой странице
+la sœur|сестра
+demeurer|жить
+leur|их, свой, своя
+le père|отец
+l'aviateur|летчик
+elle s'appelle (s'appeler)|ее зовут
+le (la) secrétaire|секретарь
+la garde-malade|сиделка, санитарка
+la clinique|клиника
+il me (te) plaît| он мне (тебе) нравится
+il n'est pas mal|неплохой (фильм)
+Irène regarde les fleurs|Ирен смотрит на цветы.
+Marie regarde sa mère| Мари смотрит на свою мать.
+Je parle à mа sœur|Я разговариваю со своей сестрой.
+Ils écrivent à leur mère|Они пишут своей матери.

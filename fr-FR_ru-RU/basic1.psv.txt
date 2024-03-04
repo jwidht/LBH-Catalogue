@@ -1,0 +1,42 @@
+quiz.properties|name=Основные фразы(phrases de base)~~q_lang=fr-FR~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+Salut!|Привет! / Пока!
+Bonjour.|Добрый день. (до 6 вечера)
+Bonsoir.|Добрый вечер. (после 6 вечера)
+Bonne nuit.|Спокойной ночи.
+Au revoir.|До свидания.
+A demain!|До завтра!
+À bientôt.|До скорого свидания/ увидимся позже.
+Comment ça va?|Как дела?
+Comment-allez vous?|Как поживаете?
+Bien, merci, et vous?|Спасибо, хорошо, а Вы?
+Merci.|Спасибо.
+Merci beaucoup.|Большое спасибо.
+S'il vous plaît.|Пожалуйста.
+De rien.|Не за что.
+Vous permettez?|Разрешите?
+Pardon!|Прошу прощения!
+Oui|Да
+Non|Нет
+Très bon|Очень хороший.
+bon|хороший (прил.)
+Très bien.|Очень хорошо.
+bien|хорошо (наречие)
+Santé!|Будьте здоровы! (тост)
+Bonne chance!|Удачи!
+Parlez-vous français?|Вы говорите по-французски?
+Un peu.|Немного.
+Je ne parle pas français.|Я не говорю по-французски.
+Je parle un peu français.|Я немного говорю по-французски.
+Vous me comprenez?|Вы меня понимаете?
+Je comprends.|Понимаю.
+Je ne comprends pas.|Я не понимаю.
+Est-ce que vous pourriez répéter, s'il vous plaît?|Вы не могли бы повторить?
+Est-ce que vous pourriez parler plus lentement, s'il vous plaît?|Вы не могли бы говорить медленнее?
+Est-ce que vous pourriez écrire ça, s'il vous plaît?|Вы не могли бы это написать?
+ouvert|Открыто
+fermé|Закрыто
+tirez|К себе (тяните - надпись на двери)
+poussez|От себя (толкайте - надпись на двери)
+Pouvez-vouz m'aider?|Можете мне помочь?
+Regardez!|Посмотрите!
+Montrez-moi!|Покажите мне.

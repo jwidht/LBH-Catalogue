@@ -1,0 +1,5 @@
+Как добавить тему|how2add-ru.html
+Основные фразы(Phrases de base)|basic1.psv.txt
+Знакомство (Connaissance)|intro.psv.txt
+В городе (dans la ville)|city.psv.txt
+Popova-Kazakova 01|popova-kazakova.psv.txt

@@ -1,0 +1,37 @@
+quiz.properties|name=В городе (dans la ville)~~q_lang=fr-FR~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40~~skipaudiomode=3
+Où est la poste, s'il vous plaît?|Где находится почтовое отделение?
+Où y a-t-il un café internet, s'il vous plaît?|Где находится интернет-кафе?
+Où est la banque, (la plus proche,) s'il vous plaît?|Где находится ближайший банк?
+Où est le distributeur, le plus proche, s'il vous plaît?|Где находится ближайший банкомат?
+Où y a-t-il un téléphone, s'il vous plaît?|Где телефон?
+Excusez-moi, je me suis perdu.|Извините, я заблудился.
+Comment s’appelle cette place?|Как называется эта площадь?
+Comment s’appelle cette rue?|Как называется эта улица?
+Comment fait-on pour aller à la pharmacie?|Как пройти (проехать) к аптеке?
+Comment fait-on pour aller à l’hôpital?|Как пройти (проехать) к больнице?
+Comment fait-on pour aller à l’hôtel?|Как пройти (проехать) к гостинице?
+Comment fait-on pour aller au marché?|Как пройти (проехать) к рынку?
+Comment fait-on pour aller au theater?|Как пройти (проехать) к театру?
+Comment fait-on pour aller à l’université?|Как пройти (проехать) к университету?
+Tout droit.|Прямо вперед.
+Tournez à droite.|Поверните направо.
+Tournez à gauche.|Поверните налево.
+Au coin.|На углу.
+Après le feu.|За светофором.
+Devant le musée.|Перед музеем.
+Derrière l'église.|Позади церкви.
+En face de l'hôtel.|Перед отелем.
+Entrée|Вход.
+Sortie.|Выход.
+Où est la gare, s'il vous plaît?|Где находится вокзал?
+Où est la station de métro la plus proche?|Где находится ближайшая станция метро?
+Où est la bouche du métro?|Где вход в метро?
+Où est l’arrêt de bus?|Где остановка автобуса?
+Comment s’appelle cet arrêt?|Как называется эта остановка?
+A quel arrêt faut-il descendre?|На какой остановке надо выходить?
+Où est-ce que je peux trouver un taxi?|Где можно взять такси?
+Vous êtes libre?|Свободно?
+La rue Molière, s’il vous plaît.|Пожалуйста, мне на улицу Мольера.
+Arrêtez-vous ici.|Остановитесь здесь.
+Attendez-moi, s’il vous plaît.|Подождите меня, пожалуйста.
+Combien je vous dois?|Сколько я Вам должен?
