@@ -1,0 +1,612 @@
+quiz.properties|name=Toefl 3800 Rank 3~~q_lang=en-US~~a_lang=ja-JP~~fontsize_q=40~~fontsize_a=25
+levy|徴収する；賦課する
+menace|脅迫；脅し；危険なもの；やっかいなもの
+touchy|厄介な；敏感な
+startle|驚かせる
+overtime|時間外労働
+haphazard|でたらめの；無計画の；偶然の
+apprehend|懸念する、恐れる； 理解する
+methodical|背影善と下；順序だった
+proximity|近接
+per capita|一人あたりの
+peril|危険
+awe|畏敬；畏怖
+obituary|死亡記事
+stagnant|淀んだ；不活発な
+divergent|異なる；分岐する
+obsess|悩ます；～の思いに取りつかれる
+disposal|配置：処分；処理；売却；廃棄
+tangle|紛糾させる
+eradicate|根絶する；億滅する
+disdain|軽蔑する；見下す
+reminiscence|共同して働く
+pacifist|平和主義者；不戦主義者
+oust|(権利などを)取り上げる；追放する
+constituency|有権者
+curator|(図書館、美術館などの)館長、主任
+bewilder|当惑させる
+obsolete|古くなった、陳腐化した
+dough|パン生地
+fleet|艦隊；入江
+inscribe|(文字などを)刻む、記す
+rebut|反論する
+ignite|点火する
+furor|熱狂；激怒；逆上
+condone|許す；大目に見る
+remit|送金する
+personable|感じのよい；容姿端麗な
+contingency|偶然性；臨時出費；不測の事態
+eulogy|賛辞；賞賛
+quota|割り当て
+lofty|崇高な；高慢な；非常に高い
+retiring|内気な；引っ込み思案な；隠居する
+foreshadow|～の前兆となる
+deplore|非難する；遺憾に思う
+tantalize|じらす
+gauze|ガーゼ
+succinct|簡潔な；ずばりの
+mandate|命令；権限
+legacy|遺産
+compound|複合；合成
+pragmatic|実践的な
+bracket|階層区分
+plaintiff|原告；起訴人
+submerge|水に浸す；潜水する
+shed|小屋
+solemn|荘厳な
+deplete|(資源などを)消耗する；使い果たす
+revenue|収入；歳入
+stray|それる；脱線する
+relic|遺跡；遺品
+contagious|感染性の；映りやすい
+stoop|かがむ；墜落する
+tariff|関税；運賃
+elusive|理解しにくい；とらえにくい；逃げる
+tame|調教する
+languish|しぼむ；切望する；辛い思いをする
+attest|証明する；立証する；証拠となる
+cardinal|主要な；基本的な
+deputy|代理人
+humility|謙遜；卑下
+stoke|(炉などに)燃料をくべる；火を焚く；たらふく食べる
+standpoint|見地
+ponder|熟考する
+gnaw|かじる
+verdict|評決
+peacock|くじゃく
+denounce|非難する
+acme|極致；絶頂
+repent|後悔する
+perplex|当惑させる；困らせる
+surcharge|追加料金
+purge|取り除く
+authoritarian|権威主義の
+installment|分割支払い金
+bash|たたく
+virtue|徳；善行；長所
+tract|土地；地域；(海・山などの)広がり
+exploit|活用する；開発する；(鉱山を)掘る
+degrade|(格や品位を)落とす；(面目を)失わせる
+nomad|遊牧民；放浪者
+unprecedented|先例のない；無比な
+diminution|縮小、減少
+Temperate Zone|温帯
+evasion|回避；脱税
+concede|認める；許す；譲歩する
+leverage|てこの作用；レバレッジ
+shoddy|粗雑な；安物の
+aftereffect|余波；副作用
+allocate|割り当てる；分配する
+resonant|朗々とした；鳴り響く；反響する
+hail|雹、あられ
+impair|損なう；減じる
+philanthropist|博愛主義者
+embark|乗り出す；乗船する
+mammoth|マンモス
+irrelevant|無関係の；見当違いの；的外れの
+outlook|外観；眺望
+invert|転化する；逆にする
+imaginary|想像上の
+frigid|極寒の；寒さの厳しい
+maxim|格言；処世訓
+defiance|挑戦
+thrifty|つましい；倹約な
+interim|中間；合間
+precalent|普及している
+reactor|原子炉
+refute|誤りであることを証明する；論破する
+hurl|投げつける
+jolt|(急激に)揺さぶる
+equity|公平；公正
+inception|(活動・組織などの)開始；発端
+deference|服従；敬意
+oath|誓い
+eggplant|ナス
+doom|運命づける
+wrath|激怒
+outgoing|社交的な；外向性の
+extol|ほめそやす；激賞する
+vow|誓う
+conceit|うぬぼれ；思いつき
+Brussels sprouts|(複数扱いで)芽キャベツ
+stake|くい、棒；利害
+staple|主要な
+dubious|いかがわしい；怪しげな
+smash|粉砕する；衝突する
+shred|一片；断片
+nuisance|害；有害物
+ardent|熱心な
+conviction|確信；有罪判決
+capricious|気まぐれな；不規則な
+luminary|天体；先覚者；指導者
+outset|着手；発端
+authenticate|本物であることを証明する
+finite|限定されている；有限の
+optician|眼鏡商；検眼士
+astronomical|(数量などが)膨大な；天文学の
+lace|(靴などの)ひも レース
+hoist|釣り上げる
+subordinate|部下
+concur|意見が一致する 同時に起こる
+desperate|必死の 自暴自棄の
+expedite|はかどらせる 促進する
+render|与える；報いる
+rectify|改正する；直す
+bean sprouts|(複数扱いで)もやし
+cabin|小屋、キャビン
+potent|力強い；有力な
+concession|譲歩
+coherent|首尾一貫した
+allotment|割当；配当
+seclusion|隔離；孤立；ひきこもること
+glossary|用語解説；用語辞典
+scrape|こすり取る；磨く；削る
+soothe|和らげる；なだめる
+sprinkle|(水を)まく
+devoid|～を欠いている
+rally|集会；ラリー
+be clad with|～で覆われている
+invoke|呼び覚ます；祈願する 嘆願する (法律などに)訴える
+oblivion|忘却；人事不省
+appraise|鑑定する；評価する；判断する
+amiable|愛想のよい；好意的な
+despise|鉱物学
+thorn|(バラなどの)とげ
+itinerary|旅行日程
+reclaimed land|埋めたて地；開墾地
+dissent|異議を唱える
+consolidate|合併する
+extort|強要する；無理強いする
+inflame|燃え上がらせる
+segregation|隔離；差別すること
+founder|(事業・計画などが)失敗する；つぶれる
+sober|しらふの 地味な
+ingrate|恩知らず
+discerning|明敏な；洞察力のある
+abstain|慎む
+saturate|すっかりぬらす 満たす
+perish|死ぬ；滅びる
+arbitrary|独断的な；きままな
+somber|薄暗い、陰気な
+conspicuous|目立つ；派手な
+strain|引っ張る； 引き締める
+momentum|運動領 はずみ
+centrist|中道主義者 中道派議員
+tempt|誘惑する；そそのかす
+preside|司会する 統括する
+bolster|高める；支持する
+comply|従う
+precede|～に先立つ
+proliferation|激増；拡散
+consecutive|引き続く；連続的な
+plenitude|十分；豊富
+insane|正気な；狂気の
+petty|ささいな、小規模な 価値の少ない、取るに足らない
+hearth|(暖炉の)炉
+exert|努力する 用いる 発揮する
+swamp|沼地
+jurisdiction|(司法などの)管轄権
+ethnology|民俗学
+frugal|質素な；倹約する
+erratic|不規則な
+afflication|苦痛；災難
+setback|妨げ；逆転；後退
+enmity|敵意；憎しみ
+endorse|裏書きする；支持する
+frown|眉をひそめる
+tidal wave|高潮
+fiscal|財政の；会計の
+weather|動：風化させる；風化にさらす
+unfold|開く；広げる
+testimony|証明；証言
+decay|衰える、減衰する
+relevancy|関連；適合性
+unearth|(事実・証拠などを)明るみに出す 発掘する、掘りに出す
+placid|穏やかな
+disperse|分散させる
+compulsion|強制
+liaison|連絡；リエゾン
+seismology|地震学
+premise|前提；家屋敷
+underpin|実証する；補強する
+timid|臆病な
+ordinance|法令；布告
+avarice|貪欲；強欲
+tractable|従順な、扱いやすい 細工しやすい
+renounce|(権利を)放棄する；絶交する
+fierce|激しい
+zealot|熱狂する人 狂信者
+ordeal|試練
+infringe|権利を侵害する
+contempt|さげずみ、侮辱 恥辱；不面目
+innate|生来の、先天的な
+armored|武装した
+catalyst|触媒
+arid|乾燥した、不毛の (話などが)つまらない
+ascendancy|優位、支配
+illusive|錯覚を起させる、幻想的な
+solicit|勧誘する；懇願する；熱心に説く
+allure|魅惑する；誘い込む
+stipulate|明記する、規定する；要求する
+kindle|点火する、燃やす
+herring|ニシン
+vigor|精力、活力 迫力
+be reduced to rubble|がれきとなる
+monetary|通貨の、金融上の、金銭の
+detached|公平な、独立した
+coincide|一致する
+proposition|提案；命題
+freight|貨物(輸送)；船荷；運賃
+submissive|従順な
+credulity|すぐに信じ込む性質
+evergreen|常緑の
+affirmative|賛成の；積極的な
+temperate|穏やかな、節度のある
+come across|見つける
+inventory|在庫、棚卸
+culminate|頂点に達する
+exquisite|この上なく素晴らしい、洗練された
+illusory|幻想的な；架空の
+momentous|重大な、重要な
+meddle|干渉する；手出しをする
+practicable|実行可能な；実際的な
+subsistence|生存；生計
+veto|拒否権
+abide|(規則を)守る
+meteor|流星
+compromise|妥協する
+woe|痺痛、苦悩； 災難
+ardor|熱心、熱意
+snail|かたつむり のろま
+reclaim|開墾する； 矯正する
+paddy field|(稲の)水田
+credentials|信任状
+elated|大得意の
+grim|残忍な 険しい
+utmost|最大限の
+inundate|殺到する 水浸しにする、洪水になる
+glimpse|ちらりと見えること
+predecessor|前任者
+scorch|(皮膚などを)焼く、焦がす
+embezzle|横領する、使い込む
+provincial|粗野な 州の 地方の
+savant|大学者 博学な人
+infer|推測する 暗示する
+sprain|ねんざ
+dine|食事する
+scrutinize|吟味する
+condolence|哀悼、悔やみ
+Frigid Zone|寒帯
+archipelago|諸島
+corrupt|腐敗した
+incompatible|ウマが合わない 両立しない
+indispensable|不可欠の
+seep|(水などが)漏れる
+rubble|がれき
+stern|厳格な
+benevolent|慈悲深い
+industrious|勤勉な
+detergent|洗剤
+growl|がみがみ言う (犬などが)吠える
+volatile|不安定な 揮発性の
+proprietor|所有者 地主
+hypocrisy|偽善
+barren|不毛な
+solitary|孤独な
+raid|急襲； ガサ入れ
+incontrovertible|明白な
+candor|素直さ 誠実さ 公平
+illiterate|読み書きのできない
+levity|軽率
+forbearance|差し控えること； 忍耐； 寛容
+strive|戦う 努力する
+arduously|骨を折って
+placate|なだめる
+perch|止まり木
+dismal|陰気な
+shudder|(恐怖などで)震える
+visionary|非現実的な
+hectic|興奮した てんやわんやの
+sporadic|時々起る
+admonish|忠告する
+convene|召集する
+faction|党派
+feudal|封建的な
+impetus|起動力
+speculate|推測する；投機する
+bold|向う見ずな
+articulate|はっきり述べる
+outright|完全に
+satirical|皮肉な
+throne|(王位の)玉座
+discount|動：あまり信用しない 割引する；価値を減ずる
+formidable|恐るべき
+gale|疾風
+futile|無駄な
+eclectic|折衷的な
+insolent|傲慢な
+redundant|余分な
+fervor|熱情
+insolvent|破産した
+captivity|監禁状態
+wholesale|卸売
+afflict|悩ます
+detain|引き留める
+remorse|罪悪感 深い悔恨
+addictive|(食品などの)添加物
+postscript|追伸
+restless|不安な
+reckless|無謀な
+boxwood|ツゲの木
+larva|幼虫
+prodigal|浪費する 散財する
+intrude|侵入する
+defendant|被告
+offshore|海外の 沖の
+stockpile|備蓄する
+boost|(値を)引き上げる
+ail|患う； 苦しめる
+haunt|たびたび訪れる；(幽霊などが)出現する
+thesis|論文；論旨
+curtail|削減する；短縮する
+blatant|ずうずうしい
+adversary|敵対者
+erode|腐食する
+agenda|議事
+groan|うめき声をあげる、苦悶する
+antipathy|嫌悪；反感
+infallible|決して誤らない 信頼のおける
+mend|補修する
+coffin|棺
+foe|敵
+hamper|邪魔する
+ranch|牧場
+provoke|怒らせる；起こさせる
+smuggle|密輸する
+conclusive|決定的な 最終的な
+depict|描写する
+limestone|石灰岩
+censor|検閲する
+rugged|困難な；でこぼこな 険しい
+negligence|怠慢 化湿
+didactic|説教的な
+beet|てんさい サトウダイコン
+credence|信用
+anonymity|匿名
+tedious|退屈な
+sprout|芽
+devastate|荒廃させる
+inert|不活性の
+indulge|甘やかす
+dismiss|解雇する 去らせる
+aggression|侵害
+precipitate|引き起こす 雨になる
+lucrative|利益の上がる
+marital|夫婦間の
+upright|まっすぐに
+cumbersome|(重くて)持ちにくい 厄介な
+savory|食欲をそそる
+uneasy|不安な
+rhetoric|修辞学
+sanction|許可、賛成 (複数形で)制裁
+contend|戦う； 主張する
+impede|妨げる
+erupt|噴火する
+foster|養育する
+propriety|礼儀正しさ 作法 適当さ
+offset|相殺する
+incisive|明敏な
+ascribe|(原因を)～のせいにする
+onlooker|傍観者
+oppressin|圧迫
+insensitive|無関心な ～を感じない
+mirage|蜃気楼
+obstinate|頑固な
+irreparable|(損害などが)修復できない
+forgo|～なしで済ませる
+gloomy|憂鬱な
+mystical|神秘的象徴の
+legislation|立法
+polar bear|ホッキョクグマ
+counterfeit|偽造の
+estuary|河口
+opportunist|日和見主義者
+myriad|無数
+dune|(海岸の低い)砂丘
+dissolution|消滅 分界 溶解 解散
+concord|一致
+overturn|ひっくり返す
+suffocate|窒息させる
+archives|公文書 記録 記録保管所
+buoy|(景気などを)浮揚させる
+attorney|代理人
+clumsy|不器用な
+jeopardy|危険
+crater|噴火口
+retract|取り消す ひっこめる
+coercion|強制力 抑圧
+apprehension|懸念 理解力
+brooch|ブローチ
+coach|コーチ 公式馬車 長距離バス(英国)
+idiosyncrasy|特異性
+primate|霊長類
+ominous|不吉な
+disrupt|混乱させる
+discriminating|識別力のある 特異な 差別的な
+mitigate|和らげる
+censure|非難、不信任
+standstill|停止
+lucid|わかりやすい 透明な
+decree|法令 布告
+deliberate|故意の 慎重な
+validate|確認する 法的に有効にする
+intervene|仲裁をする
+confine|制限する 閉じ込める
+cursory|大まかな ぞんざいな せっかちの
+expertise|専門家の意見
+cascade|滝
+amity|友好
+stroll|ぶらつく
+partisan|熱心な支持者
+poultry|家禽
+crack down|取り締まる
+constraint|強制 制限
+brochure|小冊子
+reconcile|調停する
+cactus|サボテン
+crack down|取り締まる
+constraint|強制 制限
+brochure|小冊子
+reconcile|調停する
+cactus|サボテン
+ratify|批准する
+realm|王国 (学問の)領域
+elapse|(時が)経過する
+crimson|深紅色
+ratify|批准する
+transitory|はかない
+realm|王国 (学問の)領域
+elapse|(時が)経過する
+crimson|深紅色
+transitory|はかない
+profusion|豊富
+pervasive|充満する
+havoc|大混乱
+appease|なだめる 譲歩する 満たす
+sulfur|硫黄
+aberration|異常 常軌を逸すること
+magnificent|壮大な
+invoice|送り状
+grope|手さぐりする
+literacy|読み書き能力
+amicable|友好的な
+subsidiary|副次的な
+book excerpt|本の抜粋
+expel|放出する (学校や国から)放逐される
+remedy|治療
+sophistication|洗練された考え
+besiege|包囲する
+reptile|爬虫類
+preclude|排除する 妨げる
+recede|後退する　
+prevail|一般的に行きわたる
+surpass|勝る
+outnumber|数で勝る
+yield|生む； 屈服する； 譲渡する
+incite|鼓舞する
+dispatch|発送する
+meager|貧弱な
+loquacious|おしゃべりの
+hay|干し草
+endangered species|絶滅危惧種
+vent|通気孔
+siege|包囲
+incur|(負債などを)被る
+thrive|(植物などが)丈夫に育つ 繁栄する
+judicious|思慮深い
+requisite|必要な
+liquidate|(会社などを)清算する
+chuckle|くすくす笑う
+dew|露
+ambivalence|相反する感情
+aquifer|帯水層
+rudimentary|基本的な
+arsenal|兵器庫
+mob|暴徒；群集
+integrate|統合する
+notoriety|悪評
+orbit|軌道
+upheaval|動乱
+dividend|配当
+ambush|待ち伏せする
+skeptic|懐疑論者
+aloft|高く
+tacit|無言の
+acclaim|賞賛する
+elaborate|念入りに作る
+procession|行列
+pathetic|物悲しい 涙を誘う 感動的な
+whisker|(複数形で)ほおひげ
+coniferous tree|針葉樹
+aloof|～から離れて
+tow|牽引する
+extravagant|穏やかな
+console|慰める
+averse|～を嫌って； ～に反対で
+alleviate|和らげる 緩和する
+tangible|有形の
+ingenious|才能のある 精巧な
+meticulous|綿密な
+dissident|意見を異にする人
+autonomous|自治権のある
+subsidize|補助金を支給する
+heredity|遺伝； 世襲； 伝統
+sewer|下水
+commemorate|記念する
+composure|落ち着き 平静
+practitioner|実務家； 弁護士； 開業医； 療法士
+exemplify|例証する
+dump|廃棄する
+wither|衰退する
+periphery|周辺部
+hinder|妨害する
+landfill|埋立地
+finesse|巧妙な処理； 技巧 策略
+legitimate|合法の
+crude|粗雑な； 生の 未完成の；
+prescribe|指図する 処方する
+plead|弁護する
+supplementary|追加的な
+austere|厳しい； 簡素な
+mediate|調停する
+tan|日焼けした色
+wharf|埠頭
+shrewd|賢い
+inertia|慣性 惰性
+mutter|つぶやく
+liner|(大型の)定期船
+creditor|債権者
+profusely|深く； 豊富に
+abbreviate|省略する
+trait|特徴
+defame|中傷する
+nocturnal|夜の 夜行性の
+diurnal|昼間活動する
+kerosene|灯油
+monarchy|君主政治
+vogue|流行
+strife|争い
+hefty|大量の
+nullify|無効にする
+divert|そらす
+enigma|謎
+spur|刺激する
+affiliate|提携する
+accompaniment|伴奏；附属物
+congregate|集まる
+mud|泥
+heed|注意を払う
+bearish|弱気の； 乱暴な
+avalanche|雪崩
+perpetual|永続的な
+alloy|合金
