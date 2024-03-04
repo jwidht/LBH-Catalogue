@@ -1,0 +1,38 @@
+quiz.properties|name=Emotions~~q_lang=th-TH~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+กระวนกระวายใจ |frustrated; frantic; agitated; worried; restless; anxious; impatient; perturbed
+กลุ้มใจ|[is] depressed; sad; worried
+กังวล |[is] causing anxiety; anxious; worried; distressed; concerning
+กังวลใจ |[is] anxious; uneasy; worried
+บ้ากาม|sex-crazed; lustful
+ขวัญอ่อน|faint-hearted
+ขำ |[is] amused or amusing
+เขย่าขวัญ|[is] shocking; horrifying
+คบง่าย|(of human relationship) easy to be with
+ความน่ากลัว|horror
+ความน่าเกลียดน่ากลัว|monstrosity, ugliness that can cause horror and fear
+ความน่าสะพรึงกลัว|horror
+ใจบาน|[is] delighted; exultant; overjoyed
+ซาบซึ้ง|to appreciate; to be deeply impressed; to be very impressive; to appeal
+ดูแลตัวเองและสุขภาพของคุณดี ด้วยนะครับ|"Please take good care of yourself and your health."
+ตกใจ |[is] startled; shocked; scared; frightened
+ท้อ |[is] discouraged; disheartened; sad
+เธอเป็นคนชอบรักแรกพบซะด้วยมีสิทธิ์อกหักเอาง่าย ๆ นะ|"And you're someone who's into love at first sight — you might easily get your heart broken."
+ไปไกล ๆ|"Go away; piss off; leave me alone!"
+ผมจะคิดถึงคุณอย่างแน่นอน เมื่อคุณกลับไปที่กรุงเทพฯแล้ว|"I will definitely miss you when you go back Bangkok."
+ผมรู้สึกประทับใจที่ได้รับการต้อนรับอย่างอบอุ่น|"I am very touched to have been welcomed so warmly."
+ผมหวังว่าคุณจะเป็นแฟนผมจริง ๆ|"I wish you were my girlfriend."
+ผมอยากให้คุณมีความสุข|"I want you to be happy."
+ผูกใจรัก|Bound in Mind; Bound in Heart; Bound in Soul
+ฝนหยุดตกแล้ว ก็ออกไปเที่ยวกันเถอะ|"It's stopped raining; let's go out somewhere."
+พอใจ |[is] content; contented; satisfied; pleased; happy
+โมโห |[is] angry; furious; enraged; bad tempered
+ยุ่งอะไรอีกละเนี่ย|"What is it now?" "Why are you bothering me again?"
+เศร้ากำสรด|[is] downhearted; saddened
+เศร้าใจ |[is] sad
+สยดสยองพองขน|frightening; hair-raising; bloodcurdling; horrifying; scary; shocking; spine-chilling; terrifying
+หัวร่อ|[a variation of หัวเราะ] to laugh
+หัวเราะ|to laugh
+เห่อของใหม่|to be elated or too proud with new items one has received or possessed
+อาการหึงเป็นการบอกได้อีกอย่างหนึ่งว่า กูรักมึง นะเว้ย|"Feeling jealous is just another way of saying 'I love you'."
+อึดอัด |[is] anxious; uncomfortable; uneasy
+หึง |[is] jealous

@@ -1,0 +1,43 @@
+quiz.properties|name=Navigation~~q_lang=th-TH~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+ใกล้เคียง|[is] adjoining; near; local; neighborhood; approximate
+ขวา |right direction (opposite of left); right side
+การขับรถ|[activity] driving a car
+ข้างบน|above; upstairs; on the upper side
+ข้างหน้า|ahead; forward; in front of
+คุณอยู่ที่ไหน|"Where are you?"
+ขับช้า ๆ|[to a driver] "Drive slowly."
+จอดที่นี่|[e.g. to a taxi driver] "Stop here."
+ที่หยุดรถโดยสารประจำทาง|bus stop
+ไปวัดพระแก้วเท่าไหร่|"How much to Wat Pra Kaew?"
+ซ้าย |left direction (opposite of right)
+ตรงไป|straight ahead; go forward
+ติดกับ|adjacent; beside; against; next (to)
+ถนน |road; boulevard; avenue; street
+ถนนหลัก|[common name for the main street of a town or city] Main street
+ทางขวา|on the right side; starboard side (of a ship)
+ทางซ้าย|on the left side; port side (of a ship)
+ทางนั้น|towards that way; in that direction
+ทางไป|directions; way to go
+ทางสายรอง|secondary road
+ทางหลวง|highway
+ท่านผู้โดยสารโปรดทราบ...|Attention, all passengers!
+แผนที่|map
+ไฟเขียวไฟแดง|traffic light; stop light
+ไฟจราจร|traffic light; stop light
+ไฟแดง|red traffic light; red traffic signal
+ไฟสัญญาณจราจร|traffic lights
+มุมถนน|street corner
+แยก |intersection
+รถชน|crash; collision
+รถเช่า|rental car
+รถเช่าขับเอง|self-drive rental car
+รถติด|traffic jam
+สะพาน  |bridge; pier
+สังเกต|to notice; to observe; to perceive; to recconoiter; to make a note of
+สี่แยก|four-way intersection; crossroads
+ราวกันตก|guardrail (on a highway or motorway, e.g.); railing on a balcony
+ทางโค้งหักศอก|sharp curve (in the road)
+ขนส่งมวลชน|mass transport; public transportation
+ทักษิณาวรรต|clockwise
+อุตราวรรต|counterclockwise; anti-clockwise
+ราวกั้นตก|guard rail (on the highway)
