@@ -1,0 +1,201 @@
+quiz.properties|name=Топ 200~~q_lang=de-DE~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+das Leben|жизнь
+lesen|читать
+machen|делать
+denken|думать
+reisen|путешествовать
+spielen|играть
+warten|ждать, дожидаться
+werden|становиться, делаться
+wohnen|жить, обитать; проживать
+das Alter|возраст
+wollen|хотеть
+die Eltern|родители
+die Familie|семья
+die Frau|женщина, жена
+das Kind|ребенок
+das Jahr|год
+der Tag|день
+der Monat|месяц
+ich|я
+die Welt|мир
+weiter|дальше
+alles|всё
+weit|далеко
+bald|скоро
+die Seite|сторона; страница
+durch|через, сквозь
+die Zahl|число
+alt|старый; пожилой; древний; старинный
+die Arbeit|труд, работа
+frei|свободный, независимый
+immer|всегда
+klein|маленький, малый, небольшой
+du|ты
+neu|новый; недавний
+verheiratet|женатый; замужняя
+verwitwet|овдовевший
+da|тут; там; здесь
+erst|сперва; только
+etwa|около, приблизительно; разве
+etwas|нечто; что-нибудь; немного
+hier|здесь, тут; вот
+jetzt|теперь, сейчас
+leider|к сожалению
+noch|(пока) ещё; по-прежнему; всё ещё
+kein|никакой
+schon|уже
+übrigens|впрочем, вообще
+aber|но
+aus|из
+das (es)|это
+dein|твой (твоя, твоё, твои)
+von|от
+was|что?
+wer|кто?
+wie|как?
+wieviel|сколько?
+ach so!|вот как!, значит так!, ах так!
+auf Wiedersehen!|до свидания!
+schön|красивый, прекрасный
+stehen|стоять
+der Abend|вечер
+zur Zeit|в настоящее время
+der Mann, die Männer|мужчина, супруг
+fest|крепкий, прочный, твердый
+nicht|не, ни
+der Lehrer|учитель; преподаватель; наставник
+und|и
+das Land, die Länder|страна; край
+auch|также, тоже; и; впрочем
+später|поздний; позднеe; после этого
+dort|там
+kaufen|купить; покупать
+verkaufen|продавать
+zusammen|вместе; сообща
+dann|тогда; потом, затем
+die Stunde|час
+möglich|возможный (возможно)
+die Liebe|любовь
+liegen|лежать; быть расположенным
+antworten|отвечать; давать ответ
+kommen|приходить, прибывать
+entschuldigen|извинять, прощать
+funktionieren|функционировать; действовать; работать
+kosten|стоить; пробовать
+sagen|сказать; говорить
+spülen|полоскать, промывать, мыть
+stimmen|соответствовать (истине); быть верным
+waschen|мыть; стирать; промывать
+wechseln|менять(ся); обменивать; разменивать
+die Antwort|ответ; отклик
+das Benzin,|бензин
+das Bett|постель; кровать
+das Bild|картина; рисунок
+der Fehler|ошибка
+heißen|называть, зваться
+das Geld|деньги
+das Geschäft|дело, занятие; сделка; магазин
+das Haus, die Häuser|дом, здание, строение
+der Haushalt|домашнее хозяйство
+der Herd|очаг, плита
+die Idee|идея; мысль; замысел; намерение
+können|мочь, уметь
+schnell|быстро
+sein|быть
+das Regal|полка; стеллаж
+anders|по другому
+in|в, внутри
+haben|иметь
+der Stuhl, die Stühle|стул
+der Tisch|стол
+der Topf, die Töpfe|горшок; кастрюля
+die Uhr|часы
+die Sonne|солнце
+gehen|идти, ходить; уходить
+die Zeit|время
+ähnlich|похожий; сходный; подобный
+sehen|смотреть, глядеть
+ehrlich|честный; порядочный
+kaputt|разбитый; сломанный; разорванный; погибший
+groß|большой, крупный
+lustig|весёлый; радостный; забавный, смешной
+originell|оригинальный, своеобразный; странный
+sehr|очень, весьма; крайне
+heute|сегодня
+viel|много; многие; многое
+oder|или
+sondern|а, но
+zu|к, на; в
+raus|наружу
+danke|спасибо
+bitte|пожалуйста
+die Lampe, -n|лампа
+trinken|пить
+essen|есть, кушать
+der Bleistift|карандаш
+ordnen|приводить в порядок; систематизировать
+der Beruf|профессия; специальность
+der Arzt, die Ärzte|врач; доктор
+der Baum, die Bäume|дерево
+nach|после
+auf|на (горизонтальной пов-ти)
+gegen|против; около
+als|как, когда
+das Auto|автомобиль
+er|он
+bestellen|заказывать
+bezahlen|платить; выплачивать; расплачиваться
+brauchen|нуждаться
+genau|точно, именно
+glauben|полагать, думать; верить
+kochen|варить, готовить (пищу); стряпать; кипятить
+mögen|любить; чувствовать расположение 
+über|над
+üben|упражняться
+das Abendessen|ужин
+die Anzeige|объявление; заявление, уведомление
+der Apfel, die Äpfel|яблоко
+müssen|быть должным
+das Brot|хлеб
+zwischen|между
+die Butter|масло (животное)
+unter|под
+das Ei, die Eier|яйцо
+das Eis|лёд; мороженое
+die Erdbeere|клубника, земляника
+die Flasche|бутылка; фляжка
+das Fleisch|мясо
+die Frage|вопрос
+selbst|сам
+das Frühstück|завтрак
+die Gabel|вилка
+die Zeitung|газета
+das Gemüse|овощи, зелень
+das Gericht|блюдо, кушанье; суд
+das Gespräch|разговор; беседа
+das Getränk|напиток; питьё
+das Gewürz|пряности; приправа
+das Glas, die Gläser|стекло; стакан; рюмка
+das Prozent|процент
+der Käse|сыр; творог
+der Kuchen| пирог; пирожное
+der Löffel|ложка
+mehr|больше
+das Messer|нож
+der Nachtisch|десерт
+das Öl|масло (растительное)
+der Pfeffer|перец
+die Blume|цветок
+der Preis|цена
+der Reis|рис
+der Saft, die Säfte|сок
+die Sahne|сливки
+der Schinken,|ветчина
+die Soße|соус, подливка
+langsam|медленно
+das Wasser|вода
+die Suppe|суп; похлёбка
+die Tasse|чашка (чайная)
+der Teller|тарелка
+die Tomate|помидор

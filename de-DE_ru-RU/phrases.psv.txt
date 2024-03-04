@@ -1,0 +1,132 @@
+quiz.properties|name=Фразы-1~~q_lang=de-DE~~a_lang=ru-RU~~fontsize_q=35~~fontsize_a=35
+Was machen Sie heute? Was machst du heute?|Чем Вы сегодня заняты? Чем ты сегодня занят?
+Haben Sie viel zu tun? Hast du viel zu tun?|Вы сильно заняты? Ты сильно занят?
+Heute bin ich beschäftigt.|Сегодня я занят (занята).
+Heute gehe ich zu Besuch.|Сегодня я иду в гости.
+Heute bin ich bereits eingeladen.|Сегодня я уже приглашен (приглашена).
+Kommen Sie mit? Kommst du mit?|Составите нам компанию? Пойдешь с нами?
+Gerne!|Охотно!
+Mit Vergnügen!|С удовольствием!
+Ich gehe gerne mit!|Охотно пойду с вами!
+Haben Sie heute Abend etwas vor? Hast du heute Abend etwas vor?|У Вас на сегодняшний вечер что-нибудь запланировано? У тебя есть планы на вечер?
+Darf ich Sie / dich ins Theater (ins Museum, ins Kino, zum Abendessen, in die Kneipe) einladen?|Позвольте пригласить Вас / тебя в театр (в музей, в кино, на ужин, в бар)!
+Das ist sehr nett!|Это очень мило!
+Ich freuemichschon darauf!|Очень рад (рада)!
+Wie bitte?|Простите (= повторите) пожалуйста?
+Sprechen Sie Deutsch (Spanisch, Englisch, Französisch, Russisch)?|Вы говорите по-немецки (по-испански, по-английски, по-французски, по-русски)?
+Ja, ich spreche (etwas) Spanisch (Englisch, Spanisch, Russisch, Französisch, Deutsch).|Да, я (немного) говорю по-испански (по-английски, по-русски, по-французски, по-немецки).
+Spricht jemand Englisch?|Кто-нибудь говорит по-английски?
+Verstehen Siemichgut? Verstehst dumichgut?|Вы хорошо меня понимаете? Ты хорошо меня понимаешь?
+Ich verstehe Sie / dich schlecht. Ich verstehe Sie / dich gut.|Я понимаю Вас / тебя плохо. Я понимаю Вас / тебя хорошо.
+Nein, ich verstehe dich / Sie nicht.|Нет, я не понимаю тебя / Вас.
+Ich verstehe (nicht) alles.|Я понимаю (не) все.
+Sprechen Sie bitte lauter (langsamer).|Говорите, пожалуйста, громче (медленнее).
+Wiederholen Sie bitte!|Повторите, пожалуйста!
+Wie heisst es auf Deutsch?|Как это называется по-немецки?
+Wir haben Ihnen / dir zu danken.|Спасибо Вам / спасибо тебе.
+Nichts zu danken!|Не за что! Не стоит благодарности!
+Seien Sie so nett…|Будьте любезны…
+Seien Sie so gut…|Будьте добры…
+Verzeihung… Verzeihen Sie…|Простите…
+Entschuldigung… Entschuldigen Sie…|Извините…
+Gestatten Sie…|Позвольте…
+Darf ich (Sie) fragen?|Можно (Вас) спросить?
+Sagen Sie bitte…|Скажите (подскажите), пожалуйста…
+Liebe Freunde!|Дорогие друзья!
+Meine Damen und Herren!|Дамы и господа!
+Meine  Herrschaften!|Господа!
+Junger Mann!|Молодой человек!
+Fräulein!|Девушка! (Женщина!)
+Verehrte (liebe) Kollegen!|Уважаемые (дорогие) коллеги!
+(Sehr geehrter) Herr Schulz!|Уважаемый господин Шульц!
+(Sehr geehrte) Frau Schulz!|Уважаемая госпожа Шульц!
+Liebe Barbara!|Дорогая Барбара!
+Herr Reibеl!|Господин Райбэль!
+Frau Reibеl!|Госпожа Райбэль!
+Kollege Hartmann!|Коллега Хартманн (мужчина)!
+Kollegin Hartmann!|Коллега Хартманн (женщина)!
+Ich heisse…|Меня зовут…
+Mein Vorname ist…|Мое имя…
+Mein Nachname (Familienname) ist…|Моя фамилия…
+Mein Vatersname ist…|Мое отчество…
+Wie heisst du? Wie heissen Sie?|Как тебя зовут? Как Вас зовут?
+Darf ichmichvorstellen?|Позвольте представиться!
+Freutmich!|Очень рад (рада)!
+Sehr angenehm!|Очень приятно!
+Ebenfalls!|Мне тоже (аналогично)!
+Moment mal!|Погодите!
+Darf ich vorstellen!|Разрешите представить!
+Darf ich dich mit Peter (Herrn Braun, Frau Braun) bekannt machen?|Можно познакомить тебя с Петером (господином Брауном, госпожой Браун)?
+Ich freuemich/ ich bin froh, dich / Sie kennenzulernen.|Рад познакомиться с тобой / с Вами.
+Kennen Sie sich?|Вы знакомы?
+Wir kennen uns.|Мы знакомы.
+Ich habe von dir / Ihnen gehört.|Я слышал (слышала) о тебе / о Вас.
+Dein / Ihr Gesicht kommt mir bekannt vor.|Твое / Ваше лицо мне кажется знакомым.
+Woher kommst du? Woher kommen Sie?|Откуда ты прибыл? Откуда Вы приехали?
+Ich komme ausBremen.|Я из Бремена.
+Ich bin geschäftlich (dienstlich) hier.|Я здесь по служебным делам (по долгу службы, в командировке).
+Ich bin auf Einladung hier.|Я здесь по приглашению.
+Ich bin privat hier.|Я здесь частным образом (моя поездка носит частный характер).
+Ich bin mit einer Reisegruppe (als Tourist) hier.|Я приехал с туристической группой (в качестве туриста).
+Ich bin zu Besuch hier.|Я здесь в гостях.
+Sind Sie zusammen? / Seid ihr zusammen?|Вы вместе? (вежливое обращение / обращение на «ты» к нескольким лицам)
+Was machen Sie heute? Was machst du heute?|Чем Вы сегодня заняты? Чем ты сегодня занят?
+Haben Sie viel zu tun? Hast du viel zu tun?|Вы сильно заняты? Ты сильно занят?
+Heute bin ich beschäftigt.|Сегодня я занят (занята).
+Heute gehe ich zu Besuch.|Сегодня я иду в гости.
+Heute bin ich bereits eingeladen.|Сегодня я уже приглашен (приглашена).
+Kommen Sie mit? Kommst du mit?|Составите нам компанию? Пойдешь с нами?
+Gerne!|Охотно!
+Mit Vergnügen!|С удовольствием!
+Ich gehe gerne mit!|Охотно пойду с вами!
+Haben Sie heute Abend etwas vor? Hast du heute Abend etwas vor?|У Вас на сегодняшний вечер что-нибудь запланировано? У тебя есть планы на вечер?
+Darf ich Sie / dich ins Theater (ins Museum, ins Kino, zum Abendessen, in die Kneipe) einladen?|Позвольте пригласить Вас / тебя в театр (в музей, в кино, на ужин, в бар)!
+Das ist sehr nett!|Это очень мило!
+Ich freuemichschon darauf!|Очень рад (рада)!
+Wie bitte?|Простите (= повторите) пожалуйста?
+Darf ich fragen?|Разрешите задать вопрос?
+Ich brauche Hilfe!|Мне нужна помощь!
+Können Sie mir helfen?  Kannst du mir helfen?|Вы можете мне помочь? Ты можешь мне помочь?
+Ich brauche ein Auto (ein Taxi, Flugtickets).|Мне нужна машина (такси, билеты на самолет).
+Darf ich durch?|Можно пройти?
+Darf ich rein?|Можно войти?
+Darf ich raus?|Можно выйти?
+Darf ich rauchen?|Можно закурить?
+Darf ich das mitnehmen?|Можно взять это с собой?
+Darf ich das haben?|Можно взять себе это?
+Holen Siemichbitte ab! Hol(e)michbitte ab!|Встретьте меня, пожалуйста! Встреть меня, пожалуйста!
+Bitte rufen Sie die Polizei!|Пожалуйста, вызовите полицию!
+Bitte rufen Sie den Arzt!|Пожалуйста, вызовите врача!
+Bitte rufen Sie ein Taxi!|Пожалуйста, вызовите такси!
+Was ist los?|Что случилось? Что произошло?
+Geben (zeigen) Sie mir bitte…|Дайте (покажите) мне, пожалуйста…
+Ich brauche…|Мне нужно (требуется)…
+Ich brauche Hilfe!|Мне нужна помощь!
+Könnten Sie mir bitte helfen?|Вы не могли бы помочь мне?
+Ich möchte Mineralwasser (Tee, Saft, Kaffee;essen, essen, schlafen, tanzen).|Мне хотелось бы минеральной воды (чая, сока, кофе; поесть, поспать, потанцевать).
+Einverstanden.|Согласен.
+Du hast Recht. Sie haben Recht.|Ты прав. Вы правы.
+Ich vertrete eine andere Meinung.|У меня другое мнение.
+Ich bin deiner (Ihrer Meinung).|Я придерживаюсь того же (такого же) мнения, что и ты (Вы).
+Diese Variante ist gut (besser).|Этот вариант хороший (лучше).
+Genau!|Именно! Точно!
+Ich habe nichts dagegen.|Ничего не имею против этого.
+Wahrscheinlich.|Возможно (вероятно).
+Im Gegenteil!|Напротив (наоборот)!
+Was meinst du? Was meinen Sie?|Что ты имеешь в виду? Что Вы имеете в виду?
+Das stimmt. Das stimmt nicht.|Это так. Это не так.
+Ich bin sicher.|Я уверен (уверена).
+Ich glaube dir. Ich glaube Ihnen.|Я тебе верю. Я верю Вам.
+Quatsch!|Чепуха (ерунда)!
+Gar nicht.|Вовсе нет.
+Super!|Супер! Отлично!
+Was soll es (das) bedeuten?|Что это должно означать?
+Keine Angst!|Не бойся! (Не бойтесь!)
+Das ist praktisch (unpraktisch).|Это практично (непрактично).
+Ich stimme dir / Ihnen zu.|Согласен (согласна) с тобой / с Вами.
+Schwer zu sagen.|Трудно (сложно) сказать.
+Natürlich!|Конечно!
+Selbstverständlich!|Само собой (разумеется)!
+Abgemacht!|Договорились!
+Das ist einfach.|Это просто.
+Hoffentlich. Ich hoffe.|Надеюсь.

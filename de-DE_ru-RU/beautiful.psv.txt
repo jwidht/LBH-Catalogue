@@ -1,0 +1,109 @@
+quiz.properties|name=Красивые слова и фразы~~q_lang=de-DE~~a_lang=ru-RU~~fontsize_q=40~~fontsize_a=40
+das Abenteuer|приключение, авантюра
+der Abenteurer|любитель/искатель приключений
+der Glücksritter|рыцарь удачи/фортуны, авантюрист
+die Abenteuerlust|жажда приключений и авантюр
+abertausend|много тысяч
+absahnen|снимать сливки (как с молока, так и в переносном значении)
+allerdings|тем не менее, всё же, при этом
+allerhand|всевозможный/всякий
+das ist allerhand!|Неслыханно! Вот это здорово/неплохо!
+der Alleskönner|мастер/умелец на все руки/ человек, который может всё.
+amüsieren|развлекать, веселить
+anhimmeln|быть без ума от../обожать
+atemberaubend|завораживающий, захватывающий
+der Augenblick|мгновениеausgezeichnet|превосходный/отличный
+ausgezeichnete Deutschkenntnisse|отличные знания немецкого языка
+ausgezeichnete Gesundheit|отличное здоровье
+das Bauchgefühl|интуиция
+bauchpinseln|делать комплимент
+die Begeisterung|вдохновление, воодушевление
+begeisterungsfähig|воодушевляющий/способный вдохновлять
+die Begeisterungsfähigkeit|способность вдохновляться и вдохновлять остальных
+beherzt|мужественный/смелый
+beileibe|во истину/действительно
+das ist beileibe nicht so!|это совсем/совершенно не так!
+bewundernswert|достойный восхищения
+bezaubernd|очаровательный/обворожительный
+bildschön|красивый (как с картинки)
+blitzsauber|аккуратненький, сверкающий чистотой
+blumig|расписанный/усеянный цветами/подобный цветку
+brandneu|супер новый
+der Budenzauber|шумная вечеринка
+das Daheim|домашний очаг
+der Doppelgänger|двойник
+die Engelsgeduld|ангельское терпение
+die Entspannung|отдых, релаксация
+der Erfahrungsschatz|богатство накопленного опыта
+erwartungsfroh|в радостном ожидании
+die Lieblingswörter|любимые слова
+die Liebe|любовь
+Ich liebe dich|я люблю тебя
+der Liebling|возлюбленный/ая, любимый/ая
+liebäugeln|кокетничать/заигрывать/любезничать
+die Vorfreude|предвкушение радости/радостного события
+in der Vorfreude auf (+Akk)|в радостном предвкушении чего-либо
+die Sehnsucht|страстное желание
+romantisch|романтичный
+der Feierabend|конец рабочего дня/недели
+die Freizeit|свободное время/время для хобби, любимых дел
+die Reise|путешествие
+der Geistesblitz|блестящая/остроумная идея, мысль
+das Schlaraffenland|утопия/страна, о которой можно только мечтать
+die Schönheit|красота
+schön|красивый, прелестный
+eine schöne Frau|красивая женщина
+glücklich|счастливый
+Sein glücklich|быть счастливым
+wir sind glücklich|мы счастливы.
+das Glück|счастье
+der Glückspilz|счастливчик, везунчик, чел-к, которому везет
+die Gemütlichkeit|уют, приветливость
+gemütlich|уютный/приятныйder Schatz|сокровище/богатство, милый\ая, дорогой\ая
+liebevoll = zart|ласковый/нежный/любящий
+der Freund / die Freundin|друг/подруга
+freundlich|дружественный/дружелюбный
+der Kuss|поцелуй
+die Küsse|поцелуи
+der Luftkuss|воздушный поцелуй
+leidenschaftlich|страстный, пылкий
+Lust|радость, охота что-либо делать, желание,
+lustig =fröhlich|веселый, радостный, забавный
+liebreich|ласковый, любвеобильный
+freudvoll = herzensfroh|веселый. радостный
+frisch|свеженький
+ehrlich|честный, порядочный, искренний
+herzenswarm|добрый/добросердечный
+herzlich|душевный, сердечный, искренний
+herzlich gern!|с огромным удовольствием
+das Schnuckelchen|лапочка
+fluffig|пушистый, мягкий, о выпечке: пышный
+das Labsal|услада, утеха
+liebkosen|(при)ласкать
+der Schmetterling|бабочка
+die Sonne|солнце, очаровашка
+der Sonnenschein|солнечный свет, солнышко
+sonnig|солнечный
+der Sommer|лето
+der Frühling|весна
+glimpflich|благополучный
+die Hüpfburg|батут
+das Stelldichein|свидание (с возлюбленным)
+pillepalle|очень легкий и простой
+klitzeklein|крохотный
+todschick|очень шикарный
+die Sei­fen­bla­se|мыльный пузырь
+hübsch|красивый, миловидный, симпатичный
+hübsche Frau|симпатичная женщина
+süß|сладкий, сладенький
+toll!|замечательно! классно!
+lecker|вкусненький, ням-ням
+das Leckerchen|вкусняшка, лакомство
+naschen|лакомиться
+die Naschkatze|лакомка, сластена
+das Wunderding|диковинка
+das Wunder|чудо
+auf wundersame Weise|чудесным образом
+die Mirabilien|чудеса
+wunderbar|чудесный, удивительный
+wunderschön|чудесный, дивный, восхитительный
