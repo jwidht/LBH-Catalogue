@@ -12,4 +12,5 @@ ML_NLP|ML_NLP.psv.txt
 ML_pytorch|ML_pytorch.psv.txt
 React|React.psv.txt
 Python|python.psv.txt
+Python 2|python2.psv.txt
 RabbitMQ|RabbitMQ.psv.txt
