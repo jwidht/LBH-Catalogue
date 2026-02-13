@@ -14,3 +14,4 @@ React|React.psv.txt
 Python|python.psv.txt
 Python 2|python2.psv.txt
 RabbitMQ|RabbitMQ.psv.txt
+Redis-Python|redis-python.psv.txt
