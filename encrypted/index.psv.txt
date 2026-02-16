@@ -13,5 +13,6 @@ ML_pytorch|ML_pytorch.psv.txt
 React|React.psv.txt
 Python|python.psv.txt
 Python 2|python2.psv.txt
+Python Generics|Python3-generics.psv.txt
 RabbitMQ|RabbitMQ.psv.txt
 Redis-Python|redis-python.psv.txt
