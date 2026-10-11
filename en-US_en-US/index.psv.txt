@@ -9,3 +9,4 @@ How to use LBH|lbh.psv.txt
 Unity 3d|unity3d.psv.txt
 Popular Supplements|popularsupplements.psv.txt
 Supplements|supplements.psv.txt
+Codex / Commands|codex_slash_commands.psv.txt

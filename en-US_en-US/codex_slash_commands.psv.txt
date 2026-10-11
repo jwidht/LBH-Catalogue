@@ -1,0 +1,16 @@
+/help|Show available commands and help~~~~Use this first; commands can vary by Codex version
+/model|Choose the model and reasoning settings~~~~/model
+/status|Show session configuration and usage information~~~~/status
+/permissions|Adjust what Codex may do without asking~~~~/permissions (if supported by your version)
+/approvals|Adjust approval settings in versions that support this command~~~~/approvals (if supported)
+/review|Review code changes for potential problems~~~~/review
+/diff|Show changes made in the working directory~~~~/diff
+/compact|Summarize conversation context to save space~~~~/compact
+/new|Start a new conversation~~~~/new
+/resume|Resume a previous session~~~~/resume (availability varies by version)
+/fork|Branch the current conversation into a new session~~~~/fork (if supported)
+/mention|Add a file to the conversation context~~~~/mention path/to/file (if supported)
+/init|Create an AGENTS.md instruction file for the project~~~~/init
+/logout|Sign out of Codex~~~~/logout
+/quit|Exit Codex CLI~~~~/quit (or /exit)
+/feedback|Send feedback or report an issue~~~~/feedback
