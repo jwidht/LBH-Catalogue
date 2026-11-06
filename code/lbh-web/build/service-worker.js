@@ -1,7 +1,7 @@
 /* global self, caches */
 // The production build replaces this token with the asset manifest fingerprint.
 const CACHE_PREFIX = `lbh-web-shell:${self.registration.scope}:`;
-const CACHE_NAME = `${CACHE_PREFIX}b8201d8e4d805cb1`;
+const CACHE_NAME = `${CACHE_PREFIX}abfa7132f28dd422`;
 const appUrl = (path) => new URL(path, self.registration.scope).href;
 
 self.addEventListener("install", (event) => {
