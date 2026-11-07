@@ -2,11 +2,5 @@ How to add a topic|how2add-en.html
 Toefl, Set 1|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/toefl1.psv.txt
 Toefl, Set 2|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/toefl2.psv.txt
 Toefl, Set 3|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/toefl3.psv.txt
-Git Commands|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/git.psv.txt
-FIX Order Types|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/fixOrderTypes.psv.txt
 "Very" words|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/very.psv.txt
 How to use LBH|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/lbh.psv.txt
-Unity 3d|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/unity3d.psv.txt
-Popular Supplements|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/popularsupplements.psv.txt
-Supplements|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/supplements.psv.txt
-Codex / Commands|https://raw.githubusercontent.com/jwidht/en-US_en-US/master/codex_slash_commands.psv.txt
